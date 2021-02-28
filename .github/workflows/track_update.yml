@@ -5,8 +5,8 @@ name: Update tracks
 # Controls when the action will run. 
 on:
   schedule:
-    # Daily 01:00 UTC.
-    - cron:  '0 1 * * *'
+    # Daily 00:01 UTC
+    - cron:  '1 0 * * *'
 
   # Allows you to run this workflow manually from the Actions tab
   workflow_dispatch:
