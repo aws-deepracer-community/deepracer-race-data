@@ -38,7 +38,7 @@ jobs:
 
       - name: Update tracks
         run: |
-          pip install "git+https://github.com/aws-deepracer-community/deepracer-race-stats.git@data-collection" 
+          pip install "git+https://github.com/aws-deepracer-community/deepracer-race-stats.git" 
           drs track-update -o raw_data
           git config user.name github-actions
           git config user.email github-actions@github.com
