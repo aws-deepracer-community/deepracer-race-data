@@ -1,0 +1,2 @@
+Alias,SubmissionTime,LapCount,AvgLapTime,BestLapTime,TotalLapTime,AvgResets,CollisionCount,OffTrackCount,ResetCount,SubmissionCount,Rank,LeaderboardSubmissionStatusType,RankingScore
+PoChun-NCTU-CGI,1608048060000,5,120856,120856,120856,9.0,1,2,3,1,1,SUCCESS,120856
