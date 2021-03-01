@@ -1,6 +1,8 @@
 import pandas as pd
 from tabulate import tabulate
 from datetime import datetime
+import glob
+import os
 
 def generate_track_table(track_data):
     headers = ['Image', 'Name', 'Arn Name', 'Description']
@@ -38,11 +40,26 @@ Currently there are **{} tracks** available in the dataset.
 def generate_leaderboards_table(leaderboards_data):
     headers = ['Name', 'Data', 'Status', 'Launch Time (UTC)', 'Close Time (UTC)', '# Participants', 'Winner']
     table = []
+
+    def format_status(status, arn):
+        if status != 'UPCOMING':
+            # Find last file we have.
+            files = [os.path.basename(f) for f in glob.glob('./raw_data/leaderboards/{}/*.csv'.format(arn))]
+
+            if 'FINAL.csv' in files:
+                filepath = os.path.join(arn, 'FINAL.csv')
+            else:
+                filepath = os.path.join(arn, list(sorted(files))[-1])
+
+            return '[{}](./leaderboards/{})'.format(status, filepath)
+        else:
+            return status
+
     for index, row in leaderboards_data.iterrows():
         tablerow = [
             '**{}**'.format(row['Name']),
-            'TODO LINK',
-            row['Status'],
+            '[Data](./leaderboards/{})'.format(row['Arn']),
+            format_status(row['Status'], row['Arn']),
             '*{}*'.format(datetime.utcfromtimestamp(int(row['LaunchTime'] / 1000))),
             '*{}*'.format(datetime.utcfromtimestamp(int(row['CloseTime'] / 1000))),
             row['ParticipantCount'],
@@ -64,7 +81,7 @@ def update_leaderboards_documentation():
 # Leaderboards
 ## Leaderboard update interval
 Track data is updated at the first minute of each hour. Actual update time may vary slightly due to the way actions are scheduled.
-## Available tracks
+## Available leaderboards
 Currently there are **{} leaderboards** available in the dataset.
 {}
     """.format(len(leaderboards_data), generate_leaderboards_table(leaderboards_data))
