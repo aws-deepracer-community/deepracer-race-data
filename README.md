@@ -10,6 +10,5 @@ Possible use cases are:
 ## Available Data
 Topic | Description
 ------------ | -------------
-[Track List](https://github.com/aws-deepracer-community/deepracer-race-data/tree/main/raw_data/tracks) | Provides an overview of all available tracks and track assets.
-[Leaderboard List](https://github.com/aws-deepracer-community/deepracer-race-data/tree/main/raw_data/leaderboards) | Provides an overview of all available leaderboards and leaderboard assets.
-[Leaderboard](https://github.com/aws-deepracer-community/deepracer-race-data/tree/main/raw_data/leaderboard) | Provides hourly updates on the race statistics for each leaderboard in the list of leaderboards.
+[Tracks](https://github.com/aws-deepracer-community/deepracer-race-data/tree/main/raw_data/tracks) | Provides an overview of all available tracks and track assets.
+[Leaderboards](https://github.com/aws-deepracer-community/deepracer-race-data/tree/main/raw_data/leaderboards) | Provides an overview of all available leaderboards and leaderboard assets + hourly snapshots of race leaderboards.
