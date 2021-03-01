@@ -49,12 +49,13 @@ jobs:
           git commit -m "Leaderboard update" || echo "No changes to commit"
           git push
 
-       - name: Update documentation   
+      - name: Update documentation
+        run: |
           pip install -r requirements.txt
           python ./scripts/documentation.py
 
-       - name: Commit documentation
-         run: |
+      - name: Commit documentation
+        run: |
           git add ./raw_data
           git commit -m "Documentation update" || echo "No changes to commit"
           git push
