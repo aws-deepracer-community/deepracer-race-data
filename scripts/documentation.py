@@ -9,7 +9,7 @@ def generate_track_table(track_data):
     table = []
     for index, row in track_data.iterrows():
         tablerow = [
-            '![{}](tracks/assets/{}.svg)'.format(row['TrackName'], row['TrackArn']),
+            '![{}](./assets/{}.svg)'.format(row['TrackName'], row['TrackArn']),
             '**{}**'.format(row['TrackName']),
             '{}'.format(row['TrackArn'].split("/")[-1]),
             '*{}*'.format(row['TrackDescription'].replace("\n", " "))
@@ -51,14 +51,14 @@ def generate_leaderboards_table(leaderboards_data):
             else:
                 filepath = os.path.join(arn, list(sorted(files))[-1])
 
-            return '[{}](./leaderboards/{})'.format(status, filepath)
+            return '[{}](./{})'.format(status, filepath)
         else:
             return status
 
     for index, row in leaderboards_data.iterrows():
         tablerow = [
             '**{}**'.format(row['Name']),
-            '[Data](./leaderboards/{})'.format(row['Arn']),
+            '[Data](./{})'.format(row['Arn']),
             format_status(row['Status'], row['Arn']),
             '*{}*'.format(datetime.utcfromtimestamp(int(row['LaunchTime'] / 1000))),
             '*{}*'.format(datetime.utcfromtimestamp(int(row['CloseTime'] / 1000))),
