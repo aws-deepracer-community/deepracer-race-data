@@ -1,4 +1,6 @@
 TrackArn,TrackName,TrackDescription,TrackPicture
+arn:aws:deepracer:us-east-1::track/penbay_open,Po-Chun Speedway,"Po-Chun Speedway is a short track (41.551m) featuring a simple oval track paired with a dragstrip, and single hairpin. It is named in honor of the 2020 AWS DeepRacer League Champion from NCTU CGI Taiwan.",https://deepracer-managed-resources-us-east-1-gamma.s3.amazonaws.com/track-resources/penbay_open.svg
+arn:aws:deepracer:us-east-1::track/penbay_pro,Po-Chun Super Speedway,Po-Chun Super Speedway is a long track (59.233m) which adds back-to-back hairpins and a high speed right angle turn its short track counterpart. It is named in honor of the 2020 AWS DeepRacer League Champion from NCTU CGI Taiwan.,https://deepracer-managed-resources-us-east-1-gamma.s3.amazonaws.com/track-resources/penbay_pro.svg
 arn:aws:deepracer:us-east-1::track/Monaco_building,European Seaside Circuit - Buildings,"A highly technical track, the European Seaside Circuit’s tight turns weave through a timeless Mediterranean cliffside village with iconic buildings.
 
 Length: 60 m (197')
