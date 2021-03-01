@@ -1,0 +1,4 @@
+Alias,SubmissionTime,LapCount,AvgLapTime,BestLapTime,TotalLapTime,AvgResets,CollisionCount,OffTrackCount,ResetCount,SubmissionCount,Rank,LeaderboardSubmissionStatusType,RankingScore
+evapag,1614563707383,3,109884,108674,329654,1.0,1,2,3,0,1,SUCCESS,329654
+think,1614564920409,3,164419,161230,493258,23.666666666666668,4,67,71,0,2,SUCCESS,493258
+kimwooglae,1614564434750,3,191478,178464,574434,27.666666666666668,3,80,83,0,3,SUCCESS,574434

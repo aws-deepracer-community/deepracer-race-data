@@ -1,0 +1,2 @@
+Alias,SubmissionTime,LapCount,AvgLapTime,BestLapTime,TotalLapTime,AvgResets,CollisionCount,OffTrackCount,ResetCount,SubmissionCount,Rank,LeaderboardSubmissionStatusType,RankingScore
+Heisenberg,1614564865681,3,63099,60566,189299,0.6666666666666666,0,2,2,0,1,SUCCESS,189299
