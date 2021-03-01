@@ -1,0 +1,4 @@
+Alias,SubmissionTime,LapCount,AvgLapTime,BestLapTime,TotalLapTime,AvgResets,CollisionCount,OffTrackCount,ResetCount,SubmissionCount,Rank,LeaderboardSubmissionStatusType,RankingScore
+Heisenberg,1614564865681,3,63099,60566,189299,0.6666666666666666,0,2,2,0,1,SUCCESS,189299
+GoodmanKR,1614566900853,3,71902,55200,215708,5.0,0,15,15,2,2,SUCCESS,215708
+Dharani1,1614567227623,3,94853,90202,284561,9.666666666666666,0,29,29,0,3,SUCCESS,284561
