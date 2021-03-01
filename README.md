@@ -1,5 +1,5 @@
-# deepracer-race-data
-The DeepRacer Race Data repository contains snapshots of data provided by the AWS DeepRacer service API.
+# The AWS DeepRacer Community Race Data Repository
+The [AWS DeepRacer Community](https://deepracing.io) Race Data repository contains snapshots of data provided by the AWS DeepRacer service API.
 It is updated at hourly intervals with the latest leaderboard and track updates.
 
 Possible use cases are:
