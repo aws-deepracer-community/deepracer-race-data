@@ -1,6 +1,6 @@
 # This is a basic workflow to help you get started with Actions
 
-name: Daily track update
+name: Daily track + simapp update
 
 # Controls when the action will run.
 on:
@@ -47,6 +47,18 @@ jobs:
           git config user.email github-actions@github.com
           git add ./raw_data
           git commit -m "Track update" || echo "No changes to commit"
+
+      - name: Update simapp
+        run: |
+          pip install "git+https://github.com/aws-deepracer-community/deepracer-race-stats.git@v0.1.0" 
+          drs simapp-update -o raw_data
+
+      - name: Commit simapp
+        run: |
+          git config user.name github-actions
+          git config user.email github-actions@github.com
+          git add ./raw_data
+          git commit -m "Simulation application update" || echo "No changes to commit"
 
       - name: Update documentation
         run: |
