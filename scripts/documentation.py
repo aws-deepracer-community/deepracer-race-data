@@ -9,7 +9,7 @@ def format_utc_timestamp(ts_in_ms):
     return datetime.utcfromtimestamp(int(ts_in_ms/ 1000)).strftime('%Y-%m-%dT%H:%M:%SZ')
 
 def generate_track_table(track_data):
-    headers = ['Image', 'Name', 'Release Date', 'Numpy File', 'Track Length', 'Track Width', 'Description']
+    headers = ['Image', 'Name', 'Release Date', 'Numpy File', 'Track Length', 'Track Width']
     table = []
 
     def format_npy(arn):
@@ -32,7 +32,6 @@ def generate_track_table(track_data):
             '{}'.format(format_npy(row['TrackArn'])),
             '{} meters'.format(row['TrackLength']),
             '{} meters'.format(row['TrackWidth']),
-            '*{}*'.format(row['TrackDescription'].replace("\n", " ")),
         ]
         
         table.append(tablerow)
