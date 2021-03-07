@@ -30,8 +30,8 @@ def generate_track_table(track_data):
             '**{}**'.format(row['TrackName']),
             '*{}*'.format(format_utc_timestamp(row['TrackReleaseTime'])),
             '{}'.format(format_npy(row['TrackArn'])),
-            row['TrackLength'],
-            row['TrackWidth'],
+            '{} meters'.format(row['TrackLength']),
+            '{} meters'.format(row['TrackWidth']),
             '*{}*'.format(row['TrackDescription'].replace("\n", " ")),
         ]
         
