@@ -5,6 +5,9 @@ from urllib.parse import urlparse
 import glob
 import os
 
+def format_utc_timestamp(ts_in_ms):
+    return datetime.utcfromtimestamp(int(ts_in_ms/ 1000)).strftime('%Y-%m-%dT%H:%M:%SZ')
+
 def generate_track_table(track_data):
     headers = ['Image', 'Name', 'Release Date', 'Numpy File', 'Track Length', 'Track Width', 'Description']
     table = []
@@ -25,7 +28,7 @@ def generate_track_table(track_data):
         tablerow = [
             '![{}](./assets/{})'.format(row['TrackName'], image),
             '**{}**'.format(row['TrackName']),
-            '*{}*'.format(datetime.utcfromtimestamp(int(row['TrackReleaseTime'] / 1000))),
+            '*{}*'.format(format_utc_timestamp(row['TrackReleaseTime'])),
             '{}'.format(format_npy(row['TrackArn'])),
             row['TrackLength'],
             row['TrackWidth'],
@@ -77,8 +80,8 @@ def generate_leaderboards_table(leaderboards_data):
             '**{}**'.format(row['Name']),
             '[Data](./{})'.format(row['Arn']),
             format_status(row['Status'], row['Arn']),
-            '*{}*'.format(datetime.utcfromtimestamp(int(row['LaunchTime'] / 1000))),
-            '*{}*'.format(datetime.utcfromtimestamp(int(row['CloseTime'] / 1000))),
+            '*{}*'.format(format_utc_timestamp(row['LaunchTime'])),
+            '*{}*'.format(format_utc_timestamp(row['CloseTime'])),
             row['ParticipantCount'],
             row['WinnerAlias']
         ]
