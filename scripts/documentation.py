@@ -1,18 +1,35 @@
 import pandas as pd
 from tabulate import tabulate
 from datetime import datetime
+from urllib.parse import urlparse
 import glob
 import os
 
 def generate_track_table(track_data):
-    headers = ['Image', 'Name', 'Arn Name', 'Description']
+    headers = ['Image', 'Name', 'Release Date', 'Numpy File', 'Track Length', 'Track Width', 'Description']
     table = []
-    for index, row in track_data.iterrows():
+
+    def format_npy(arn):
+        # Find last file we have.
+        files = [os.path.basename(f) for f in glob.glob('./raw_data/tracks/npy/*.npy')]
+        npy_file = "{}.npy".format(arn.split("/")[-1])
+
+        if npy_file in files:
+            return '[{}](./{})'.format(npy_file, os.path.join("./npy", npy_file))
+        else:
+            return "-"
+
+
+    for _, row in track_data.iterrows():
+        image = os.path.join(row['TrackArn'], urlparse(row['TrackPicture']).path.lstrip("/") )
         tablerow = [
-            '![{}](./assets/{}.svg)'.format(row['TrackName'], row['TrackArn']),
+            '![{}](./assets/{})'.format(row['TrackName'], image),
             '**{}**'.format(row['TrackName']),
-            '{}'.format(row['TrackArn'].split("/")[-1]),
-            '*{}*'.format(row['TrackDescription'].replace("\n", " "))
+            '*{}*'.format(datetime.utcfromtimestamp(int(row['TrackReleaseTime'] / 1000))),
+            '{}'.format(format_npy(row['TrackArn'])),
+            row['TrackLength'],
+            row['TrackWidth'],
+            '*{}*'.format(row['TrackDescription'].replace("\n", " ")),
         ]
         
         table.append(tablerow)
