@@ -31,7 +31,7 @@ def generate_track_table(track_data):
             '*{}*'.format(format_utc_timestamp(row['TrackReleaseTime'])),
             '{}'.format(format_npy(row['TrackArn'])),
             '{} meters'.format(row['TrackLength']),
-            '{} meters'.format(row['TrackWidth']),
+            '{} meters'.format(float(row['TrackWidth']) / 100.0),
         ]
         
         table.append(tablerow)
