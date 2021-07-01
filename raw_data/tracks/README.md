@@ -6,8 +6,8 @@ Track data is updated 00:01 UTC daily. Actual update time may vary slightly due 
 Currently there are **35 tracks** available in the dataset.
 | Image   | Name                                     | Release Date           | Numpy File                                                               | Track Length             | Track Width                 |
 |---------|------------------------------------------|------------------------|--------------------------------------------------------------------------|--------------------------|-----------------------------|
-|         | **Baja Highway **                        | *2021-06-30T16:58:00Z* | [dubai_pro.npy](././npy/dubai_pro.npy)                                   | 64.67065870225589 meters | 0.010668009495477207 meters |
-|         | **Baja Turnpike **                       | *2021-06-30T16:58:00Z* | [dubai_open.npy](././npy/dubai_open.npy)                                 | 40.56378689979722 meters | 0.01066800057544567 meters  |
+|         | **Baja Highway**                         | *2021-06-30T16:58:00Z* | [dubai_pro.npy](././npy/dubai_pro.npy)                                   | 64.67065870225589 meters | 0.010668009495477207 meters |
+|         | **Baja Turnpike**                        | *2021-06-30T16:58:00Z* | [dubai_open.npy](././npy/dubai_open.npy)                                 | 40.56378689979722 meters | 0.01066800057544567 meters  |
 |         | **Kuei Raceway**                         | *2021-06-10T23:45:00Z* | [hamption_open.npy](././npy/hamption_open.npy)                           | 45.93 meters             | 0.0106 meters               |
 |         | **Cosmic Circuit**                       | *2021-05-25T21:28:41Z* | [jyllandsringen_pro.npy](././npy/jyllandsringen_pro.npy)                 | 62.02 meters             | 0.0106 meters               |
 |         | **Cosmic Loop**                          | *2021-05-25T21:14:49Z* | [jyllandsringen_open.npy](././npy/jyllandsringen_open.npy)               | 46.12 meters             | 0.0106 meters               |
