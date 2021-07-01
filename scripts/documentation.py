@@ -24,16 +24,21 @@ def generate_track_table(track_data):
 
 
     for _, row in track_data.iterrows():
-        image = os.path.join(row['TrackArn'], urlparse(row['TrackPicture']).path.lstrip("/") )
-        tablerow = [
-            '![{}](./assets/{})'.format(row['TrackName'], image),
+        tablerow = []
+        if 'TrackPicture' in row:
+            image = os.path.join(row['TrackArn'], urlparse(row['TrackPicture']).path.lstrip("/"))
+            tablerow.append('![{}](./assets/{})'.format(row['TrackName'], image))
+        else:
+            tablerow.append('')
+
+        tablerow += [
             '**{}**'.format(row['TrackName']),
             '*{}*'.format(format_utc_timestamp(row['TrackReleaseTime'])),
             '{}'.format(format_npy(row['TrackArn'])),
             '{} meters'.format(row['TrackLength']),
             '{} meters'.format(float(row['TrackWidth']) / 100.0),
         ]
-        
+
         table.append(tablerow)
 
     return tabulate(table, headers, tablefmt="github")
@@ -84,13 +89,13 @@ def generate_leaderboards_table(leaderboards_data):
             row['ParticipantCount'],
             row['WinnerAlias']
         ]
-        
+
         table.append(tablerow)
 
     return tabulate(table, headers, tablefmt="github")
 
 
-        
+
 def update_leaderboards_documentation():
     leaderboards_data = pd.read_csv('./raw_data/leaderboards/leaderboards.csv')
     leaderboards_data = leaderboards_data.sort_values('CloseTime', ascending=False).fillna('')
