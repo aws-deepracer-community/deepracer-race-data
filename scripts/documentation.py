@@ -24,7 +24,7 @@ def generate_track_table(track_data):
 
     def format_trackimage(arn, track_name):
         track_identifier = arn.split("/")[1].lower()
-        return '![{}](./assets/{}/{}.svg)'.format(arn, track_name, track_identifier)
+        return '![{}](./assets/{}/track-resources/{}.svg)'.format(track_name, arn, track_identifier)
 
     for _, row in track_data.iterrows():
         tablerow = [
