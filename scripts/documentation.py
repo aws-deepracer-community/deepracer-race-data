@@ -22,19 +22,15 @@ def generate_track_table(track_data):
         else:
             return "-"
 
+    def format_trackimage(arn, track_name):
+        return '![{}](./assets/{}/{}.svg)'.format(arn, track_name, track_name.lower())
 
     for _, row in track_data.iterrows():
-        tablerow = []
-        if 'TrackPicture' in row:
-            image = os.path.join(row['TrackArn'], urlparse(row['TrackPicture']).path.lstrip("/"))
-            tablerow.append('![{}](./assets/{})'.format(row['TrackName'], image))
-        else:
-            tablerow.append('')
-
-        tablerow += [
+        tablerow = [
+            format_trackimage(row['TrackArn'], row['TrackName']),
             '**{}**'.format(row['TrackName'].strip()),
             '*{}*'.format(format_utc_timestamp(row['TrackReleaseTime'])),
-            '{}'.format(format_npy(row['TrackArn'])),
+            format_npy(row['TrackArn']),
             '{} meters'.format(row['TrackLength']),
             '{} meters'.format(float(row['TrackWidth']) / 100.0),
         ]
