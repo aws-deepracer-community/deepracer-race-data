@@ -1,0 +1,4 @@
+Alias,SubmissionTime,LapCount,AvgLapTime,BestLapTime,TotalLapTime,AvgResets,CollisionCount,OffTrackCount,ResetCount,SubmissionCount,Rank,LeaderboardSubmissionStatusType,RankingScore,RacingDivision,UserId
+pdkpro-07,1627776061702,3,32583,27525,97750,1.0,0,3,3,0,1,SUCCESS,97750,OPEN,ViQgNWQTRruf5eEpHoS4Xw
+Bandwidth-RnD,1627782982526,3,54001,53002,162004,5.0,0,15,15,1,2,SUCCESS,162004,OPEN,77V1kp1kRJCO5D4zgSrqxA
+Firstracer,1627782136703,3,69118,65796,207355,0.3333333333333333,0,1,1,0,3,SUCCESS,207355,OPEN,p17ESstaQaeuE6df1K_t5A
