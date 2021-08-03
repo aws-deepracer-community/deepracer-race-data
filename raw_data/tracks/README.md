@@ -3,9 +3,11 @@
 ## Track update interval
 Track data is updated 00:01 UTC daily. Actual update time may vary slightly due to the way actions are scheduled.
 ## Available tracks
-Currently there are **35 tracks** available in the dataset.
+Currently there are **37 tracks** available in the dataset.
 | Image                                                                                                                                         | Name                                     | Release Date           | Numpy File                                                               | Track Length   | Track Width   |
 |-----------------------------------------------------------------------------------------------------------------------------------------------|------------------------------------------|------------------------|--------------------------------------------------------------------------|----------------|---------------|
+| ![Hot Rod Super Speedway ](./assets/arn:aws:deepracer:us-east-1::track/arctic_pro/track-resources/arctic_pro.svg)                             | **Hot Rod Super Speedway**               | *2021-07-31T00:00:01Z* | [arctic_pro.npy](././npy/arctic_pro.npy)                                 | 59.50 meters   | 0.01 meters   |
+| ![Hot Rod Speedway ](./assets/arn:aws:deepracer:us-east-1::track/arctic_open/track-resources/arctic_open.svg)                                 | **Hot Rod Speedway**                     | *2021-07-31T00:00:01Z* | [arctic_open.npy](././npy/arctic_open.npy)                               | 42.21 meters   | 0.01 meters   |
 | ![Baja Highway ](./assets/arn:aws:deepracer:us-east-1::track/dubai_pro/track-resources/dubai_pro.svg)                                         | **Baja Highway**                         | *2021-06-30T16:58:00Z* | [dubai_pro.npy](././npy/dubai_pro.npy)                                   | 64.67 meters   | 0.01 meters   |
 | ![Baja Turnpike ](./assets/arn:aws:deepracer:us-east-1::track/dubai_open/track-resources/dubai_open.svg)                                      | **Baja Turnpike**                        | *2021-06-30T16:58:00Z* | [dubai_open.npy](././npy/dubai_open.npy)                                 | 40.56 meters   | 0.01 meters   |
 | ![Kuei Raceway](./assets/arn:aws:deepracer:us-east-1::track/hamption_open/track-resources/hamption_open.svg)                                  | **Kuei Raceway**                         | *2021-06-10T23:45:00Z* | [hamption_open.npy](././npy/hamption_open.npy)                           | 45.93 meters   | 0.01 meters   |
