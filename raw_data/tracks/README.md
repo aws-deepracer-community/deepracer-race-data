@@ -3,9 +3,11 @@
 ## Track update interval
 Track data is updated 00:01 UTC daily. Actual update time may vary slightly due to the way actions are scheduled.
 ## Available tracks
-Currently there are **37 tracks** available in the dataset.
+Currently there are **39 tracks** available in the dataset.
 | Image                                                                                                                                         | Name                                     | Release Date           | Numpy File                                                               | Track Length   | Track Width   |
 |-----------------------------------------------------------------------------------------------------------------------------------------------|------------------------------------------|------------------------|--------------------------------------------------------------------------|----------------|---------------|
+| ![Playa Super Raceway ](./assets/arn:aws:deepracer:us-east-1::track/morgan_pro/track-resources/morgan_pro.svg)                                | **Playa Super Raceway**                  | *2021-09-01T00:00:00Z* | -                                                                        | 59.57 meters   | 0.01 meters   |
+| ![Playa Raceway ](./assets/arn:aws:deepracer:us-east-1::track/morgan_open/track-resources/morgan_open.svg)                                    | **Playa Raceway**                        | *2021-09-01T00:00:00Z* | -                                                                        | 45.06 meters   | 0.01 meters   |
 | ![Hot Rod Super Speedway ](./assets/arn:aws:deepracer:us-east-1::track/arctic_pro/track-resources/arctic_pro.svg)                             | **Hot Rod Super Speedway**               | *2021-07-31T00:00:01Z* | [arctic_pro.npy](././npy/arctic_pro.npy)                                 | 59.50 meters   | 0.01 meters   |
 | ![Hot Rod Speedway ](./assets/arn:aws:deepracer:us-east-1::track/arctic_open/track-resources/arctic_open.svg)                                 | **Hot Rod Speedway**                     | *2021-07-31T00:00:01Z* | [arctic_open.npy](././npy/arctic_open.npy)                               | 42.21 meters   | 0.01 meters   |
 | ![Baja Highway ](./assets/arn:aws:deepracer:us-east-1::track/dubai_pro/track-resources/dubai_pro.svg)                                         | **Baja Highway**                         | *2021-06-30T16:58:00Z* | [dubai_pro.npy](././npy/dubai_pro.npy)                                   | 64.67 meters   | 0.01 meters   |
