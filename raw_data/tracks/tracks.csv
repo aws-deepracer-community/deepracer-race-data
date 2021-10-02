@@ -1,6 +1,8 @@
 TrackArn,TrackName,TrackDescription,TrackReleaseTime,TrackDifficulty,TrackLength,TrackWidth,TrackUsageCount
+arn:aws:deepracer:us-east-1::track/red_star_open,Expedition Loop,Go where no racer has gone before on the Expedition Loop track! This is a short track at 44.04m featuring two dragstrips and an unforgiving hairpin turn. Expect to see no shortage of off tracks on this challenging course.,1633021200000,52,43.46808170524502,1.0668004259895272,3
+arn:aws:deepracer:us-east-1::track/red_star_pro,Expedition Super Loop,The pro racers will be drifting into uncharted territory on the Expedition Super Loop! This is a long track at 69.96m featuring exceptionally difficult hairpin turns and high speed straightaways. This track is sure to test even the most skillful racers.,1633021080000,47,69.17464597163165,1.0668004636069797,4
 arn:aws:deepracer:us-east-1::track/morgan_pro,Playa Super Raceway , At 59.8m the Playa Super Raceway features back-to-back hairpin turns and two straightaway opportunities to generate speed. A successful run will require skillful command of time (steps) and (action) space. ,1630454400000,57,59.56709584389691,1.0667996382588605,32
-arn:aws:deepracer:us-east-1::track/morgan_open,Playa Raceway ,The Playa Raceway is a short track at 45.16m featuring one long drag strip for generating speed with an unforgiving hairpin turn. While the track seems simple expect to see no shortage of off tracks.    ,1630454400000,55,45.05585667303253,1.066800683753089,5
+arn:aws:deepracer:us-east-1::track/morgan_open,Playa Raceway ,The Playa Raceway is a short track at 45.16m featuring one long drag strip for generating speed with an unforgiving hairpin turn. While the track seems simple expect to see no shortage of off tracks.    ,1630454400000,55,45.05585667303253,1.066800683753089,6
 arn:aws:deepracer:us-east-1::track/arctic_pro,Hot Rod Super Speedway ,"The Hot Rod Super Speedway adds pro difficulty to the short track counterpart. With a length of 59.69m, the speed loving arch is replaced by 4 short straightaways coupled with variable angle turns. Skillful racers may bisect the chicanes to extending speed generating opportunities and pull away from the pack.",1627689601000,64,59.504850333417956,1.0668001023002507,71
 arn:aws:deepracer:us-east-1::track/arctic_open,Hot Rod Speedway ,"Featuring a short length of just 42.25m, the Hot Rod Speedway caters to speed loving dragsters with multiple fast running drag strips tied together by friendly sweeping turns. Expect to see blistering fast times this month as models rev their engines and burn rubber around this track.",1627689601000,55,42.20733669315415,1.0667996616680357,19
 arn:aws:deepracer:us-east-1::track/dubai_pro,Baja Highway ,"At 65.18m, The Baja Highway extends upon the shorter turnpike with pro level difficulty and even more opportunities for generating speed. A second massive straightaway mid course is similarly capped by a hairpin and increasing radius turn, along with an unforgiving technical section full of wrought with tight cutbacks and hairpins.",1625072280000,24,64.67065870225589,1.0668009495477206,70
@@ -28,7 +30,7 @@ Width: 131 cm (52"")",1604966400000,54,59.0,131.0,72
 arn:aws:deepracer:us-east-1::track/Singapore,Asia Pacific Bay Loop,"Streak through the Marina Bay’s waterfront on the Asia Pacific Bay Loop, a fast and open nighttime track.
 
 Length: 60 m (197')
-Width: 135 cm (53"")",1604966400000,78,60.0,135.0,61
+Width: 135 cm (53"")",1604966400000,78,60.0,135.0,59
 arn:aws:deepracer:us-east-1::track/Monaco,European Seaside Circuit,"A highly technical track, the European Seaside Circuit’s tight turns weave through a timeless Mediterranean cliffside village, without buildings.
 
 Length: 60 m (197')
@@ -40,7 +42,7 @@ Width: 105 cm (41"")",1601510400000,36,60.0,105.0,51
 arn:aws:deepracer:us-east-1::track/Belille,Cumulo Turnpike,"The Cumulo Turnpike shifts from high-speed straightaways to challenging corners. It requires a perfect storm of exceptional navigation skill and speed control.
 
 Length: 60 m (197')
-Width: 106 cm (42"")",1598918400000,33,60.0,106.0,577
+Width: 106 cm (42"")",1598918400000,33,60.0,106.0,581
 arn:aws:deepracer:us-east-1::track/Albert,Yun Speedway,"“Yun” is the Chinese word for “cloud.” A broad loop demanding constant cornering, the Yun Speedway is the lofty domain of the racing line specialist.
 
 Length: 51 m (167')
@@ -60,15 +62,15 @@ Width: 107 cm (42"")",1588291200000,31,60.0,107.0,85
 arn:aws:deepracer:us-east-1::track/reInvent2019_track,The 2019 DeepRacer Championship Cup,"The official track for the 2019 AWS DeepRacer Championship Cup finals, this is a moderately challenging track ideal for stepping up your training and experimentation.
 
 Length: 23.12 m (75.85')
-Width: 107 cm (42"")",1585699200000,88,23.12,107.0,697
+Width: 107 cm (42"")",1585699200000,88,23.12,107.0,699
 arn:aws:deepracer:us-east-1::track/reinvent_base,re:Invent 2018,"Inspired by Monza, re:Invent 2018 was the first Championship Cup track. This short, classic speedway remains a perennial rookie favorite.
 
 Length: 17.6 m (57.97')
-Width: 76 cm (30"")",1583020800000,69,17.6,76.0,1853
+Width: 76 cm (30"")",1583020800000,69,17.6,76.0,1857
 arn:aws:deepracer:us-east-1::track/AmericasGeneratedInclStart,Baadal Track,"“Baadal” is the Hindi word for “cloud.” The Baadal Track’s tight winding corners open up into long arching straightaways, perfect for passing opportunities.
 
 Length: 39 m (128')
-Width: 107 cm (42"")",1580515200000,72,39.0,107.0,119
+Width: 107 cm (42"")",1580515200000,72,39.0,107.0,120
 arn:aws:deepracer:us-east-1::track/LGSWide,SOLA Speedway,"Dedicated to reigning AWS DeepRacer Championship Cup winner, SOLA-DNP, the SOLA Speedway features high-speed straightaways and hairpin turns.
 
 Length: 38 m (124')
@@ -80,7 +82,7 @@ Width: 91 cm (36"")",1575158400000,49,22.57,91.0,101
 arn:aws:deepracer:us-east-1::track/Canada_Training,Toronto Turnpike Training,"October’s training track for the 2019 Virtual Circuit World Tour, the Toronto Turnpike bookends a variety of subtle curves with two hairpins.
 
 Length: 21.74 m (71.33')
-Width: 76 cm (30"")",1569888000000,25,21.74,76.0,20
+Width: 76 cm (30"")",1569888000000,25,21.74,76.0,19
 arn:aws:deepracer:us-east-1::track/Mexico_track,Cumulo Carrera Training,"September’s training track for the 2019 Virtual Circuit World Tour, the Cumulo Carrera is a good choice for training for cornering convergence.
 
 Length: 20.51 m (67.29')
