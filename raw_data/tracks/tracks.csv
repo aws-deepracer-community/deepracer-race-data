@@ -3,7 +3,7 @@ arn:aws:deepracer:us-east-1::track/red_star_open,Expedition Loop,Go where no rac
 arn:aws:deepracer:us-east-1::track/red_star_pro,Expedition Super Loop,The pro racers will be drifting into uncharted territory on the Expedition Super Loop! This is a long track at 69.96m featuring exceptionally difficult hairpin turns and high speed straightaways. This track is sure to test even the most skillful racers.,1633021080000,47,69.17464597163165,1.0668004636069797,19
 arn:aws:deepracer:us-east-1::track/morgan_pro,Playa Super Raceway , At 59.8m the Playa Super Raceway features back-to-back hairpin turns and two straightaway opportunities to generate speed. A successful run will require skillful command of time (steps) and (action) space. ,1630454400000,57,59.56709584389691,1.0667996382588605,135
 arn:aws:deepracer:us-east-1::track/morgan_open,Playa Raceway ,The Playa Raceway is a short track at 45.16m featuring one long drag strip for generating speed with an unforgiving hairpin turn. While the track seems simple expect to see no shortage of off tracks.    ,1630454400000,55,45.05585667303253,1.066800683753089,13
-arn:aws:deepracer:us-east-1::track/arctic_pro,Hot Rod Super Speedway ,"The Hot Rod Super Speedway adds pro difficulty to the short track counterpart. With a length of 59.69m, the speed loving arch is replaced by 4 short straightaways coupled with variable angle turns. Skillful racers may bisect the chicanes to extending speed generating opportunities and pull away from the pack.",1627689601000,64,59.504850333417956,1.0668001023002507,74
+arn:aws:deepracer:us-east-1::track/arctic_pro,Hot Rod Super Speedway ,"The Hot Rod Super Speedway adds pro difficulty to the short track counterpart. With a length of 59.69m, the speed loving arch is replaced by 4 short straightaways coupled with variable angle turns. Skillful racers may bisect the chicanes to extending speed generating opportunities and pull away from the pack.",1627689601000,64,59.504850333417956,1.0668001023002507,76
 arn:aws:deepracer:us-east-1::track/arctic_open,Hot Rod Speedway ,"Featuring a short length of just 42.25m, the Hot Rod Speedway caters to speed loving dragsters with multiple fast running drag strips tied together by friendly sweeping turns. Expect to see blistering fast times this month as models rev their engines and burn rubber around this track.",1627689601000,55,42.20733669315415,1.0667996616680357,25
 arn:aws:deepracer:us-east-1::track/dubai_pro,Baja Highway ,"At 65.18m, The Baja Highway extends upon the shorter turnpike with pro level difficulty and even more opportunities for generating speed. A second massive straightaway mid course is similarly capped by a hairpin and increasing radius turn, along with an unforgiving technical section full of wrought with tight cutbacks and hairpins.",1625072280000,24,64.67065870225589,1.0668009495477206,72
 arn:aws:deepracer:us-east-1::track/dubai_open,Baja Turnpike ,"At 40.79m, the Baja Turnpike is a short angular track that mixes full throttle straightaways with hard decelerating turns. Signature features include a long high speed sprint over the finish line end capped by a harsh hairpin and tight 90 degree turn. While you won't find any sand traps on this course there are no shortage of places to get stuck.",1625072280000,50,40.56378689979722,1.066800057544567,14
@@ -13,7 +13,7 @@ arn:aws:deepracer:us-east-1::track/jyllandsringen_open,Cosmic Loop,Cosmic Loop i
 arn:aws:deepracer:us-east-1::track/hamption_pro,Kuei Super Raceway,Kuei Super Raceway adds pro difficulty to its short track counterpart by extending overall length in the form of a straightaway with a technical 4x double apex section. It is named after 3rd place DeepRacer League finalists Kuei of NCTU CGI Taiwan.,1619827200000,35,60.74,1.06,39
 arn:aws:deepracer:us-east-1::track/thunder_hill_pro,Lars Circuit,Lars Circuit is a pro difficulty track that adds an increasing to decreasing double apex and multiple high speed straightaways to its shorter cohort Lars Loop. It is named in honor of 2020 AWS DeepRacer League silver medalist Lars Ludvigsen (Duckworth).,1617235201000,28,59.233,107.0,37
 arn:aws:deepracer:us-east-1::track/thunder_hill_open,Lars Loop,"Lars Loop is a short track comprised of a modified oval with increasing radius and double apex, a varying double chicane, and a broad hairpin final stretch. It is named in honor of 2020 AWS DeepRacer League silver medalist Lars Ludvigsen (Duckworth).",1617235201000,34,41.551,107.0,8
-arn:aws:deepracer:us-east-1::track/penbay_open,Po-Chun Speedway,"Po-Chun Speedway is a short track (68.68m) featuring a simple oval track paired with a dragstrip, and single hairpin. It is named in honor of the 2020 AWS DeepRacer League Champion from NCTU CGI Taiwan.",1614560400000,43,68.68,107.0,90
+arn:aws:deepracer:us-east-1::track/penbay_open,Po-Chun Speedway,"Po-Chun Speedway is a short track (68.68m) featuring a simple oval track paired with a dragstrip, and single hairpin. It is named in honor of the 2020 AWS DeepRacer League Champion from NCTU CGI Taiwan.",1614560400000,43,68.68,107.0,91
 arn:aws:deepracer:us-east-1::track/penbay_pro,Po-Chun Super Speedway,Po-Chun Super Speedway is a long track (89.24m) which adds back-to-back hairpins and a high speed right angle turn its short track counterpart. It is named in honor of the 2020 AWS DeepRacer League Champion from NCTU CGI Taiwan.,1614560400000,31,89.24,107.0,36
 arn:aws:deepracer:us-east-1::track/Monaco_building,European Seaside Circuit - Buildings,"A highly technical track, the European Seaside Circuit’s tight turns weave through a timeless Mediterranean cliffside village with iconic buildings.
 
@@ -30,7 +30,7 @@ Width: 131 cm (52"")",1604966400000,54,59.0,131.0,77
 arn:aws:deepracer:us-east-1::track/Singapore,Asia Pacific Bay Loop,"Streak through the Marina Bay’s waterfront on the Asia Pacific Bay Loop, a fast and open nighttime track.
 
 Length: 60 m (197')
-Width: 135 cm (53"")",1604966400000,78,60.0,135.0,66
+Width: 135 cm (53"")",1604966400000,78,60.0,135.0,63
 arn:aws:deepracer:us-east-1::track/Monaco,European Seaside Circuit,"A highly technical track, the European Seaside Circuit’s tight turns weave through a timeless Mediterranean cliffside village, without buildings.
 
 Length: 60 m (197')
@@ -70,11 +70,11 @@ Width: 76 cm (30"")",1583020800000,69,17.6,76.0,1966
 arn:aws:deepracer:us-east-1::track/AmericasGeneratedInclStart,Baadal Track,"“Baadal” is the Hindi word for “cloud.” The Baadal Track’s tight winding corners open up into long arching straightaways, perfect for passing opportunities.
 
 Length: 39 m (128')
-Width: 107 cm (42"")",1580515200000,72,39.0,107.0,133
+Width: 107 cm (42"")",1580515200000,72,39.0,107.0,134
 arn:aws:deepracer:us-east-1::track/LGSWide,SOLA Speedway,"Dedicated to reigning AWS DeepRacer Championship Cup winner, SOLA-DNP, the SOLA Speedway features high-speed straightaways and hairpin turns.
 
 Length: 38 m (124')
-Width: 106 cm (42"")",1577836800000,50,38.0,106.0,41
+Width: 106 cm (42"")",1577836800000,50,38.0,106.0,40
 arn:aws:deepracer:us-east-1::track/Vegas_track,AWS Summit Raceway,"Created to prepare racers for the 2020 AWS DeepRacer League, the AWS Summit Raceway provides a solid training warm up for any agent.
 
 Length: 22.57 m (74')
@@ -90,7 +90,7 @@ Width: 76 cm (30"")",1567296000000,23,20.51,76.0,36
 arn:aws:deepracer:us-east-1::track/China_track,Shanghai Sudu Training,"August’s training track for the 2019 Virtual Circuit World Tour, the Shanghai Sudu is an ideal speedway for experimenting with bold corners and basic straightaways.
 
 Length: 22.92 m (75.2')
-Width: 76 cm (30"")",1564617600000,32,22.92,76.0,25
+Width: 76 cm (30"")",1564617600000,32,22.92,76.0,24
 arn:aws:deepracer:us-east-1::track/New_York_Track,Empire City Training,"July’s training track for the 2019 Virtual Circuit World Tour, the Empire City showcases a mix of subtle chicanes, moderate corners, and short straights.
 
 Length: 21.88 m (71.78')
@@ -98,7 +98,7 @@ Width: 76 cm (30"")",1561939200000,42,21.88,76.0,66
 arn:aws:deepracer:us-east-1::track/Tokyo_Training_track,Kumo Torakku Training,"June’s training track for the 2019 Virtual Circuit World Tour, the Kumo Torakku is complex and dramatic, featuring two 180-degree turns and a longstraightaway.
 
 Length: 22.63 m (74.25')
-Width: 76 cm (30"")",1559347200000,31,22.63,76.0,26
+Width: 76 cm (30"")",1559347200000,31,22.63,76.0,25
 arn:aws:deepracer:us-east-1::track/Virtual_May19_Train_track,London Loop Training,"May’s training track for the 2019 Virtual Circuit World Tour, the London Loop provides a variety of moderate curves and straightaways.
 
 Length: 19.45 m (63.81')
