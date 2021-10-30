@@ -3,9 +3,10 @@
 ## Track update interval
 Track data is updated 00:01 UTC daily. Actual update time may vary slightly due to the way actions are scheduled.
 ## Available tracks
-Currently there are **41 tracks** available in the dataset.
+Currently there are **42 tracks** available in the dataset.
 | Image                                                                                                                                         | Name                                     | Release Date           | Numpy File                                                               | Track Length   | Track Width   |
 |-----------------------------------------------------------------------------------------------------------------------------------------------|------------------------------------------|------------------------|--------------------------------------------------------------------------|----------------|---------------|
+| ![Vivalas Speedway](./assets/arn:aws:deepracer:us-east-1::track/caecer_gp/track-resources/caecer_gp.svg)                                      | **Vivalas Speedway**                     | *2021-10-30T00:00:00Z* | -                                                                        | 73.78 meters   | 1.08 meters   |
 | ![Expedition Loop](./assets/arn:aws:deepracer:us-east-1::track/red_star_open/track-resources/red_star_open.svg)                               | **Expedition Loop**                      | *2021-09-30T17:00:00Z* | [red_star_open.npy](././npy/red_star_open.npy)                           | 43.47 meters   | 0.01 meters   |
 | ![Expedition Super Loop](./assets/arn:aws:deepracer:us-east-1::track/red_star_pro/track-resources/red_star_pro.svg)                           | **Expedition Super Loop**                | *2021-09-30T16:58:00Z* | [red_star_pro.npy](././npy/red_star_pro.npy)                             | 69.17 meters   | 0.01 meters   |
 | ![Playa Super Raceway ](./assets/arn:aws:deepracer:us-east-1::track/morgan_pro/track-resources/morgan_pro.svg)                                | **Playa Super Raceway**                  | *2021-09-01T00:00:00Z* | [morgan_pro.npy](././npy/morgan_pro.npy)                                 | 59.57 meters   | 0.01 meters   |
