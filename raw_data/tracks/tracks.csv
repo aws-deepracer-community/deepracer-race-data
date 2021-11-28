@@ -1,6 +1,6 @@
 TrackArn,TrackName,TrackDescription,TrackReleaseTime,TrackDifficulty,TrackLength,TrackWidth,TrackUsageCount
 arn:aws:deepracer:us-east-1::track/caecer_loop,Vivalas Loop,The Vivalas Loop perimeter features a modified oval full of high speed straightaways primed for passing and all out speed. Which racers will roll the dice and go all in? ,1635588000000,25,39.119,108.0,13
-arn:aws:deepracer:us-east-1::track/caecer_gp,Vivalas Speedway,"Inspired by a historic Las Vegas track of yesteryear, the Vivalas Speedway is the second longest, and most difficult track to be released in 2021. 5 consecutive opposing hairpins are framed in by the Vivalas Loop perimeter; a modified oval full of high speed straightaways primed for passing and all out speed. Which racers will go all in and gamble it all for the jackpot?",1635552000000,70,73.785,108.0,159
+arn:aws:deepracer:us-east-1::track/caecer_gp,Vivalas Speedway,"Inspired by a historic Las Vegas track of yesteryear, the Vivalas Speedway is the second longest, and most difficult track to be released in 2021. 5 consecutive opposing hairpins are framed in by the Vivalas Loop perimeter; a modified oval full of high speed straightaways primed for passing and all out speed. Which racers will go all in and gamble it all for the jackpot?",1635552000000,70,73.785,108.0,158
 arn:aws:deepracer:us-east-1::track/red_star_open,Expedition Loop,Go where no racer has gone before on the Expedition Loop track! This is a short track at 44.04m featuring two dragstrips and an unforgiving hairpin turn. Expect to see no shortage of off tracks on this challenging course.,1633021200000,52,43.46808170524502,1.0668004259895272,9
 arn:aws:deepracer:us-east-1::track/red_star_pro,Expedition Super Loop,The pro racers will be drifting into uncharted territory on the Expedition Super Loop! This is a long track at 69.96m featuring exceptionally difficult hairpin turns and high speed straightaways. This track is sure to test even the most skillful racers.,1633021080000,47,69.17464597163165,1.0668004636069797,71
 arn:aws:deepracer:us-east-1::track/morgan_pro,Playa Super Raceway , At 59.8m the Playa Super Raceway features back-to-back hairpin turns and two straightaway opportunities to generate speed. A successful run will require skillful command of time (steps) and (action) space. ,1630454400000,57,59.56709584389691,1.0667996382588605,137
@@ -28,11 +28,11 @@ Width: 135 cm (53"")",1609718400000,78,60.0,135.0,44
 arn:aws:deepracer:us-east-1::track/Austin,American Hills Speedway,"Set in the Southern United States, the American Hills Speedway is a classic circuit, featuring two technical turn sections and three high speed straightaways.
 
 Length: 59 m (194')
-Width: 131 cm (52"")",1604966400000,54,59.0,131.0,73
+Width: 131 cm (52"")",1604966400000,54,59.0,131.0,71
 arn:aws:deepracer:us-east-1::track/Singapore,Asia Pacific Bay Loop,"Streak through the Marina Bay’s waterfront on the Asia Pacific Bay Loop, a fast and open nighttime track.
 
 Length: 60 m (197')
-Width: 135 cm (53"")",1604966400000,78,60.0,135.0,59
+Width: 135 cm (53"")",1604966400000,78,60.0,135.0,62
 arn:aws:deepracer:us-east-1::track/Monaco,European Seaside Circuit,"A highly technical track, the European Seaside Circuit’s tight turns weave through a timeless Mediterranean cliffside village, without buildings.
 
 Length: 60 m (197')
@@ -68,7 +68,7 @@ Width: 107 cm (42"")",1585699200000,88,23.12,107.0,785
 arn:aws:deepracer:us-east-1::track/reinvent_base,re:Invent 2018,"Inspired by Monza, re:Invent 2018 was the first Championship Cup track. This short, classic speedway remains a perennial rookie favorite.
 
 Length: 17.6 m (57.97')
-Width: 76 cm (30"")",1583020800000,69,17.6,76.0,2138
+Width: 76 cm (30"")",1583020800000,69,17.6,76.0,2141
 arn:aws:deepracer:us-east-1::track/AmericasGeneratedInclStart,Baadal Track,"“Baadal” is the Hindi word for “cloud.” The Baadal Track’s tight winding corners open up into long arching straightaways, perfect for passing opportunities.
 
 Length: 39 m (128')
@@ -96,7 +96,7 @@ Width: 76 cm (30"")",1564617600000,32,22.92,76.0,20
 arn:aws:deepracer:us-east-1::track/New_York_Track,Empire City Training,"July’s training track for the 2019 Virtual Circuit World Tour, the Empire City showcases a mix of subtle chicanes, moderate corners, and short straights.
 
 Length: 21.88 m (71.78')
-Width: 76 cm (30"")",1561939200000,42,21.88,76.0,64
+Width: 76 cm (30"")",1561939200000,42,21.88,76.0,63
 arn:aws:deepracer:us-east-1::track/Tokyo_Training_track,Kumo Torakku Training,"June’s training track for the 2019 Virtual Circuit World Tour, the Kumo Torakku is complex and dramatic, featuring two 180-degree turns and a longstraightaway.
 
 Length: 22.63 m (74.25')
