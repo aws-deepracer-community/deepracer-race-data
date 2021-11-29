@@ -24,7 +24,7 @@ Width: 128 cm (50"")",1609718400000,61,60.0,128.0,2
 arn:aws:deepracer:us-east-1::track/Singapore_building,Asia Pacific Bay Loop - Buildings,"Streak through the Marina Bay’s waterfront on the Asia Pacific Bay Loop, a fast and open nighttime track with iconic buildings.
 
 Length: 60 m (197')
-Width: 135 cm (53"")",1609718400000,78,60.0,135.0,44
+Width: 135 cm (53"")",1609718400000,78,60.0,135.0,45
 arn:aws:deepracer:us-east-1::track/Austin,American Hills Speedway,"Set in the Southern United States, the American Hills Speedway is a classic circuit, featuring two technical turn sections and three high speed straightaways.
 
 Length: 59 m (194')
@@ -40,7 +40,7 @@ Width: 128 cm (50"")",1604966400000,61,60.0,128.0,232
 arn:aws:deepracer:us-east-1::track/Aragon,Stratus Loop,"An all-out sprint to the finish line, the Stratus Loop is a speed-loving track featuring two massive straightaways punctuated by broad, sweeping hairpins.
 
 Length: 60 m (197')
-Width: 105 cm (41"")",1601510400000,36,60.0,105.0,50
+Width: 105 cm (41"")",1601510400000,36,60.0,105.0,51
 arn:aws:deepracer:us-east-1::track/Belille,Cumulo Turnpike,"The Cumulo Turnpike shifts from high-speed straightaways to challenging corners. It requires a perfect storm of exceptional navigation skill and speed control.
 
 Length: 60 m (197')
