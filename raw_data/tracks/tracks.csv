@@ -3,7 +3,7 @@ arn:aws:deepracer:us-east-1::track/caecer_loop,Vivalas Loop,The Vivalas Loop per
 arn:aws:deepracer:us-east-1::track/caecer_gp,Vivalas Speedway,"Inspired by a historic Las Vegas track of yesteryear, the Vivalas Speedway is the second longest, and most difficult track to be released in 2021. 5 consecutive opposing hairpins are framed in by the Vivalas Loop perimeter; a modified oval full of high speed straightaways primed for passing and all out speed. Which racers will go all in and gamble it all for the jackpot?",1635552000000,70,73.785,108.0,157
 arn:aws:deepracer:us-east-1::track/red_star_open,Expedition Loop,Go where no racer has gone before on the Expedition Loop track! This is a short track at 44.04m featuring two dragstrips and an unforgiving hairpin turn. Expect to see no shortage of off tracks on this challenging course.,1633021200000,52,43.46808170524502,1.0668004259895272,8
 arn:aws:deepracer:us-east-1::track/red_star_pro,Expedition Super Loop,The pro racers will be drifting into uncharted territory on the Expedition Super Loop! This is a long track at 69.96m featuring exceptionally difficult hairpin turns and high speed straightaways. This track is sure to test even the most skillful racers.,1633021080000,47,69.17464597163165,1.0668004636069797,76
-arn:aws:deepracer:us-east-1::track/morgan_pro,Playa Super Raceway , At 59.8m the Playa Super Raceway features back-to-back hairpin turns and two straightaway opportunities to generate speed. A successful run will require skillful command of time (steps) and (action) space. ,1630454400000,57,59.56709584389691,1.0667996382588605,140
+arn:aws:deepracer:us-east-1::track/morgan_pro,Playa Super Raceway , At 59.8m the Playa Super Raceway features back-to-back hairpin turns and two straightaway opportunities to generate speed. A successful run will require skillful command of time (steps) and (action) space. ,1630454400000,57,59.56709584389691,1.0667996382588605,139
 arn:aws:deepracer:us-east-1::track/morgan_open,Playa Raceway ,The Playa Raceway is a short track at 45.16m featuring one long drag strip for generating speed with an unforgiving hairpin turn. While the track seems simple expect to see no shortage of off tracks.    ,1630454400000,55,45.05585667303253,1.066800683753089,9
 arn:aws:deepracer:us-east-1::track/arctic_pro,Hot Rod Super Speedway ,"The Hot Rod Super Speedway adds pro difficulty to the short track counterpart. With a length of 59.69m, the speed loving arch is replaced by 4 short straightaways coupled with variable angle turns. Skillful racers may bisect the chicanes to extending speed generating opportunities and pull away from the pack.",1627689601000,64,59.504850333417956,1.0668001023002507,77
 arn:aws:deepracer:us-east-1::track/arctic_open,Hot Rod Speedway ,"Featuring a short length of just 42.25m, the Hot Rod Speedway caters to speed loving dragsters with multiple fast running drag strips tied together by friendly sweeping turns. Expect to see blistering fast times this month as models rev their engines and burn rubber around this track.",1627689601000,55,42.20733669315415,1.0667996616680357,25
@@ -24,7 +24,7 @@ Width: 128 cm (50"")",1609718400000,61,60.0,128.0,3
 arn:aws:deepracer:us-east-1::track/Singapore_building,Asia Pacific Bay Loop - Buildings,"Streak through the Marina Bay’s waterfront on the Asia Pacific Bay Loop, a fast and open nighttime track with iconic buildings.
 
 Length: 60 m (197')
-Width: 135 cm (53"")",1609718400000,78,60.0,135.0,45
+Width: 135 cm (53"")",1609718400000,78,60.0,135.0,44
 arn:aws:deepracer:us-east-1::track/Austin,American Hills Speedway,"Set in the Southern United States, the American Hills Speedway is a classic circuit, featuring two technical turn sections and three high speed straightaways.
 
 Length: 59 m (194')
@@ -36,7 +36,7 @@ Width: 135 cm (53"")",1604966400000,78,60.0,135.0,62
 arn:aws:deepracer:us-east-1::track/Monaco,European Seaside Circuit,"A highly technical track, the European Seaside Circuit’s tight turns weave through a timeless Mediterranean cliffside village, without buildings.
 
 Length: 60 m (197')
-Width: 128 cm (50"")",1604966400000,61,60.0,128.0,234
+Width: 128 cm (50"")",1604966400000,61,60.0,128.0,233
 arn:aws:deepracer:us-east-1::track/Aragon,Stratus Loop,"An all-out sprint to the finish line, the Stratus Loop is a speed-loving track featuring two massive straightaways punctuated by broad, sweeping hairpins.
 
 Length: 60 m (197')
@@ -68,7 +68,7 @@ Width: 107 cm (42"")",1585699200000,88,23.12,107.0,826
 arn:aws:deepracer:us-east-1::track/reinvent_base,re:Invent 2018,"Inspired by Monza, re:Invent 2018 was the first Championship Cup track. This short, classic speedway remains a perennial rookie favorite.
 
 Length: 17.6 m (57.97')
-Width: 76 cm (30"")",1583020800000,69,17.6,76.0,2224
+Width: 76 cm (30"")",1583020800000,69,17.6,76.0,2225
 arn:aws:deepracer:us-east-1::track/AmericasGeneratedInclStart,Baadal Track,"“Baadal” is the Hindi word for “cloud.” The Baadal Track’s tight winding corners open up into long arching straightaways, perfect for passing opportunities.
 
 Length: 39 m (128')
@@ -100,7 +100,7 @@ Width: 76 cm (30"")",1561939200000,42,21.88,76.0,64
 arn:aws:deepracer:us-east-1::track/Tokyo_Training_track,Kumo Torakku Training,"June’s training track for the 2019 Virtual Circuit World Tour, the Kumo Torakku is complex and dramatic, featuring two 180-degree turns and a longstraightaway.
 
 Length: 22.63 m (74.25')
-Width: 76 cm (30"")",1559347200000,31,22.63,76.0,23
+Width: 76 cm (30"")",1559347200000,31,22.63,76.0,22
 arn:aws:deepracer:us-east-1::track/Virtual_May19_Train_track,London Loop Training,"May’s training track for the 2019 Virtual Circuit World Tour, the London Loop provides a variety of moderate curves and straightaways.
 
 Length: 19.45 m (63.81')
