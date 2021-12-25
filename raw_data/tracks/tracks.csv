@@ -1,5 +1,5 @@
 TrackArn,TrackName,TrackDescription,TrackReleaseTime,TrackDifficulty,TrackLength,TrackWidth,TrackUsageCount
-arn:aws:deepracer:us-east-1::track/caecer_loop,Vivalas Loop,The Vivalas Loop perimeter features a modified oval full of high speed straightaways primed for passing and all out speed. Which racers will roll the dice and go all in? ,1635588000000,25,39.119,108.0,16
+arn:aws:deepracer:us-east-1::track/caecer_loop,Vivalas Loop,The Vivalas Loop perimeter features a modified oval full of high speed straightaways primed for passing and all out speed. Which racers will roll the dice and go all in? ,1635588000000,25,39.119,108.0,15
 arn:aws:deepracer:us-east-1::track/caecer_gp,Vivalas Speedway,"Inspired by a historic Las Vegas track of yesteryear, the Vivalas Speedway is the second longest, and most difficult track to be released in 2021. 5 consecutive opposing hairpins are framed in by the Vivalas Loop perimeter; a modified oval full of high speed straightaways primed for passing and all out speed. Which racers will go all in and gamble it all for the jackpot?",1635552000000,70,73.785,108.0,157
 arn:aws:deepracer:us-east-1::track/red_star_open,Expedition Loop,Go where no racer has gone before on the Expedition Loop track! This is a short track at 44.04m featuring two dragstrips and an unforgiving hairpin turn. Expect to see no shortage of off tracks on this challenging course.,1633021200000,52,43.46808170524502,1.0668004259895272,8
 arn:aws:deepracer:us-east-1::track/red_star_pro,Expedition Super Loop,The pro racers will be drifting into uncharted territory on the Expedition Super Loop! This is a long track at 69.96m featuring exceptionally difficult hairpin turns and high speed straightaways. This track is sure to test even the most skillful racers.,1633021080000,47,69.17464597163165,1.0668004636069797,76
@@ -14,9 +14,9 @@ arn:aws:deepracer:us-east-1::track/jyllandsringen_pro,Cosmic Circuit,Cosmic Circ
 arn:aws:deepracer:us-east-1::track/jyllandsringen_open,Cosmic Loop,Cosmic Loop is a short track (46.18m) that features a single sprint straightaway and a challenging technical section with multiple 90 degree turns and and two hairpins. A successful run will require skillful command of time (steps) and (action) space.,1621977289088,50,46.12,1.06,5
 arn:aws:deepracer:us-east-1::track/hamption_pro,Kuei Super Raceway,Kuei Super Raceway adds pro difficulty to its short track counterpart by extending overall length in the form of a straightaway with a technical 4x double apex section. It is named after 3rd place DeepRacer League finalists Kuei of NCTU CGI Taiwan.,1619827200000,35,60.74,1.06,34
 arn:aws:deepracer:us-east-1::track/thunder_hill_pro,Lars Circuit,Lars Circuit is a pro difficulty track that adds an increasing to decreasing double apex and multiple high speed straightaways to its shorter cohort Lars Loop. It is named in honor of 2020 AWS DeepRacer League silver medalist Lars Ludvigsen (Duckworth).,1617235201000,28,59.233,107.0,40
-arn:aws:deepracer:us-east-1::track/thunder_hill_open,Lars Loop,"Lars Loop is a short track comprised of a modified oval with increasing radius and double apex, a varying double chicane, and a broad hairpin final stretch. It is named in honor of 2020 AWS DeepRacer League silver medalist Lars Ludvigsen (Duckworth).",1617235201000,34,41.551,107.0,10
+arn:aws:deepracer:us-east-1::track/thunder_hill_open,Lars Loop,"Lars Loop is a short track comprised of a modified oval with increasing radius and double apex, a varying double chicane, and a broad hairpin final stretch. It is named in honor of 2020 AWS DeepRacer League silver medalist Lars Ludvigsen (Duckworth).",1617235201000,34,41.551,107.0,11
 arn:aws:deepracer:us-east-1::track/penbay_open,Po-Chun Speedway,"Po-Chun Speedway is a short track (68.68m) featuring a simple oval track paired with a dragstrip, and single hairpin. It is named in honor of the 2020 AWS DeepRacer League Champion from NCTU CGI Taiwan.",1614560400000,43,68.68,107.0,86
-arn:aws:deepracer:us-east-1::track/penbay_pro,Po-Chun Super Speedway,Po-Chun Super Speedway is a long track (89.24m) which adds back-to-back hairpins and a high speed right angle turn its short track counterpart. It is named in honor of the 2020 AWS DeepRacer League Champion from NCTU CGI Taiwan.,1614560400000,31,89.24,107.0,41
+arn:aws:deepracer:us-east-1::track/penbay_pro,Po-Chun Super Speedway,Po-Chun Super Speedway is a long track (89.24m) which adds back-to-back hairpins and a high speed right angle turn its short track counterpart. It is named in honor of the 2020 AWS DeepRacer League Champion from NCTU CGI Taiwan.,1614560400000,31,89.24,107.0,42
 arn:aws:deepracer:us-east-1::track/Monaco_building,European Seaside Circuit - Buildings,"A highly technical track, the European Seaside Circuit’s tight turns weave through a timeless Mediterranean cliffside village with iconic buildings.
 
 Length: 60 m (197')
@@ -32,19 +32,19 @@ Width: 131 cm (52"")",1604966400000,54,59.0,131.0,71
 arn:aws:deepracer:us-east-1::track/Singapore,Asia Pacific Bay Loop,"Streak through the Marina Bay’s waterfront on the Asia Pacific Bay Loop, a fast and open nighttime track.
 
 Length: 60 m (197')
-Width: 135 cm (53"")",1604966400000,78,60.0,135.0,60
+Width: 135 cm (53"")",1604966400000,78,60.0,135.0,62
 arn:aws:deepracer:us-east-1::track/Monaco,European Seaside Circuit,"A highly technical track, the European Seaside Circuit’s tight turns weave through a timeless Mediterranean cliffside village, without buildings.
 
 Length: 60 m (197')
-Width: 128 cm (50"")",1604966400000,61,60.0,128.0,233
+Width: 128 cm (50"")",1604966400000,61,60.0,128.0,234
 arn:aws:deepracer:us-east-1::track/Aragon,Stratus Loop,"An all-out sprint to the finish line, the Stratus Loop is a speed-loving track featuring two massive straightaways punctuated by broad, sweeping hairpins.
 
 Length: 60 m (197')
-Width: 105 cm (41"")",1601510400000,36,60.0,105.0,48
+Width: 105 cm (41"")",1601510400000,36,60.0,105.0,49
 arn:aws:deepracer:us-east-1::track/Belille,Cumulo Turnpike,"The Cumulo Turnpike shifts from high-speed straightaways to challenging corners. It requires a perfect storm of exceptional navigation skill and speed control.
 
 Length: 60 m (197')
-Width: 106 cm (42"")",1598918400000,33,60.0,106.0,711
+Width: 106 cm (42"")",1598918400000,33,60.0,106.0,714
 arn:aws:deepracer:us-east-1::track/Albert,Yun Speedway,"“Yun” is the Chinese word for “cloud.” A broad loop demanding constant cornering, the Yun Speedway is the lofty domain of the racing line specialist.
 
 Length: 51 m (167')
@@ -52,7 +52,7 @@ Width: 107 cm (42"")",1596240000000,82,51.0,107.0,30
 arn:aws:deepracer:us-east-1::track/July_2020,Roger Raceway,"Named in honor of the 2019 Championship Cup bronze medalist, Roger Chu, the Roger Raceway boasts a variety of complex curves for a worthy training challenge.
 
 Length: 60 m (196.5')
-Width: 107 cm (42"")",1593561600000,56,60.0,107.0,18
+Width: 107 cm (42"")",1593561600000,56,60.0,107.0,17
 arn:aws:deepracer:us-east-1::track/FS_June2020,Fumiaki Loop,"Dedicated to our runner up at the 2019 Championship Cup and inspired by Fuji Speedway, the Fumiaki Loop is a serious challenge for any agent.
 
 Length: 53 m (173.5')
