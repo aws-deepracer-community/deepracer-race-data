@@ -1,5 +1,5 @@
 TrackArn,TrackName,TrackDescription,TrackReleaseTime,TrackDifficulty,TrackLength,TrackWidth,TrackUsageCount
-arn:aws:deepracer:us-east-1::track/caecer_loop,Vivalas Loop,The Vivalas Loop perimeter features a modified oval full of high speed straightaways primed for passing and all out speed. Which racers will roll the dice and go all in? ,1635588000000,25,39.119,108.0,15
+arn:aws:deepracer:us-east-1::track/caecer_loop,Vivalas Loop,The Vivalas Loop perimeter features a modified oval full of high speed straightaways primed for passing and all out speed. Which racers will roll the dice and go all in? ,1635588000000,25,39.119,108.0,18
 arn:aws:deepracer:us-east-1::track/caecer_gp,Vivalas Speedway,"Inspired by a historic Las Vegas track of yesteryear, the Vivalas Speedway is the second longest, and most difficult track to be released in 2021. 5 consecutive opposing hairpins are framed in by the Vivalas Loop perimeter; a modified oval full of high speed straightaways primed for passing and all out speed. Which racers will go all in and gamble it all for the jackpot?",1635552000000,70,73.785,108.0,157
 arn:aws:deepracer:us-east-1::track/red_star_open,Expedition Loop,Go where no racer has gone before on the Expedition Loop track! This is a short track at 44.04m featuring two dragstrips and an unforgiving hairpin turn. Expect to see no shortage of off tracks on this challenging course.,1633021200000,52,43.46808170524502,1.0668004259895272,8
 arn:aws:deepracer:us-east-1::track/red_star_pro,Expedition Super Loop,The pro racers will be drifting into uncharted territory on the Expedition Super Loop! This is a long track at 69.96m featuring exceptionally difficult hairpin turns and high speed straightaways. This track is sure to test even the most skillful racers.,1633021080000,47,69.17464597163165,1.0668004636069797,76
@@ -32,7 +32,7 @@ Width: 131 cm (52"")",1604966400000,54,59.0,131.0,71
 arn:aws:deepracer:us-east-1::track/Singapore,Asia Pacific Bay Loop,"Streak through the Marina Bay’s waterfront on the Asia Pacific Bay Loop, a fast and open nighttime track.
 
 Length: 60 m (197')
-Width: 135 cm (53"")",1604966400000,78,60.0,135.0,61
+Width: 135 cm (53"")",1604966400000,78,60.0,135.0,60
 arn:aws:deepracer:us-east-1::track/Monaco,European Seaside Circuit,"A highly technical track, the European Seaside Circuit’s tight turns weave through a timeless Mediterranean cliffside village, without buildings.
 
 Length: 60 m (197')
