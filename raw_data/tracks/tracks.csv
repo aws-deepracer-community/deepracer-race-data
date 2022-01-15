@@ -32,7 +32,7 @@ Width: 131 cm (52"")",1604966400000,54,59.0,131.0,71
 arn:aws:deepracer:us-east-1::track/Singapore,Asia Pacific Bay Loop,"Streak through the Marina Bay’s waterfront on the Asia Pacific Bay Loop, a fast and open nighttime track.
 
 Length: 60 m (197')
-Width: 135 cm (53"")",1604966400000,78,60.0,135.0,111
+Width: 135 cm (53"")",1604966400000,78,60.0,135.0,90
 arn:aws:deepracer:us-east-1::track/Monaco,European Seaside Circuit,"A highly technical track, the European Seaside Circuit’s tight turns weave through a timeless Mediterranean cliffside village, without buildings.
 
 Length: 60 m (197')
@@ -64,11 +64,11 @@ Width: 107 cm (42"")",1588291200000,31,60.0,107.0,85
 arn:aws:deepracer:us-east-1::track/reInvent2019_track,The 2019 DeepRacer Championship Cup,"The official track for the 2019 AWS DeepRacer Championship Cup finals, this is a moderately challenging track ideal for stepping up your training and experimentation.
 
 Length: 23.12 m (75.85')
-Width: 107 cm (42"")",1585699200000,88,23.12,107.0,833
+Width: 107 cm (42"")",1585699200000,88,23.12,107.0,834
 arn:aws:deepracer:us-east-1::track/reinvent_base,re:Invent 2018,"Inspired by Monza, re:Invent 2018 was the first Championship Cup track. This short, classic speedway remains a perennial rookie favorite.
 
 Length: 17.6 m (57.97')
-Width: 76 cm (30"")",1583020800000,69,17.6,76.0,2248
+Width: 76 cm (30"")",1583020800000,69,17.6,76.0,2252
 arn:aws:deepracer:us-east-1::track/AmericasGeneratedInclStart,Baadal Track,"“Baadal” is the Hindi word for “cloud.” The Baadal Track’s tight winding corners open up into long arching straightaways, perfect for passing opportunities.
 
 Length: 39 m (128')
@@ -104,7 +104,7 @@ Width: 76 cm (30"")",1559347200000,31,22.63,76.0,22
 arn:aws:deepracer:us-east-1::track/Virtual_May19_Train_track,London Loop Training,"May’s training track for the 2019 Virtual Circuit World Tour, the London Loop provides a variety of moderate curves and straightaways.
 
 Length: 19.45 m (63.81')
-Width: 76 cm (30"")",1556668800000,16,19.45,76.0,29
+Width: 76 cm (30"")",1556668800000,16,19.45,76.0,30
 arn:aws:deepracer:us-east-1::track/Bowtie_track,Bowtie Track,"The Bowtie offers a simple symmetrical track with a twist. It features shallow turns that you can use to experiment with different racing behaviors.
 
 Length: 17.43 m (57.19')
