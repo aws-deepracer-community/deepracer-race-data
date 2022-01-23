@@ -32,7 +32,7 @@ Width: 131 cm (52"")",1604966400000,54,59.0,131.0,72
 arn:aws:deepracer:us-east-1::track/Singapore,Asia Pacific Bay Loop,"Streak through the Marina Bay’s waterfront on the Asia Pacific Bay Loop, a fast and open nighttime track.
 
 Length: 60 m (197')
-Width: 135 cm (53"")",1604966400000,78,60.0,135.0,63
+Width: 135 cm (53"")",1604966400000,78,60.0,135.0,61
 arn:aws:deepracer:us-east-1::track/Monaco,European Seaside Circuit,"A highly technical track, the European Seaside Circuit’s tight turns weave through a timeless Mediterranean cliffside village, without buildings.
 
 Length: 60 m (197')
@@ -84,7 +84,7 @@ Width: 91 cm (36"")",1575158400000,49,22.57,91.0,107
 arn:aws:deepracer:us-east-1::track/Canada_Training,Toronto Turnpike Training,"October’s training track for the 2019 Virtual Circuit World Tour, the Toronto Turnpike bookends a variety of subtle curves with two hairpins.
 
 Length: 21.74 m (71.33')
-Width: 76 cm (30"")",1569888000000,25,21.74,76.0,19
+Width: 76 cm (30"")",1569888000000,25,21.74,76.0,18
 arn:aws:deepracer:us-east-1::track/Mexico_track,Cumulo Carrera Training,"September’s training track for the 2019 Virtual Circuit World Tour, the Cumulo Carrera is a good choice for training for cornering convergence.
 
 Length: 20.51 m (67.29')
