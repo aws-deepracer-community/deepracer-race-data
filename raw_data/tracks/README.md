@@ -3,9 +3,10 @@
 ## Track update interval
 Track data is updated 00:01 UTC daily. Actual update time may vary slightly due to the way actions are scheduled.
 ## Available tracks
-Currently there are **43 tracks** available in the dataset.
+Currently there are **44 tracks** available in the dataset.
 | Image                                                                                                                                         | Name                                     | Release Date           | Numpy File                                                               | Track Length   | Track Width   |
 |-----------------------------------------------------------------------------------------------------------------------------------------------|------------------------------------------|------------------------|--------------------------------------------------------------------------|----------------|---------------|
+| ![Summit Speedway ](./assets/arn:aws:deepracer:us-east-1::track/2022_summit_speedway/track-resources/2022_summit_speedway.svg)                | **Summit Speedway**                      | *2022-02-01T00:00:00Z* | -                                                                        | 25.24 meters   | 0.01 meters   |
 | ![Vivalas Loop](./assets/arn:aws:deepracer:us-east-1::track/caecer_loop/track-resources/caecer_loop.svg)                                      | **Vivalas Loop**                         | *2021-10-30T10:00:00Z* | [caecer_loop.npy](././npy/caecer_loop.npy)                               | 39.12 meters   | 1.08 meters   |
 | ![Vivalas Speedway](./assets/arn:aws:deepracer:us-east-1::track/caecer_gp/track-resources/caecer_gp.svg)                                      | **Vivalas Speedway**                     | *2021-10-30T00:00:00Z* | [caecer_gp.npy](././npy/caecer_gp.npy)                                   | 73.78 meters   | 1.08 meters   |
 | ![Expedition Loop](./assets/arn:aws:deepracer:us-east-1::track/red_star_open/track-resources/red_star_open.svg)                               | **Expedition Loop**                      | *2021-09-30T17:00:00Z* | [red_star_open.npy](././npy/red_star_open.npy)                           | 43.47 meters   | 0.01 meters   |
