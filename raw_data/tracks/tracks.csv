@@ -1,5 +1,5 @@
 TrackArn,TrackName,TrackDescription,TrackReleaseTime,TrackDifficulty,TrackLength,TrackWidth,TrackUsageCount
-arn:aws:deepracer:us-east-1::track/2022_summit_speedway,Summit Speedway ,Kick starting the 2022 AWS DeepRacer Virtual Circuit with the debut of the Summit Speedway (25.23m). This track is comprised of short sprints and multiple hard decelerating 90 degree turns. Put your developer skills to the test and race the Summit Speedway in-person at AWS Summits returning in 2022! ,1643673600000,25,25.236,1.0668,10
+arn:aws:deepracer:us-east-1::track/2022_summit_speedway,Summit Speedway ,Kick starting the 2022 AWS DeepRacer Virtual Circuit with the debut of the Summit Speedway (25.23m). This track is comprised of short sprints and multiple hard decelerating 90 degree turns. Put your developer skills to the test and race the Summit Speedway in-person at AWS Summits returning in 2022! ,1643673600000,25,25.236,1.0668,11
 arn:aws:deepracer:us-east-1::track/caecer_loop,Vivalas Loop,The Vivalas Loop perimeter features a modified oval full of high speed straightaways primed for passing and all out speed. Which racers will roll the dice and go all in? ,1635588000000,25,39.119,108.0,27
 arn:aws:deepracer:us-east-1::track/caecer_gp,Vivalas Speedway,"Inspired by a historic Las Vegas track of yesteryear, the Vivalas Speedway is the second longest, and most difficult track to be released in 2021. 5 consecutive opposing hairpins are framed in by the Vivalas Loop perimeter; a modified oval full of high speed straightaways primed for passing and all out speed. Which racers will go all in and gamble it all for the jackpot?",1635552000000,70,73.785,108.0,169
 arn:aws:deepracer:us-east-1::track/red_star_open,Expedition Loop,Go where no racer has gone before on the Expedition Loop track! This is a short track at 44.04m featuring two dragstrips and an unforgiving hairpin turn. Expect to see no shortage of off tracks on this challenging course.,1633021200000,52,43.46808170524502,1.0668004259895272,8
@@ -16,12 +16,12 @@ arn:aws:deepracer:us-east-1::track/jyllandsringen_open,Cosmic Loop,Cosmic Loop i
 arn:aws:deepracer:us-east-1::track/hamption_pro,Kuei Super Raceway,Kuei Super Raceway adds pro difficulty to its short track counterpart by extending overall length in the form of a straightaway with a technical 4x double apex section. It is named after 3rd place DeepRacer League finalists Kuei of NCTU CGI Taiwan.,1619827200000,35,60.74,1.06,35
 arn:aws:deepracer:us-east-1::track/thunder_hill_pro,Lars Circuit,Lars Circuit is a pro difficulty track that adds an increasing to decreasing double apex and multiple high speed straightaways to its shorter cohort Lars Loop. It is named in honor of 2020 AWS DeepRacer League silver medalist Lars Ludvigsen (Duckworth).,1617235201000,28,59.233,107.0,41
 arn:aws:deepracer:us-east-1::track/thunder_hill_open,Lars Loop,"Lars Loop is a short track comprised of a modified oval with increasing radius and double apex, a varying double chicane, and a broad hairpin final stretch. It is named in honor of 2020 AWS DeepRacer League silver medalist Lars Ludvigsen (Duckworth).",1617235201000,34,41.551,107.0,14
-arn:aws:deepracer:us-east-1::track/penbay_open,Po-Chun Speedway,"Po-Chun Speedway is a short track (68.68m) featuring a simple oval track paired with a dragstrip, and single hairpin. It is named in honor of the 2020 AWS DeepRacer League Champion from NCTU CGI Taiwan.",1614560400000,43,68.68,107.0,88
+arn:aws:deepracer:us-east-1::track/penbay_open,Po-Chun Speedway,"Po-Chun Speedway is a short track (68.68m) featuring a simple oval track paired with a dragstrip, and single hairpin. It is named in honor of the 2020 AWS DeepRacer League Champion from NCTU CGI Taiwan.",1614560400000,43,68.68,107.0,89
 arn:aws:deepracer:us-east-1::track/penbay_pro,Po-Chun Super Speedway,Po-Chun Super Speedway is a long track (89.24m) which adds back-to-back hairpins and a high speed right angle turn its short track counterpart. It is named in honor of the 2020 AWS DeepRacer League Champion from NCTU CGI Taiwan.,1614560400000,31,89.24,107.0,41
 arn:aws:deepracer:us-east-1::track/Monaco_building,European Seaside Circuit - Buildings,"A highly technical track, the European Seaside Circuit’s tight turns weave through a timeless Mediterranean cliffside village with iconic buildings.
 
 Length: 60 m (197')
-Width: 128 cm (50"")",1609718400000,61,60.0,128.0,4
+Width: 128 cm (50"")",1609718400000,61,60.0,128.0,3
 arn:aws:deepracer:us-east-1::track/Singapore_building,Asia Pacific Bay Loop - Buildings,"Streak through the Marina Bay’s waterfront on the Asia Pacific Bay Loop, a fast and open nighttime track with iconic buildings.
 
 Length: 60 m (197')
@@ -33,7 +33,7 @@ Width: 131 cm (52"")",1604966400000,54,59.0,131.0,73
 arn:aws:deepracer:us-east-1::track/Singapore,Asia Pacific Bay Loop,"Streak through the Marina Bay’s waterfront on the Asia Pacific Bay Loop, a fast and open nighttime track.
 
 Length: 60 m (197')
-Width: 135 cm (53"")",1604966400000,78,60.0,135.0,74
+Width: 135 cm (53"")",1604966400000,78,60.0,135.0,81
 arn:aws:deepracer:us-east-1::track/Monaco,European Seaside Circuit,"A highly technical track, the European Seaside Circuit’s tight turns weave through a timeless Mediterranean cliffside village, without buildings.
 
 Length: 60 m (197')
@@ -69,7 +69,7 @@ Width: 107 cm (42"")",1585699200000,88,23.12,107.0,850
 arn:aws:deepracer:us-east-1::track/reinvent_base,re:Invent 2018,"Inspired by Monza, re:Invent 2018 was the first Championship Cup track. This short, classic speedway remains a perennial rookie favorite.
 
 Length: 17.6 m (57.97')
-Width: 76 cm (30"")",1583020800000,69,17.6,76.0,2327
+Width: 76 cm (30"")",1583020800000,69,17.6,76.0,2328
 arn:aws:deepracer:us-east-1::track/AmericasGeneratedInclStart,Baadal Track,"“Baadal” is the Hindi word for “cloud.” The Baadal Track’s tight winding corners open up into long arching straightaways, perfect for passing opportunities.
 
 Length: 39 m (128')
@@ -85,7 +85,7 @@ Width: 91 cm (36"")",1575158400000,49,22.57,91.0,105
 arn:aws:deepracer:us-east-1::track/Canada_Training,Toronto Turnpike Training,"October’s training track for the 2019 Virtual Circuit World Tour, the Toronto Turnpike bookends a variety of subtle curves with two hairpins.
 
 Length: 21.74 m (71.33')
-Width: 76 cm (30"")",1569888000000,25,21.74,76.0,21
+Width: 76 cm (30"")",1569888000000,25,21.74,76.0,20
 arn:aws:deepracer:us-east-1::track/Mexico_track,Cumulo Carrera Training,"September’s training track for the 2019 Virtual Circuit World Tour, the Cumulo Carrera is a good choice for training for cornering convergence.
 
 Length: 20.51 m (67.29')
@@ -117,4 +117,4 @@ Width: 76 cm (30"")",1551398400000,92,19.55,76.0,168
 arn:aws:deepracer:us-east-1::track/reInvent2019_wide,re:Invent 2018 Wide,"It’s easier for an agent to navigate this extra wide version of re:Invent 2018. Use it to get started with object avoidance and head-to-head race training.
 
 Length: 16.64 m (54.59')
-Width: 107 cm (42"")",1548979200000,94,16.64,107.0,130
+Width: 107 cm (42"")",1548979200000,94,16.64,107.0,129
