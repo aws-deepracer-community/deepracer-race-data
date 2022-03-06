@@ -1,6 +1,6 @@
 TrackArn,TrackName,TrackDescription,TrackReleaseTime,TrackDifficulty,TrackLength,TrackWidth,TrackUsageCount
 arn:aws:deepracer:us-east-1::track/2022_march_open,Rogue Circuit ,"Named in honor of the 2021 DeepRacer Championship Cup winner, Sairam Naragoni, the Rogue Circuit is a short track (48.06m) features a variety of moderate curves and sweeping turns. 
-",1646092800000,60,48.06927,1.0668,7
+",1646092800000,60,48.06927,1.0668,8
 arn:aws:deepracer:us-east-1::track/2022_march_pro,Rogue Raceway ,"Named in honor of the 2021 DeepRacer Championship Cup winner, Sairam Naragoni, the Rogue Raceway boasts a variety of sweeping turns and drag strips for a worthy training challenge.",1646092800000,75,76.76036,1.0668,9
 arn:aws:deepracer:us-east-1::track/2022_summit_speedway,Summit Speedway ,Kick starting the 2022 AWS DeepRacer Virtual Circuit with the debut of the Summit Speedway (25.23m). This track is comprised of short sprints and multiple hard decelerating 90 degree turns. Put your developer skills to the test and race the Summit Speedway in-person at AWS Summits returning in 2022! ,1643673600000,25,25.236,1.0668,17
 arn:aws:deepracer:us-east-1::track/caecer_loop,Vivalas Loop,The Vivalas Loop perimeter features a modified oval full of high speed straightaways primed for passing and all out speed. Which racers will roll the dice and go all in? ,1635588000000,25,39.119,108.0,28
@@ -40,7 +40,7 @@ Width: 135 cm (53"")",1604966400000,78,60.0,135.0,63
 arn:aws:deepracer:us-east-1::track/Monaco,European Seaside Circuit,"A highly technical track, the European Seaside Circuit’s tight turns weave through a timeless Mediterranean cliffside village, without buildings.
 
 Length: 60 m (197')
-Width: 128 cm (50"")",1604966400000,61,60.0,128.0,234
+Width: 128 cm (50"")",1604966400000,61,60.0,128.0,233
 arn:aws:deepracer:us-east-1::track/Aragon,Stratus Loop,"An all-out sprint to the finish line, the Stratus Loop is a speed-loving track featuring two massive straightaways punctuated by broad, sweeping hairpins.
 
 Length: 60 m (197')
@@ -64,15 +64,15 @@ Width: 107 cm (42"")",1590969600000,32,53.0,107.0,66
 arn:aws:deepracer:us-east-1::track/Spain_track,Circuit de Barcelona-Catalunya,"A reproduction of the official F1 Spanish Grand Prix track, the Circuit de Barcelona-Catalunya features 16 turns and two massive straightaways.
 
 Length: 60 m (196')
-Width: 107 cm (42"")",1588291200000,31,60.0,107.0,88
+Width: 107 cm (42"")",1588291200000,31,60.0,107.0,86
 arn:aws:deepracer:us-east-1::track/reInvent2019_track,The 2019 DeepRacer Championship Cup,"The official track for the 2019 AWS DeepRacer Championship Cup finals, this is a moderately challenging track ideal for stepping up your training and experimentation.
 
 Length: 23.12 m (75.85')
-Width: 107 cm (42"")",1585699200000,88,23.12,107.0,851
+Width: 107 cm (42"")",1585699200000,88,23.12,107.0,852
 arn:aws:deepracer:us-east-1::track/reinvent_base,re:Invent 2018,"Inspired by Monza, re:Invent 2018 was the first Championship Cup track. This short, classic speedway remains a perennial rookie favorite.
 
 Length: 17.6 m (57.97')
-Width: 76 cm (30"")",1583020800000,69,17.6,76.0,2368
+Width: 76 cm (30"")",1583020800000,69,17.6,76.0,2369
 arn:aws:deepracer:us-east-1::track/AmericasGeneratedInclStart,Baadal Track,"“Baadal” is the Hindi word for “cloud.” The Baadal Track’s tight winding corners open up into long arching straightaways, perfect for passing opportunities.
 
 Length: 39 m (128')
@@ -88,7 +88,7 @@ Width: 91 cm (36"")",1575158400000,49,22.57,91.0,105
 arn:aws:deepracer:us-east-1::track/Canada_Training,Toronto Turnpike Training,"October’s training track for the 2019 Virtual Circuit World Tour, the Toronto Turnpike bookends a variety of subtle curves with two hairpins.
 
 Length: 21.74 m (71.33')
-Width: 76 cm (30"")",1569888000000,25,21.74,76.0,19
+Width: 76 cm (30"")",1569888000000,25,21.74,76.0,18
 arn:aws:deepracer:us-east-1::track/Mexico_track,Cumulo Carrera Training,"September’s training track for the 2019 Virtual Circuit World Tour, the Cumulo Carrera is a good choice for training for cornering convergence.
 
 Length: 20.51 m (67.29')
