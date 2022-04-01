@@ -3,9 +3,11 @@
 ## Track update interval
 Track data is updated 00:01 UTC daily. Actual update time may vary slightly due to the way actions are scheduled.
 ## Available tracks
-Currently there are **46 tracks** available in the dataset.
+Currently there are **48 tracks** available in the dataset.
 | Image                                                                                                                                         | Name                                     | Release Date           | Numpy File                                                               | Track Length   | Track Width   |
 |-----------------------------------------------------------------------------------------------------------------------------------------------|------------------------------------------|------------------------|--------------------------------------------------------------------------|----------------|---------------|
+| ![Ace Super Speedway](./assets/arn:aws:deepracer:us-east-1::track/2022_april_pro/track-resources/2022_april_pro.svg)                          | **Ace Super Speedway**                   | *2022-04-01T00:00:00Z* | [2022_april_pro.npy](././npy/2022_april_pro.npy)                         | 67.46 meters   | 1.07 meters   |
+| ![Ace Speedway](./assets/arn:aws:deepracer:us-east-1::track/2022_april_open/track-resources/2022_april_open.svg)                              | **Ace Speedway**                         | *2022-04-01T00:00:00Z* | [2022_april_open.npy](././npy/2022_april_open.npy)                       | 50.30 meters   | 1.07 meters   |
 | ![Rogue Circuit ](./assets/arn:aws:deepracer:us-east-1::track/2022_march_open/track-resources/2022_march_open.svg)                            | **Rogue Circuit**                        | *2022-03-01T00:00:00Z* | [2022_march_open.npy](././npy/2022_march_open.npy)                       | 48.07 meters   | 0.01 meters   |
 | ![Rogue Raceway ](./assets/arn:aws:deepracer:us-east-1::track/2022_march_pro/track-resources/2022_march_pro.svg)                              | **Rogue Raceway**                        | *2022-03-01T00:00:00Z* | [2022_march_pro.npy](././npy/2022_march_pro.npy)                         | 76.76 meters   | 0.01 meters   |
 | ![Summit Speedway ](./assets/arn:aws:deepracer:us-east-1::track/2022_summit_speedway/track-resources/2022_summit_speedway.svg)                | **Summit Speedway**                      | *2022-02-01T00:00:00Z* | [2022_summit_speedway.npy](././npy/2022_summit_speedway.npy)             | 25.24 meters   | 0.01 meters   |
