@@ -1,5 +1,5 @@
 TrackArn,TrackName,TrackDescription,TrackReleaseTime,TrackDifficulty,TrackLength,TrackWidth,TrackUsageCount
-arn:aws:deepracer:us-east-1::track/2022_april_pro,Ace Super Speedway,"The Ace Super Speedway was named in honor of the 2021 AWS DeepRacer 2nd place Champion, Yousuf Nizam. Featuring full throttle straightaways and unforgiving hairpin turns the Ace Super Speedway will surely require an ace in the hole to come away with a win.",1648771200000,68,67.45765,107.0,28
+arn:aws:deepracer:us-east-1::track/2022_april_pro,Ace Super Speedway,"The Ace Super Speedway was named in honor of the 2021 AWS DeepRacer 2nd place Champion, Yousuf Nizam. Featuring full throttle straightaways and unforgiving hairpin turns the Ace Super Speedway will surely require an ace in the hole to come away with a win.",1648771200000,68,67.45765,107.0,30
 arn:aws:deepracer:us-east-1::track/2022_april_open,Ace Speedway,"The Ace Speedway was named in honor of the 2021 AWS DeepRacer 2nd place Champion, Yousuf Nizam. Expect many developers ace this track with lightning fast race times featuring a single sprint dragstrip into a broad sweeping turns.",1648771200000,35,50.30049,107.0,14
 arn:aws:deepracer:us-east-1::track/2022_march_open,Rogue Circuit ,"Named in honor of the 2021 DeepRacer Championship Cup winner, Sairam Naragoni, the Rogue Circuit is a short track (48.06m) features a variety of moderate curves and sweeping turns. 
 ",1646092800000,60,48.06927,1.0668,17
@@ -50,7 +50,7 @@ Width: 105 cm (41"")",1601510400000,36,60.0,105.0,48
 arn:aws:deepracer:us-east-1::track/Belille,Cumulo Turnpike,"The Cumulo Turnpike shifts from high-speed straightaways to challenging corners. It requires a perfect storm of exceptional navigation skill and speed control.
 
 Length: 60 m (197')
-Width: 106 cm (42"")",1598918400000,33,60.0,106.0,884
+Width: 106 cm (42"")",1598918400000,33,60.0,106.0,885
 arn:aws:deepracer:us-east-1::track/Albert,Yun Speedway,"“Yun” is the Chinese word for “cloud.” A broad loop demanding constant cornering, the Yun Speedway is the lofty domain of the racing line specialist.
 
 Length: 51 m (167')
