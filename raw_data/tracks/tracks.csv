@@ -1,6 +1,6 @@
 TrackArn,TrackName,TrackDescription,TrackReleaseTime,TrackDifficulty,TrackLength,TrackWidth,TrackUsageCount
-arn:aws:deepracer:us-east-1::track/2022_april_pro,Ace Super Speedway,"The Ace Super Speedway was named in honor of the 2021 AWS DeepRacer 2nd place Champion, Yousuf Nizam. Featuring full throttle straightaways and unforgiving hairpin turns the Ace Super Speedway will surely require an ace in the hole to come away with a win.",1648771200000,68,67.45765,107.0,27
-arn:aws:deepracer:us-east-1::track/2022_april_open,Ace Speedway,"The Ace Speedway was named in honor of the 2021 AWS DeepRacer 2nd place Champion, Yousuf Nizam. Expect many developers ace this track with lightning fast race times featuring a single sprint dragstrip into a broad sweeping turns.",1648771200000,35,50.30049,107.0,13
+arn:aws:deepracer:us-east-1::track/2022_april_pro,Ace Super Speedway,"The Ace Super Speedway was named in honor of the 2021 AWS DeepRacer 2nd place Champion, Yousuf Nizam. Featuring full throttle straightaways and unforgiving hairpin turns the Ace Super Speedway will surely require an ace in the hole to come away with a win.",1648771200000,68,67.45765,107.0,28
+arn:aws:deepracer:us-east-1::track/2022_april_open,Ace Speedway,"The Ace Speedway was named in honor of the 2021 AWS DeepRacer 2nd place Champion, Yousuf Nizam. Expect many developers ace this track with lightning fast race times featuring a single sprint dragstrip into a broad sweeping turns.",1648771200000,35,50.30049,107.0,14
 arn:aws:deepracer:us-east-1::track/2022_march_open,Rogue Circuit ,"Named in honor of the 2021 DeepRacer Championship Cup winner, Sairam Naragoni, the Rogue Circuit is a short track (48.06m) features a variety of moderate curves and sweeping turns. 
 ",1646092800000,60,48.06927,1.0668,17
 arn:aws:deepracer:us-east-1::track/2022_march_pro,Rogue Raceway ,"Named in honor of the 2021 DeepRacer Championship Cup winner, Sairam Naragoni, the Rogue Raceway boasts a variety of sweeping turns and drag strips for a worthy training challenge.",1646092800000,75,76.76036,1.0668,67
@@ -38,7 +38,7 @@ Width: 131 cm (52"")",1604966400000,54,59.0,131.0,73
 arn:aws:deepracer:us-east-1::track/Singapore,Asia Pacific Bay Loop,"Streak through the Marina Bay’s waterfront on the Asia Pacific Bay Loop, a fast and open nighttime track.
 
 Length: 60 m (197')
-Width: 135 cm (53"")",1604966400000,78,60.0,135.0,63
+Width: 135 cm (53"")",1604966400000,78,60.0,135.0,64
 arn:aws:deepracer:us-east-1::track/Monaco,European Seaside Circuit,"A highly technical track, the European Seaside Circuit’s tight turns weave through a timeless Mediterranean cliffside village, without buildings.
 
 Length: 60 m (197')
@@ -50,11 +50,11 @@ Width: 105 cm (41"")",1601510400000,36,60.0,105.0,48
 arn:aws:deepracer:us-east-1::track/Belille,Cumulo Turnpike,"The Cumulo Turnpike shifts from high-speed straightaways to challenging corners. It requires a perfect storm of exceptional navigation skill and speed control.
 
 Length: 60 m (197')
-Width: 106 cm (42"")",1598918400000,33,60.0,106.0,882
+Width: 106 cm (42"")",1598918400000,33,60.0,106.0,884
 arn:aws:deepracer:us-east-1::track/Albert,Yun Speedway,"“Yun” is the Chinese word for “cloud.” A broad loop demanding constant cornering, the Yun Speedway is the lofty domain of the racing line specialist.
 
 Length: 51 m (167')
-Width: 107 cm (42"")",1596240000000,82,51.0,107.0,33
+Width: 107 cm (42"")",1596240000000,82,51.0,107.0,34
 arn:aws:deepracer:us-east-1::track/July_2020,Roger Raceway,"Named in honor of the 2019 Championship Cup bronze medalist, Roger Chu, the Roger Raceway boasts a variety of complex curves for a worthy training challenge.
 
 Length: 60 m (196.5')
@@ -70,11 +70,11 @@ Width: 107 cm (42"")",1588291200000,31,60.0,107.0,87
 arn:aws:deepracer:us-east-1::track/reInvent2019_track,The 2019 DeepRacer Championship Cup,"The official track for the 2019 AWS DeepRacer Championship Cup finals, this is a moderately challenging track ideal for stepping up your training and experimentation.
 
 Length: 23.12 m (75.85')
-Width: 107 cm (42"")",1585699200000,88,23.12,107.0,882
+Width: 107 cm (42"")",1585699200000,88,23.12,107.0,885
 arn:aws:deepracer:us-east-1::track/reinvent_base,re:Invent 2018,"Inspired by Monza, re:Invent 2018 was the first Championship Cup track. This short, classic speedway remains a perennial rookie favorite.
 
 Length: 17.6 m (57.97')
-Width: 76 cm (30"")",1583020800000,69,17.6,76.0,2529
+Width: 76 cm (30"")",1583020800000,69,17.6,76.0,2531
 arn:aws:deepracer:us-east-1::track/AmericasGeneratedInclStart,Baadal Track,"“Baadal” is the Hindi word for “cloud.” The Baadal Track’s tight winding corners open up into long arching straightaways, perfect for passing opportunities.
 
 Length: 39 m (128')
@@ -118,8 +118,8 @@ Width: 76 cm (30"")",1554076800000,50,17.43,76.0,91
 arn:aws:deepracer:us-east-1::track/Oval_track,Oval Track,"Inspired by Indy Speedway, the Oval Track is simple and gives the agent space to learn different strategies. It’s a good choice for getting started.
 
 Length: 19.55 m (64.14')
-Width: 76 cm (30"")",1551398400000,92,19.55,76.0,181
+Width: 76 cm (30"")",1551398400000,92,19.55,76.0,182
 arn:aws:deepracer:us-east-1::track/reInvent2019_wide,re:Invent 2018 Wide,"It’s easier for an agent to navigate this extra wide version of re:Invent 2018. Use it to get started with object avoidance and head-to-head race training.
 
 Length: 16.64 m (54.59')
-Width: 107 cm (42"")",1548979200000,94,16.64,107.0,135
+Width: 107 cm (42"")",1548979200000,94,16.64,107.0,136
