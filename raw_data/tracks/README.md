@@ -3,9 +3,11 @@
 ## Track update interval
 Track data is updated 00:01 UTC daily. Actual update time may vary slightly due to the way actions are scheduled.
 ## Available tracks
-Currently there are **50 tracks** available in the dataset.
+Currently there are **52 tracks** available in the dataset.
 | Image                                                                                                                                         | Name                                     | Release Date           | Numpy File                                                               | Track Length   | Track Width   |
 |-----------------------------------------------------------------------------------------------------------------------------------------------|------------------------------------------|------------------------|--------------------------------------------------------------------------|----------------|---------------|
+| ![BreadCentric Speedway](./assets/arn:aws:deepracer:us-east-1::track/2022_june_pro/track-resources/2022_june_pro.svg)                         | **BreadCentric Speedway**                | *2022-05-30T23:06:46Z* | -                                                                        | 58.61 meters   | 0.01 meters   |
+| ![BreadCentric Loop](./assets/arn:aws:deepracer:us-east-1::track/2022_june_open/track-resources/2022_june_open.svg)                           | **BreadCentric Loop**                    | *2022-05-30T22:57:19Z* | -                                                                        | 41.28 meters   | 0.01 meters   |
 | ![Ross Raceway](./assets/arn:aws:deepracer:us-east-1::track/2022_may_open/track-resources/2022_may_open.svg)                                  | **Ross Raceway**                         | *2022-05-01T00:00:00Z* | [2022_may_open.npy](././npy/2022_may_open.npy)                           | 46.16 meters   | 1.07 meters   |
 | ![Ross Super Speedway](./assets/arn:aws:deepracer:us-east-1::track/2022_may_pro/track-resources/2022_may_pro.svg)                             | **Ross Super Speedway**                  | *2022-05-01T00:00:00Z* | [2022_may_pro.npy](././npy/2022_may_pro.npy)                             | 63.92 meters   | 1.07 meters   |
 | ![Ace Super Speedway](./assets/arn:aws:deepracer:us-east-1::track/2022_april_pro/track-resources/2022_april_pro.svg)                          | **Ace Super Speedway**                   | *2022-04-01T00:00:00Z* | [2022_april_pro.npy](././npy/2022_april_pro.npy)                         | 67.46 meters   | 1.07 meters   |
