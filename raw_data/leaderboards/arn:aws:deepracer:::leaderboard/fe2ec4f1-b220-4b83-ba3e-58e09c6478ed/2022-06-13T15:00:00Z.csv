@@ -1,0 +1,4 @@
+Alias,SubmissionTime,LapCount,AvgLapTime,BestLapTime,TotalLapTime,AvgResets,CollisionCount,OffTrackCount,ResetCount,SubmissionCount,Rank,LeaderboardSubmissionStatusType,RankingScore,RacingDivision,UserId
+DoomBuggy,1655130726598,1,21600,21600,174997,0.8571428571428571,1,5,6,1,1,SUCCESS,21600,OPEN,QakV_nzOTm2q_NhqUMwIJw
+RobinCastro-DBS,1655120521144,1,34336,34336,164380,4.5,18,0,18,1,2,SUCCESS,34336,OPEN,7KrbyQXvTBOxnBa0p9YuUA
+DaVinciDriver,1655131184114,1,61295,61295,143284,8.5,17,0,17,1,3,SUCCESS,61295,OPEN,XtzXYz2pRByDnXz90XNGSw
