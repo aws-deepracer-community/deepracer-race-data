@@ -3,9 +3,11 @@
 ## Track update interval
 Track data is updated 00:01 UTC daily. Actual update time may vary slightly due to the way actions are scheduled.
 ## Available tracks
-Currently there are **52 tracks** available in the dataset.
+Currently there are **54 tracks** available in the dataset.
 | Image                                                                                                                                         | Name                                     | Release Date           | Numpy File                                                               | Track Length   | Track Width   |
 |-----------------------------------------------------------------------------------------------------------------------------------------------|------------------------------------------|------------------------|--------------------------------------------------------------------------|----------------|---------------|
+| ![DBro Super Raceway ](./assets/arn:aws:deepracer:us-east-1::track/2022_july_pro/track-resources/2022_july_pro.svg)                           | **DBro Super Raceway**                   | *2022-07-01T00:00:00Z* | [2022_july_pro.npy](././npy/2022_july_pro.npy)                           | 57.89 meters   | 0.01 meters   |
+| ![DBro Raceway](./assets/arn:aws:deepracer:us-east-1::track/2022_july_open/track-resources/2022_july_open.svg)                                | **DBro Raceway**                         | *2022-07-01T00:00:00Z* | [2022_july_open.npy](././npy/2022_july_open.npy)                         | 40.20 meters   | 0.01 meters   |
 | ![BreadCentric Speedway](./assets/arn:aws:deepracer:us-east-1::track/2022_june_pro/track-resources/2022_june_pro.svg)                         | **BreadCentric Speedway**                | *2022-06-01T00:00:00Z* | [2022_june_pro.npy](././npy/2022_june_pro.npy)                           | 58.61 meters   | 0.01 meters   |
 | ![BreadCentric Loop](./assets/arn:aws:deepracer:us-east-1::track/2022_june_open/track-resources/2022_june_open.svg)                           | **BreadCentric Loop**                    | *2022-06-01T00:00:00Z* | [2022_june_open.npy](././npy/2022_june_open.npy)                         | 41.28 meters   | 0.01 meters   |
 | ![Ross Raceway](./assets/arn:aws:deepracer:us-east-1::track/2022_may_open/track-resources/2022_may_open.svg)                                  | **Ross Raceway**                         | *2022-05-01T00:00:00Z* | [2022_may_open.npy](././npy/2022_may_open.npy)                           | 46.16 meters   | 1.07 meters   |
