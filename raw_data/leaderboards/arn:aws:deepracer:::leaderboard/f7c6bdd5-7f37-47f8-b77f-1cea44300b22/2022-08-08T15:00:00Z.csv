@@ -1,0 +1,2 @@
+Alias,SubmissionTime,LapCount,AvgLapTime,BestLapTime,TotalLapTime,AvgResets,CollisionCount,OffTrackCount,ResetCount,SubmissionCount,Rank,LeaderboardSubmissionStatusType,RankingScore,RacingDivision,UserId
+barkingdog,1659968740687,1,52062,52062,109621,1.5,3,0,3,1,1,SUCCESS,52062,OPEN,b3960b6c6f58458880ceew
