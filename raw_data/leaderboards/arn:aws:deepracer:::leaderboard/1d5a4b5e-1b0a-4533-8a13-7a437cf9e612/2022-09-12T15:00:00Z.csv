@@ -1,0 +1,4 @@
+Alias,SubmissionTime,LapCount,AvgLapTime,BestLapTime,TotalLapTime,AvgResets,CollisionCount,OffTrackCount,ResetCount,SubmissionCount,Rank,LeaderboardSubmissionStatusType,RankingScore,RacingDivision,UserId
+DaVinciDriver,1662993411041,1,38397.0,38397.0,168288.0,1.0,4,0,4,1,1,SUCCESS,38397,OPEN,XtzXYz2pRByDnXz90XNGSw
+IVECloud-JerryKcLee,1662991985369,1,54198.0,54198.0,149133.0,11.5,15,8,23,1,2,SUCCESS,54198,OPEN,BMjoJ3L7ShGsF5gA1lHdkw
+barkingdog,1662992936033,0,,,,0.0,0,0,0,1,3,SUCCESS,9223372036854775786,OPEN,b3960b6c6f58458880ceew
