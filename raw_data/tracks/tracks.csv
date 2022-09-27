@@ -1,5 +1,5 @@
 TrackArn,TrackName,TrackDescription,TrackReleaseTime,TrackDifficulty,TrackLength,TrackWidth,TrackUsageCount
-arn:aws:deepracer:us-east-1::track/2022_september_pro,Roger Super Raceway ,"Are you ready rip on the Roger Super Raceway? The Roger Super Raceway was inspired by a real-life track in the home town of AWS Community Member, Roger Logan. At 60.17m this track features no shortage of lightning fast drag strips and unforgiving technical sections that will put even the most skilled developer to the test.   ",1661990400000,70,60.1771,106.68,15
+arn:aws:deepracer:us-east-1::track/2022_september_pro,Roger Super Raceway ,"Are you ready rip on the Roger Super Raceway? The Roger Super Raceway was inspired by a real-life track in the home town of AWS Community Member, Roger Logan. At 60.17m this track features no shortage of lightning fast drag strips and unforgiving technical sections that will put even the most skilled developer to the test.   ",1661990400000,70,60.1771,106.68,31
 arn:aws:deepracer:us-east-1::track/2022_september_open,Roger Ring ,"Get ready rip on the Roger Ring! This track at 45.3m honoring community member, Roger Logan, features a lightning fast drag strip straight into back-to-back 90 degree turns will undoubtedly send developers careening into the green. Do you have the skills to keep all four wheels on track? Submit your model today and find out!",1661990400000,40,45.2974,106.68,3
 arn:aws:deepracer:us-east-1::track/2022_august_pro,Jochem Highway,"Time to put your developer skills to the test on the Jochem Highway named after AWS Community member and re:Invent 2021 finalist, Jochem Lugtenburg. This incredibly difficult track features no shortage of technical sections from double 90 degree turns to unforgiving hairpin sections. The Jochem Highway will surely deliver plenty of off tracks to even the most skilled developers.",1659312000000,68,63.8802,106.68,49
 arn:aws:deepracer:us-east-1::track/2022_august_open,Jochem Turnpike,"Put your developer skills to the test on the Jochem Turnpike named after AWS Machine learning Community member and re:Invent 2021 finalist, Jochem Lugtenburg. This track features no shortage of zigzags and tricky hairpin turns. Does your model have what it takes to make it around the broad, sweeping turns and climb the leaderboard? Get racing today and find out! ",1659312000000,30,43.3123,106.68,11
@@ -14,7 +14,7 @@ arn:aws:deepracer:us-east-1::track/2022_april_open,Ace Speedway,"The Ace Speedwa
 arn:aws:deepracer:us-east-1::track/2022_march_open,Rogue Circuit ,"Named in honor of the 2021 DeepRacer Championship Cup winner, Sairam Naragoni, the Rogue Circuit is a short track (48.06m) features a variety of moderate curves and sweeping turns. 
 ",1646092800000,60,48.06927,106.88,217
 arn:aws:deepracer:us-east-1::track/2022_march_pro,Rogue Raceway ,"Named in honor of the 2021 DeepRacer Championship Cup winner, Sairam Naragoni, the Rogue Raceway boasts a variety of sweeping turns and drag strips for a worthy training challenge.",1646092800000,75,76.76036,106.68,80
-arn:aws:deepracer:us-east-1::track/2022_summit_speedway,Summit Speedway ,Kick starting the 2022 AWS DeepRacer Virtual Circuit with the debut of the Summit Speedway (25.23m). This track is comprised of short sprints and multiple hard decelerating 90 degree turns. Put your developer skills to the test and race the Summit Speedway in-person at AWS Summits returning in 2022! ,1643673600000,25,25.236,106.88,349
+arn:aws:deepracer:us-east-1::track/2022_summit_speedway,Summit Speedway ,Kick starting the 2022 AWS DeepRacer Virtual Circuit with the debut of the Summit Speedway (25.23m). This track is comprised of short sprints and multiple hard decelerating 90 degree turns. Put your developer skills to the test and race the Summit Speedway in-person at AWS Summits returning in 2022! ,1643673600000,25,25.236,106.88,352
 arn:aws:deepracer:us-east-1::track/caecer_loop,Vivalas Loop,The Vivalas Loop perimeter features a modified oval full of high speed straightaways primed for passing and all out speed. Which racers will roll the dice and go all in? ,1635588000000,25,39.119,108.0,31
 arn:aws:deepracer:us-east-1::track/caecer_gp,Vivalas Speedway,"Inspired by a historic Las Vegas track of yesteryear, the Vivalas Speedway is the second longest, and most difficult track to be released in 2021. 5 consecutive opposing hairpins are framed in by the Vivalas Loop perimeter; a modified oval full of high speed straightaways primed for passing and all out speed. Which racers will go all in and gamble it all for the jackpot?",1635552000000,70,73.785,108.0,173
 arn:aws:deepracer:us-east-1::track/red_star_open,Expedition Loop,Go where no racer has gone before on the Expedition Loop track! This is a short track at 44.04m featuring two dragstrips and an unforgiving hairpin turn. Expect to see no shortage of off tracks on this challenging course.,1633021200000,52,43.46808170524502,1.0668004259895272,8
@@ -48,7 +48,7 @@ Width: 131 cm (52"")",1604966400000,54,59.0,131.0,74
 arn:aws:deepracer:us-east-1::track/Singapore,Asia Pacific Bay Loop,"Streak through the Marina Bay’s waterfront on the Asia Pacific Bay Loop, a fast and open nighttime track.
 
 Length: 60 m (197')
-Width: 135 cm (53"")",1604966400000,78,60.0,135.0,72
+Width: 135 cm (53"")",1604966400000,78,60.0,135.0,71
 arn:aws:deepracer:us-east-1::track/Monaco,European Seaside Circuit,"A highly technical track, the European Seaside Circuit’s tight turns weave through a timeless Mediterranean cliffside village, without buildings.
 
 Length: 60 m (197')
@@ -80,11 +80,11 @@ Width: 107 cm (42"")",1588291200000,31,60.0,107.0,94
 arn:aws:deepracer:us-east-1::track/reInvent2019_track,The 2019 DeepRacer Championship Cup,"The official track for the 2019 AWS DeepRacer Championship Cup finals, this is a moderately challenging track ideal for stepping up your training and experimentation.
 
 Length: 23.12 m (75.85')
-Width: 107 cm (42"")",1585699200000,88,23.12,107.0,1111
+Width: 107 cm (42"")",1585699200000,88,23.12,107.0,1119
 arn:aws:deepracer:us-east-1::track/reinvent_base,re:Invent 2018,"Inspired by Monza, re:Invent 2018 was the first Championship Cup track. This short, classic speedway remains a perennial rookie favorite.
 
 Length: 17.6 m (57.97')
-Width: 76 cm (30"")",1583020800000,69,17.6,76.0,3408
+Width: 76 cm (30"")",1583020800000,69,17.6,76.0,3413
 arn:aws:deepracer:us-east-1::track/AmericasGeneratedInclStart,Baadal Track,"“Baadal” is the Hindi word for “cloud.” The Baadal Track’s tight winding corners open up into long arching straightaways, perfect for passing opportunities.
 
 Length: 39 m (128')
