@@ -75,7 +75,7 @@ Width: 107 cm (42"")",1593561600000,56,60.0,107.0,18
 arn:aws:deepracer:us-east-1::track/FS_June2020,Fumiaki Loop,"Dedicated to our runner up at the 2019 Championship Cup and inspired by Fuji Speedway, the Fumiaki Loop is a serious challenge for any agent.
 
 Length: 53 m (173.5')
-Width: 107 cm (42"")",1590969600000,32,53.0,107.0,70
+Width: 107 cm (42"")",1590969600000,32,53.0,107.0,71
 arn:aws:deepracer:us-east-1::track/Spain_track,Circuit de Barcelona-Catalunya,"A reproduction of the official F1 Spanish Grand Prix track, the Circuit de Barcelona-Catalunya features 16 turns and two massive straightaways.
 
 Length: 60 m (196')
@@ -87,7 +87,7 @@ Width: 107 cm (42"")",1585699200000,88,23.12,107.0,1409
 arn:aws:deepracer:us-east-1::track/reinvent_base,re:Invent 2018,"Inspired by Monza, re:Invent 2018 was the first Championship Cup track. This short, classic speedway remains a perennial rookie favorite.
 
 Length: 17.6 m (57.97')
-Width: 76 cm (30"")",1583020800000,69,17.6,76.0,4248
+Width: 76 cm (30"")",1583020800000,69,17.6,76.0,4249
 arn:aws:deepracer:us-east-1::track/AmericasGeneratedInclStart,Baadal Track,"“Baadal” is the Hindi word for “cloud.” The Baadal Track’s tight winding corners open up into long arching straightaways, perfect for passing opportunities.
 
 Length: 39 m (128')
