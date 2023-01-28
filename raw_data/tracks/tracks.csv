@@ -1,5 +1,5 @@
 TrackArn,TrackName,TrackDescription,TrackReleaseTime,TrackDifficulty,TrackLength,TrackWidth,TrackUsageCount
-arn:aws:deepracer:us-east-1::track/2022_reinvent_champ,2022 re:Invent Championship,Get ready to rev your engines on the official 2022 re:Invent Championship track! This is an intensely difficult track (35.87 m) featuring a technical chicane section that will challenge even the most skilled developers.      ,1664557200000,10,35.87,0.85,88
+arn:aws:deepracer:us-east-1::track/2022_reinvent_champ,2022 re:Invent Championship,Get ready to rev your engines on the official 2022 re:Invent Championship track! This is an intensely difficult track (35.87 m) featuring a technical chicane section that will challenge even the most skilled developers.      ,1664557200000,10,35.87,0.85,89
 arn:aws:deepracer:us-east-1::track/2022_october_pro,Jennens Super Speedway,"The Jennens Super Speedway (62.07 m) is named in honor of the first ever racing family and 2021 re:Invent finalists James ""JJ"" and Timothy ""Flatearth"" Jennens. Pros this month will need to navigate the technical section without off tracks, and apply top speeds on the drag strips to climb the leaderboard.",1664557200000,40,62.0761,1.0668,35
 arn:aws:deepracer:us-east-1::track/2022_october_open,Jennens Family Speedway,"The Jennens Family Speedway (49.56 m) is named in honor of the first ever racing family and 2021 re:Invent finalists James ""JJ"" and Timothy ""Flatearth"" Jennens. This track features two blistering fast drag strips right into unforgiving 90 degree sweeping turns that can spin out even the most skilled developers. ",1664557200000,40,49.5683,1.0668,7
 arn:aws:deepracer:us-east-1::track/2022_september_pro,Roger Super Raceway ,"Are you ready rip on the Roger Super Raceway? The Roger Super Raceway was inspired by a real-life track in the home town of AWS Community Member, Roger Logan. At 60.17m this track features no shortage of lightning fast drag strips and unforgiving technical sections that will put even the most skilled developer to the test.   ",1661990400000,70,60.1771,106.68,51
@@ -51,7 +51,7 @@ Width: 131 cm (52"")",1604966400000,54,59.0,131.0,74
 arn:aws:deepracer:us-east-1::track/Singapore,Asia Pacific Bay Loop,"Streak through the Marina Bay’s waterfront on the Asia Pacific Bay Loop, a fast and open nighttime track.
 
 Length: 60 m (197')
-Width: 135 cm (53"")",1604966400000,78,60.0,135.0,72
+Width: 135 cm (53"")",1604966400000,78,60.0,135.0,73
 arn:aws:deepracer:us-east-1::track/Monaco,European Seaside Circuit,"A highly technical track, the European Seaside Circuit’s tight turns weave through a timeless Mediterranean cliffside village, without buildings.
 
 Length: 60 m (197')
@@ -83,11 +83,11 @@ Width: 107 cm (42"")",1588291200000,31,60.0,107.0,97
 arn:aws:deepracer:us-east-1::track/reInvent2019_track,The 2019 DeepRacer Championship Cup,"The official track for the 2019 AWS DeepRacer Championship Cup finals, this is a moderately challenging track ideal for stepping up your training and experimentation.
 
 Length: 23.12 m (75.85')
-Width: 107 cm (42"")",1585699200000,88,23.12,107.0,1431
+Width: 107 cm (42"")",1585699200000,88,23.12,107.0,1433
 arn:aws:deepracer:us-east-1::track/reinvent_base,re:Invent 2018,"Inspired by Monza, re:Invent 2018 was the first Championship Cup track. This short, classic speedway remains a perennial rookie favorite.
 
 Length: 17.6 m (57.97')
-Width: 76 cm (30"")",1583020800000,69,17.6,76.0,4309
+Width: 76 cm (30"")",1583020800000,69,17.6,76.0,4314
 arn:aws:deepracer:us-east-1::track/AmericasGeneratedInclStart,Baadal Track,"“Baadal” is the Hindi word for “cloud.” The Baadal Track’s tight winding corners open up into long arching straightaways, perfect for passing opportunities.
 
 Length: 39 m (128')
@@ -103,7 +103,7 @@ Width: 91 cm (36"")",1575158400000,49,22.57,91.0,119
 arn:aws:deepracer:us-east-1::track/Canada_Training,Toronto Turnpike Training,"October’s training track for the 2019 Virtual Circuit World Tour, the Toronto Turnpike bookends a variety of subtle curves with two hairpins.
 
 Length: 21.74 m (71.33')
-Width: 76 cm (30"")",1569888000000,25,21.74,76.0,28
+Width: 76 cm (30"")",1569888000000,25,21.74,76.0,29
 arn:aws:deepracer:us-east-1::track/Mexico_track,Cumulo Carrera Training,"September’s training track for the 2019 Virtual Circuit World Tour, the Cumulo Carrera is a good choice for training for cornering convergence.
 
 Length: 20.51 m (67.29')
