@@ -33,7 +33,7 @@ arn:aws:deepracer:us-east-1::track/jyllandsringen_pro,Cosmic Circuit,Cosmic Circ
 arn:aws:deepracer:us-east-1::track/jyllandsringen_open,Cosmic Loop,Cosmic Loop is a short track (46.18m) that features a single sprint straightaway and a challenging technical section with multiple 90 degree turns and and two hairpins. A successful run will require skillful command of time (steps) and (action) space.,1621977289088,50,46.12,1.06,8
 arn:aws:deepracer:us-east-1::track/hamption_pro,Kuei Super Raceway,Kuei Super Raceway adds pro difficulty to its short track counterpart by extending overall length in the form of a straightaway with a technical 4x double apex section. It is named after 3rd place DeepRacer League finalists Kuei of NCTU CGI Taiwan.,1619827200000,35,60.74,1.06,34
 arn:aws:deepracer:us-east-1::track/thunder_hill_pro,Lars Circuit,Lars Circuit is a pro difficulty track that adds an increasing to decreasing double apex and multiple high speed straightaways to its shorter cohort Lars Loop. It is named in honor of 2020 AWS DeepRacer League silver medalist Lars Ludvigsen (Duckworth).,1617235201000,28,59.23,107.0,40
-arn:aws:deepracer:us-east-1::track/thunder_hill_open,Lars Loop,"Lars Loop is a short track comprised of a modified oval with increasing radius and double apex, a varying double chicane, and a broad hairpin final stretch. It is named in honor of 2020 AWS DeepRacer League silver medalist Lars Ludvigsen (Duckworth).",1617235201000,34,41.55,107.0,32
+arn:aws:deepracer:us-east-1::track/thunder_hill_open,Lars Loop,"Lars Loop is a short track comprised of a modified oval with increasing radius and double apex, a varying double chicane, and a broad hairpin final stretch. It is named in honor of 2020 AWS DeepRacer League silver medalist Lars Ludvigsen (Duckworth).",1617235201000,34,41.55,107.0,33
 arn:aws:deepracer:us-east-1::track/penbay_open,Po-Chun Speedway,"Po-Chun Speedway is a short track (68.68m) featuring a simple oval track paired with a dragstrip, and single hairpin. It is named in honor of the 2020 AWS DeepRacer League Champion from NCTU CGI Taiwan.",1614560400000,43,68.68,107.0,87
 arn:aws:deepracer:us-east-1::track/penbay_pro,Po-Chun Super Speedway,Po-Chun Super Speedway is a long track (89.24m) which adds back-to-back hairpins and a high speed right angle turn its short track counterpart. It is named in honor of the 2020 AWS DeepRacer League Champion from NCTU CGI Taiwan.,1614560400000,31,89.24,107.0,46
 arn:aws:deepracer:us-east-1::track/Monaco_building,European Seaside Circuit - Buildings,"A highly technical track, the European Seaside Circuit’s tight turns weave through a timeless Mediterranean cliffside village with iconic buildings.
@@ -51,7 +51,7 @@ Width: 131 cm (52"")",1604966400000,54,59.0,131.0,61
 arn:aws:deepracer:us-east-1::track/Singapore,Asia Pacific Bay Loop,"Streak through the Marina Bay’s waterfront on the Asia Pacific Bay Loop, a fast and open nighttime track.
 
 Length: 60 m (197')
-Width: 135 cm (53"")",1604966400000,78,60.0,135.0,66
+Width: 135 cm (53"")",1604966400000,78,60.0,135.0,67
 arn:aws:deepracer:us-east-1::track/Monaco,European Seaside Circuit,"A highly technical track, the European Seaside Circuit’s tight turns weave through a timeless Mediterranean cliffside village, without buildings.
 
 Length: 60 m (197')
@@ -76,7 +76,7 @@ arn:aws:deepracer:us-east-1::track/FS_June2020,Fumiaki Loop,"Dedicated to our ru
 
 
 Length: 53 m (173.5')
-Width: 107 cm (42"")",1590969600000,32,53.0,107.0,53
+Width: 107 cm (42"")",1590969600000,32,53.0,107.0,54
 arn:aws:deepracer:us-east-1::track/Spain_track,Circuit de Barcelona-Catalunya,"A reproduction of the official F1 Spanish Grand Prix track, the Circuit de Barcelona-Catalunya features 16 turns and two massive straightaways.
 
 Length: 60 m (196')
