@@ -38,7 +38,7 @@ jobs:
 
       - name: Update tracks
         run: |
-          pip install "git+https://github.com/aws-deepracer-community/deepracer-race-stats.git@v0.2.2" 
+          pip install "git+https://github.com/aws-deepracer-community/deepracer-race-stats.git@v0.2.3" 
           drs track-update -o raw_data
 
       - name: Commit tracks
@@ -50,7 +50,7 @@ jobs:
 
       - name: Update simapp
         run: |
-          pip install "git+https://github.com/aws-deepracer-community/deepracer-race-stats.git@v0.2.2" 
+          pip install "git+https://github.com/aws-deepracer-community/deepracer-race-stats.git@v0.2.3" 
           drs simapp-update -o raw_data
 
       - name: Commit simapp
