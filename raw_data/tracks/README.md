@@ -67,4 +67,5 @@ Currently there are **61 tracks** available in the dataset.
 | ![Bowtie Track](./assets/arn:aws:deepracer:us-east-1::track/Bowtie_track/track-resources/bowtie_track.svg)                                    | **Bowtie Track**                         | *2019-04-01T00:00:00Z* | [Bowtie_track.npy](././npy/Bowtie_track.npy)                             | 17.43 meters   | 0.76 meters   |
 | ![Oval Track](./assets/arn:aws:deepracer:us-east-1::track/Oval_track/track-resources/oval_track.svg)                                          | **Oval Track**                           | *2019-03-01T00:00:00Z* | [Oval_track.npy](././npy/Oval_track.npy)                                 | 19.55 meters   | 0.76 meters   |
 | ![re:Invent 2018 Wide](./assets/arn:aws:deepracer:us-east-1::track/reInvent2019_wide/track-resources/reinvent2019_wide.svg)                   | **re:Invent 2018 Wide**                  | *2019-02-01T00:00:00Z* | [reInvent2019_wide.npy](././npy/reInvent2019_wide.npy)                   | 16.64 meters   | 1.07 meters   |
+
     

@@ -38,7 +38,7 @@ jobs:
 
       - name: Update leaderboards
         run: |
-          pip install "git+https://github.com/aws-deepracer-community/deepracer-race-stats.git@v0.2.2"
+          pip install "git+https://github.com/aws-deepracer-community/deepracer-race-stats.git@v0.2.3"
           drs leaderboard-update -o raw_data
 
       - name: Commit leaderboards
