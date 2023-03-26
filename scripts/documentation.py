@@ -22,8 +22,8 @@ def generate_track_table(track_data):
         files = list(set(files).intersection(accepted_files))
 
         if len(files) > 0:
-            formatted_files = map(lambda f: '- [{}](./{})'.format(f, os.path.join("./npy", f)), files)
-            return " ".join(files)
+            formatted_files = map(lambda f: '[{}](./{})'.format(f, os.path.join("./npy", f)), files)
+            return " ".join(formatted_files)
         else:
             return "-"
 
