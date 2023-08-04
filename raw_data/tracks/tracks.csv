@@ -16,7 +16,7 @@ Rank,TrackArn,TrackName,TrackDescription,TrackReleaseTime,TrackDifficulty,TrackL
 15,arn:aws:deepracer:us-east-1::track/2022_april_open,Ace Speedway,"The Ace Speedway was named in honor of the 2021 AWS DeepRacer 2nd place Champion, Yousuf Nizam. Expect many developers ace this track with lightning fast race times featuring a single sprint dragstrip into a broad sweeping turns.",1648771200000,35,50.3,107.0,150
 16,arn:aws:deepracer:us-east-1::track/2022_march_open,Rogue Circuit,"Named in honor of the 2021 DeepRacer Championship Cup winner, Sairam Naragoni, the Rogue Circuit is a short track (48.06m) features a variety of moderate curves and sweeping turns. 
 ",1646092800000,60,48.07,106.88,232
-17,arn:aws:deepracer:us-east-1::track/2022_march_pro,Rogue Raceway,"Named in honor of the 2021 DeepRacer Championship Cup winner, Sairam Naragoni, the Rogue Raceway boasts a variety of sweeping turns and drag strips for a worthy training challenge.",1646092800000,75,76.76,106.68,119
+17,arn:aws:deepracer:us-east-1::track/2022_march_pro,Rogue Raceway,"Named in honor of the 2021 DeepRacer Championship Cup winner, Sairam Naragoni, the Rogue Raceway boasts a variety of sweeping turns and drag strips for a worthy training challenge.",1646092800000,75,76.76,106.68,125
 18,arn:aws:deepracer:us-east-1::track/2022_summit_speedway,RL Speedway,Kick starting the 2022 AWS DeepRacer Virtual Circuit with the debut of the Summit Speedway (25.23m). This track is comprised of short sprints and multiple hard decelerating 90 degree turns. Put your developer skills to the test and race the Summit Speedway in-person at AWS Summits returning in 2022!,1643673600000,25,25.24,106.88,717
 19,arn:aws:deepracer:us-east-1::track/caecer_loop,Vivalas Loop,The Vivalas Loop perimeter features a modified oval full of high speed straightaways primed for passing and all out speed. Which racers will roll the dice and go all in?,1635588000000,25,39.12,108.0,35
 20,arn:aws:deepracer:us-east-1::track/caecer_gp,Vivalas Speedway,"Inspired by a historic Las Vegas track of yesteryear, the Vivalas Speedway is the second longest, and most difficult track to be released in 2021. 5 consecutive opposing hairpins are framed in by the Vivalas Loop perimeter; a modified oval full of high speed straightaways primed for passing and all out speed. Which racers will go all in and gamble it all for the jackpot?",1635552000000,70,73.78,108.0,161
@@ -84,11 +84,11 @@ Width: 107 cm (42"")",1588291200000,31,60.0,107.0,92
 48,arn:aws:deepracer:us-east-1::track/reInvent2019_track,Smile Speedway,"The official track for the 2019 AWS DeepRacer Championship Cup finals, this is a moderately challenging track ideal for stepping up your training and experimentation.
 
 Length: 23.12 m (75.85')
-Width: 107 cm (42"")",1585699200000,88,23.12,107.0,1605
+Width: 107 cm (42"")",1585699200000,88,23.12,107.0,1607
 49,arn:aws:deepracer:us-east-1::track/reinvent_base,re:Invent 2018,"Inspired by Monza, re:Invent 2018 was the first Championship Cup track. This short, classic speedway remains a perennial rookie favorite.
 
 Length: 17.6 m (57.97')
-Width: 76 cm (30"")",1583020800000,69,17.6,76.0,4498
+Width: 76 cm (30"")",1583020800000,69,17.6,76.0,4504
 50,arn:aws:deepracer:us-east-1::track/AmericasGeneratedInclStart,Baadal Track,"“Baadal” is the Hindi word for “cloud.” The Baadal Track’s tight winding corners open up into long arching straightaways, perfect for passing opportunities.
 
 Length: 39 m (128')
