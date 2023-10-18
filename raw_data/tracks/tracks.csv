@@ -1,5 +1,5 @@
 Rank,TrackArn,TrackName,TrackDescription,TrackReleaseTime,TrackDifficulty,TrackLength,TrackWidth,TrackUsageCount
-1,arn:aws:deepracer:us-east-1::track/2022_reinvent_champ,2022 re:Invent Championship,Get ready to rev your engines on the official 2022 re:Invent Championship track! This is an intensely difficult track (35.87 m) featuring a technical chicane section that will challenge even the most skilled developers.,1664557200000,10,33.27,0.95,119
+1,arn:aws:deepracer:us-east-1::track/2022_reinvent_champ,2022 re:Invent Championship,Get ready to rev your engines on the official 2022 re:Invent Championship track! This is an intensely difficult track (35.87 m) featuring a technical chicane section that will challenge even the most skilled developers.,1664557200000,10,33.27,0.95,125
 2,arn:aws:deepracer:us-east-1::track/2022_october_pro,Jennens Super Speedway,"The Jennens Super Speedway (62.07 m) is named in honor of the first ever racing family and 2021 re:Invent finalists James ""JJ"" and Timothy ""Flatearth"" Jennens. Pros this month will need to navigate the technical section without off tracks, and apply top speeds on the drag strips to climb the leaderboard.",1664557200000,40,62.08,1.07,36
 3,arn:aws:deepracer:us-east-1::track/2022_october_open,Jennens Family Speedway,"The Jennens Family Speedway (49.56 m) is named in honor of the first ever racing family and 2021 re:Invent finalists James ""JJ"" and Timothy ""Flatearth"" Jennens. This track features two blistering fast drag strips right into unforgiving 90 degree sweeping turns that can spin out even the most skilled developers.",1664557200000,40,49.57,1.07,10
 4,arn:aws:deepracer:us-east-1::track/2022_september_pro,Roger Super Raceway,"Are you ready rip on the Roger Super Raceway? The Roger Super Raceway was inspired by a real-life track in the home town of AWS Community Member, Roger Logan. At 60.17m this track features no shortage of lightning fast drag strips and unforgiving technical sections that will put even the most skilled developer to the test.",1661990400000,70,60.18,106.68,127
@@ -17,7 +17,7 @@ Rank,TrackArn,TrackName,TrackDescription,TrackReleaseTime,TrackDifficulty,TrackL
 16,arn:aws:deepracer:us-east-1::track/2022_march_open,Rogue Circuit,"Named in honor of the 2021 DeepRacer Championship Cup winner, Sairam Naragoni, the Rogue Circuit is a short track (48.06m) features a variety of moderate curves and sweeping turns. 
 ",1646092800000,60,48.07,106.88,235
 17,arn:aws:deepracer:us-east-1::track/2022_march_pro,Rogue Raceway,"Named in honor of the 2021 DeepRacer Championship Cup winner, Sairam Naragoni, the Rogue Raceway boasts a variety of sweeping turns and drag strips for a worthy training challenge.",1646092800000,75,76.76,106.68,172
-18,arn:aws:deepracer:us-east-1::track/2022_summit_speedway,RL Speedway,Kick starting the 2022 AWS DeepRacer Virtual Circuit with the debut of the Summit Speedway (25.23m). This track is comprised of short sprints and multiple hard decelerating 90 degree turns. Put your developer skills to the test and race the Summit Speedway in-person at AWS Summits returning in 2022!,1643673600000,25,25.24,106.88,755
+18,arn:aws:deepracer:us-east-1::track/2022_summit_speedway,RL Speedway,Kick starting the 2022 AWS DeepRacer Virtual Circuit with the debut of the Summit Speedway (25.23m). This track is comprised of short sprints and multiple hard decelerating 90 degree turns. Put your developer skills to the test and race the Summit Speedway in-person at AWS Summits returning in 2022!,1643673600000,25,25.24,106.88,756
 19,arn:aws:deepracer:us-east-1::track/caecer_loop,Vivalas Loop,The Vivalas Loop perimeter features a modified oval full of high speed straightaways primed for passing and all out speed. Which racers will roll the dice and go all in?,1635588000000,25,39.12,108.0,34
 20,arn:aws:deepracer:us-east-1::track/caecer_gp,Vivalas Speedway,"Inspired by a historic Las Vegas track of yesteryear, the Vivalas Speedway is the second longest, and most difficult track to be released in 2021. 5 consecutive opposing hairpins are framed in by the Vivalas Loop perimeter; a modified oval full of high speed straightaways primed for passing and all out speed. Which racers will go all in and gamble it all for the jackpot?",1635552000000,70,73.78,108.0,162
 21,arn:aws:deepracer:us-east-1::track/red_star_open,Expedition Loop,Go where no racer has gone before on the Expedition Loop track! This is a short track at 44.04m featuring two dragstrips and an unforgiving hairpin turn. Expect to see no shortage of off tracks on this challenging course.,1633021200000,52,43.47,1.07,8
@@ -88,7 +88,7 @@ Width: 107 cm (42"")",1585699200000,88,23.12,107.0,1747
 49,arn:aws:deepracer:us-east-1::track/reinvent_base,re:Invent 2018,"Inspired by Monza, re:Invent 2018 was the first Championship Cup track. This short, classic speedway remains a perennial rookie favorite.
 
 Length: 17.6 m (57.97')
-Width: 76 cm (30"")",1583020800000,69,17.6,76.0,4819
+Width: 76 cm (30"")",1583020800000,69,17.6,76.0,4839
 50,arn:aws:deepracer:us-east-1::track/AmericasGeneratedInclStart,Baadal Track,"“Baadal” is the Hindi word for “cloud.” The Baadal Track’s tight winding corners open up into long arching straightaways, perfect for passing opportunities.
 
 Length: 39 m (128')
@@ -132,8 +132,8 @@ Width: 76 cm (30"")",1554076800000,50,17.43,76.0,129
 60,arn:aws:deepracer:us-east-1::track/Oval_track,Oval Track,"Inspired by Indy Speedway, the Oval Track is simple and gives the agent space to learn different strategies. It’s a good choice for getting started.
 
 Length: 19.55 m (64.14')
-Width: 76 cm (30"")",1551398400000,92,19.55,76.0,253
+Width: 76 cm (30"")",1551398400000,92,19.55,76.0,254
 61,arn:aws:deepracer:us-east-1::track/reInvent2019_wide,A to Z Speedway,"It’s easier for an agent to navigate this extra wide version of re:Invent 2018. Use it to get started with object avoidance and head-to-head race training.
 
 Length: 16.64 m (54.59')
-Width: 107 cm (42"")",1548979200000,94,16.64,107.0,380
+Width: 107 cm (42"")",1548979200000,94,16.64,107.0,381
