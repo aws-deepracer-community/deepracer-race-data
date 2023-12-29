@@ -88,7 +88,7 @@ Width: 107 cm (42"")",1585699200000,88,23.12,107.0,1914
 49,arn:aws:deepracer:us-east-1::track/reinvent_base,re:Invent 2018,"Inspired by Monza, re:Invent 2018 was the first Championship Cup track. This short, classic speedway remains a perennial rookie favorite.
 
 Length: 17.6 m (57.97')
-Width: 76 cm (30"")",1583020800000,69,17.6,76.0,5090
+Width: 76 cm (30"")",1583020800000,69,17.6,76.0,5091
 50,arn:aws:deepracer:us-east-1::track/AmericasGeneratedInclStart,Baadal Track,"“Baadal” is the Hindi word for “cloud.” The Baadal Track’s tight winding corners open up into long arching straightaways, perfect for passing opportunities.
 
 Length: 39 m (128')
@@ -96,7 +96,7 @@ Width: 107 cm (42"")",1580515200000,72,39.0,107.0,155
 51,arn:aws:deepracer:us-east-1::track/LGSWide,SOLA Speedway,"Dedicated to reigning AWS DeepRacer Championship Cup winner, SOLA-DNP, the SOLA Speedway features high-speed straightaways and hairpin turns.
 
 Length: 38 m (124')
-Width: 106 cm (42"")",1577836800000,50,38.0,106.0,56
+Width: 106 cm (42"")",1577836800000,50,38.0,106.0,55
 52,arn:aws:deepracer:us-east-1::track/Vegas_track,AWS Summit Raceway,"Created to prepare racers for the 2020 AWS DeepRacer League, the AWS Summit Raceway provides a solid training warm up for any agent.
 
 Length: 22.57 m (74')
