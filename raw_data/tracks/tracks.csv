@@ -67,7 +67,7 @@ Width: 106 cm (42"")",1598918400000,33,60.0,106.0,840
 44,arn:aws:deepracer:us-east-1::track/Albert,Yun Speedway,"“Yun” is the Chinese word for “cloud.” A broad loop demanding constant cornering, the Yun Speedway is the lofty domain of the racing line specialist.
 
 Length: 51 m (167')
-Width: 107 cm (42"")",1596240000000,82,51.0,107.0,35
+Width: 107 cm (42"")",1596240000000,82,51.0,107.0,36
 45,arn:aws:deepracer:us-east-1::track/July_2020,Roger Raceway,"Named in honor of the 2019 Championship Cup bronze medalist, Roger Chu, the Roger Raceway boasts a variety of complex curves for a worthy training challenge.
 
 Length: 60 m (196.5')
@@ -92,7 +92,7 @@ Width: 76 cm (30"")",1583020800000,69,17.6,76.0,5202
 50,arn:aws:deepracer:us-east-1::track/AmericasGeneratedInclStart,Baadal Track,"“Baadal” is the Hindi word for “cloud.” The Baadal Track’s tight winding corners open up into long arching straightaways, perfect for passing opportunities.
 
 Length: 39 m (128')
-Width: 107 cm (42"")",1580515200000,72,39.0,107.0,156
+Width: 107 cm (42"")",1580515200000,72,39.0,107.0,157
 51,arn:aws:deepracer:us-east-1::track/LGSWide,SOLA Speedway,"Dedicated to reigning AWS DeepRacer Championship Cup winner, SOLA-DNP, the SOLA Speedway features high-speed straightaways and hairpin turns.
 
 Length: 38 m (124')
@@ -136,4 +136,4 @@ Width: 76 cm (30"")",1551398400000,92,19.55,76.0,265
 61,arn:aws:deepracer:us-east-1::track/reInvent2019_wide,A to Z Speedway,"It’s easier for an agent to navigate this extra wide version of re:Invent 2018. Use it to get started with object avoidance and head-to-head race training.
 
 Length: 16.64 m (54.59')
-Width: 107 cm (42"")",1548979200000,94,16.64,107.0,528
+Width: 107 cm (42"")",1548979200000,94,16.64,107.0,529
