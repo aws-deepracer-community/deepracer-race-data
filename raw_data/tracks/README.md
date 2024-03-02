@@ -2,6 +2,8 @@
 # Tracks
 ## Track update interval
 Track data is updated 00:01 UTC daily. Actual update time may vary slightly due to the way actions are scheduled.
+## Track Direction
+Tracks have different suffixes: _cw for clockwise, and _ccw or no-sufffix for counterclockwise
 ## Available tracks
 Currently there are **61 tracks** available in the dataset.
 | Image                                                                                                                                        | Name                                     | Release Date           | Numpy Files                                                                                                                                                                                          | Track Length   | Track Width   |
