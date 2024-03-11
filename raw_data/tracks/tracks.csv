@@ -13,7 +13,7 @@ Rank,TrackArn,TrackName,TrackDescription,TrackReleaseTime,TrackDifficulty,TrackL
 12,arn:aws:deepracer:us-east-1::track/2022_may_open,Ross Raceway,"The Ross Raceway was named in honor of the 2021 AWS DeepRacer 3rd place Champion, Ross Williams. Expect to see racers put the pedal to the metal on the 3x dragstrips featured on the Ross Raceway, but there will be no shortage of off tracks as they navigate the various sweeping turns.",1651363200000,40,46.16,107.0,65
 13,arn:aws:deepracer:us-east-1::track/2022_may_pro,Ross Super Speedway,"The Ross Super Raceway was named in honor of the 2021 AWS DeepRacer 3rd place Champion, Ross Williams. Pro racers will be put to the test in navigating an unforgiving technical section full of variable angle turns, along with 2x lightning fast straightaways.",1651363200000,75,63.92,107.0,59
 14,arn:aws:deepracer:us-east-1::track/2022_april_pro,Ace Super Speedway,"The Ace Super Speedway was named in honor of the 2021 AWS DeepRacer 2nd place Champion, Yousuf Nizam. Featuring full throttle straightaways and unforgiving hairpin turns the Ace Super Speedway will surely require an ace in the hole to come away with a win.",1648771200000,68,67.46,107.0,87
-15,arn:aws:deepracer:us-east-1::track/2022_april_open,Ace Speedway,"The Ace Speedway was named in honor of the 2021 AWS DeepRacer 2nd place Champion, Yousuf Nizam. Expect many developers ace this track with lightning fast race times featuring a single sprint dragstrip into a broad sweeping turns.",1648771200000,35,50.3,107.0,311
+15,arn:aws:deepracer:us-east-1::track/2022_april_open,Ace Speedway,"The Ace Speedway was named in honor of the 2021 AWS DeepRacer 2nd place Champion, Yousuf Nizam. Expect many developers ace this track with lightning fast race times featuring a single sprint dragstrip into a broad sweeping turns.",1648771200000,35,50.3,107.0,313
 16,arn:aws:deepracer:us-east-1::track/2022_march_open,Rogue Circuit,"Named in honor of the 2021 DeepRacer Championship Cup winner, Sairam Naragoni, the Rogue Circuit is a short track (48.06m) features a variety of moderate curves and sweeping turns. 
 ",1646092800000,60,48.07,106.88,237
 17,arn:aws:deepracer:us-east-1::track/2022_march_pro,Rogue Raceway,"Named in honor of the 2021 DeepRacer Championship Cup winner, Sairam Naragoni, the Rogue Raceway boasts a variety of sweeping turns and drag strips for a worthy training challenge.",1646092800000,75,76.76,106.68,174
@@ -84,7 +84,7 @@ Width: 107 cm (42"")",1588291200000,31,60.0,107.0,97
 48,arn:aws:deepracer:us-east-1::track/reInvent2019_track,Smile Speedway,"The official track for the 2019 AWS DeepRacer Championship Cup finals, this is a moderately challenging track ideal for stepping up your training and experimentation.
 
 Length: 23.12 m (75.85')
-Width: 107 cm (42"")",1585699200000,88,23.12,107.0,1975
+Width: 107 cm (42"")",1585699200000,88,23.12,107.0,1976
 49,arn:aws:deepracer:us-east-1::track/reinvent_base,re:Invent 2018,"Inspired by Monza, re:Invent 2018 was the first Championship Cup track. This short, classic speedway remains a perennial rookie favorite.
 
 Length: 17.6 m (57.97')
