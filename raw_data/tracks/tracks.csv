@@ -15,7 +15,7 @@ Rank,TrackArn,TrackName,TrackDescription,TrackReleaseTime,TrackDifficulty,TrackL
 14,arn:aws:deepracer:us-east-1::track/2022_april_pro,Ace Super Speedway,"The Ace Super Speedway was named in honor of the 2021 AWS DeepRacer 2nd place Champion, Yousuf Nizam. Featuring full throttle straightaways and unforgiving hairpin turns the Ace Super Speedway will surely require an ace in the hole to come away with a win.",1648771200000,68,67.46,107.0,87
 15,arn:aws:deepracer:us-east-1::track/2022_april_open,Ace Speedway,"The Ace Speedway was named in honor of the 2021 AWS DeepRacer 2nd place Champion, Yousuf Nizam. Expect many developers ace this track with lightning fast race times featuring a single sprint dragstrip into a broad sweeping turns.",1648771200000,35,50.3,107.0,328
 16,arn:aws:deepracer:us-east-1::track/2022_march_open,Rogue Circuit,"Named in honor of the 2021 DeepRacer Championship Cup winner, Sairam Naragoni, the Rogue Circuit is a short track (48.06m) features a variety of moderate curves and sweeping turns. 
-",1646092800000,60,48.07,106.88,237
+",1646092800000,60,48.07,106.88,239
 17,arn:aws:deepracer:us-east-1::track/2022_march_pro,Rogue Raceway,"Named in honor of the 2021 DeepRacer Championship Cup winner, Sairam Naragoni, the Rogue Raceway boasts a variety of sweeping turns and drag strips for a worthy training challenge.",1646092800000,75,76.76,106.68,173
 18,arn:aws:deepracer:us-east-1::track/2022_summit_speedway,RL Speedway,Kick starting the 2022 AWS DeepRacer Virtual Circuit with the debut of the Summit Speedway (25.23m). This track is comprised of short sprints and multiple hard decelerating 90 degree turns. Put your developer skills to the test and race the Summit Speedway in-person at AWS Summits returning in 2022!,1643673600000,25,25.24,106.88,776
 19,arn:aws:deepracer:us-east-1::track/caecer_loop,Vivalas Loop,The Vivalas Loop perimeter features a modified oval full of high speed straightaways primed for passing and all out speed. Which racers will roll the dice and go all in?,1635588000000,25,39.12,108.0,88
@@ -136,4 +136,4 @@ Width: 76 cm (30"")",1551398400000,92,19.55,76.0,271
 61,arn:aws:deepracer:us-east-1::track/reInvent2019_wide,A to Z Speedway,"It’s easier for an agent to navigate this extra wide version of re:Invent 2018. Use it to get started with object avoidance and head-to-head race training.
 
 Length: 16.64 m (54.59')
-Width: 107 cm (42"")",1548979200000,94,16.64,107.0,600
+Width: 107 cm (42"")",1548979200000,94,16.64,107.0,601
