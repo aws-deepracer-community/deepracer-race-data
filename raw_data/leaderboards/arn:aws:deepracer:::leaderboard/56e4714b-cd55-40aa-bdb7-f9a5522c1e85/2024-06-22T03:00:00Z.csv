@@ -1,0 +1,3 @@
+Rank,Alias,SubmissionTime,LapCount,AvgLapTime,BestLapTime,TotalLapTime,AvgResets,CollisionCount,OffTrackCount,ResetCount,SubmissionCount,LeaderboardSubmissionStatusType,RankingScore,UserId
+1,NateVroomMorr,1719016788531,5,39423,32599,227626,5.0,24,1,25,5,SUCCESS,39423,EGDiUP6VTJuqsCLUTdP7Qw
+2,RobotError#5411,1719020263436,5,47819,45323,266621,4.2,20,1,21,1,SUCCESS,47819,DFUFWR13RDS0LgVBfwSIfA
