@@ -10,7 +10,7 @@ Rank,TrackArn,TrackName,TrackDescription,TrackReleaseTime,TrackDifficulty,TrackL
 9,arn:aws:deepracer:us-east-1::track/2022_july_open,DBro Raceway,"Get ready to burn rubber on the DBro Raceway named after 2021 AWS DeepRacer finalist Darren ""DBro"" Broderick. This track features 3 lightning fast drag strips into sweeping turns. Do you have what it takes to advance or will get caught doing DOH-nuts in the green?",1656633600000,25,40.2,106.88,30
 10,arn:aws:deepracer:us-east-1::track/2022_june_pro,BreadCentric Speedway,"The BreadCentric Speedway is named after AWS DeepRacer Community Hero, Tomasz Ptak AKA ""BreadCentric"". This track adds a deceivingly technical section with an unforgiving hairpin turn separating the varying dragstrips. The BreadCentric Speedway will test the skills of even the most experienced developer.",1654041600000,10,58.61,106.68,130
 11,arn:aws:deepracer:us-east-1::track/2022_june_open,BreadCentric Loop,"The BreadCentric Loop is named after AWS DeepRacer Community Hero, Tomasz Ptak AKA ""BreadCentric"". This track challenges racers with lightning fast drag strips and variable sweeping turns. While the BreadCentric Loop seems simple expect to see no shortage of off tracks.",1654041600000,10,41.28,106.88,32
-12,arn:aws:deepracer:us-east-1::track/2022_may_open,Ross Raceway,"The Ross Raceway was named in honor of the 2021 AWS DeepRacer 3rd place Champion, Ross Williams. Expect to see racers put the pedal to the metal on the 3x dragstrips featured on the Ross Raceway, but there will be no shortage of off tracks as they navigate the various sweeping turns.",1651363200000,40,46.16,107.0,95
+12,arn:aws:deepracer:us-east-1::track/2022_may_open,Ross Raceway,"The Ross Raceway was named in honor of the 2021 AWS DeepRacer 3rd place Champion, Ross Williams. Expect to see racers put the pedal to the metal on the 3x dragstrips featured on the Ross Raceway, but there will be no shortage of off tracks as they navigate the various sweeping turns.",1651363200000,40,46.16,107.0,102
 13,arn:aws:deepracer:us-east-1::track/2022_may_pro,Ross Super Speedway,"The Ross Super Raceway was named in honor of the 2021 AWS DeepRacer 3rd place Champion, Ross Williams. Pro racers will be put to the test in navigating an unforgiving technical section full of variable angle turns, along with 2x lightning fast straightaways.",1651363200000,75,63.92,107.0,58
 14,arn:aws:deepracer:us-east-1::track/2022_april_pro,Ace Super Speedway,"The Ace Super Speedway was named in honor of the 2021 AWS DeepRacer 2nd place Champion, Yousuf Nizam. Featuring full throttle straightaways and unforgiving hairpin turns the Ace Super Speedway will surely require an ace in the hole to come away with a win.",1648771200000,68,67.46,107.0,87
 15,arn:aws:deepracer:us-east-1::track/2022_april_open,Ace Speedway,"The Ace Speedway was named in honor of the 2021 AWS DeepRacer 2nd place Champion, Yousuf Nizam. Expect many developers ace this track with lightning fast race times featuring a single sprint dragstrip into a broad sweeping turns.",1648771200000,35,50.3,107.0,329
@@ -22,7 +22,7 @@ Rank,TrackArn,TrackName,TrackDescription,TrackReleaseTime,TrackDifficulty,TrackL
 20,arn:aws:deepracer:us-east-1::track/caecer_gp,Vivalas Speedway,"Inspired by a historic Las Vegas track of yesteryear, the Vivalas Speedway is the second longest, and most difficult track to be released in 2021. 5 consecutive opposing hairpins are framed in by the Vivalas Loop perimeter; a modified oval full of high speed straightaways primed for passing and all out speed. Which racers will go all in and gamble it all for the jackpot?",1635552000000,70,73.78,108.0,246
 21,arn:aws:deepracer:us-east-1::track/red_star_open,Expedition Loop,Go where no racer has gone before on the Expedition Loop track! This is a short track at 44.04m featuring two dragstrips and an unforgiving hairpin turn. Expect to see no shortage of off tracks on this challenging course.,1633021200000,52,43.47,1.07,12
 22,arn:aws:deepracer:us-east-1::track/red_star_pro,Expedition Super Loop,The pro racers will be drifting into uncharted territory on the Expedition Super Loop! This is a long track at 69.96m featuring exceptionally difficult hairpin turns and high speed straightaways. This track is sure to test even the most skillful racers.,1633021080000,47,69.17,1.07,412
-23,arn:aws:deepracer:us-east-1::track/morgan_pro,Playa Super Raceway, At 59.8m the Playa Super Raceway features back-to-back hairpin turns and two straightaway opportunities to generate speed. A successful run will require skillful command of time (steps) and (action) space.,1630454400000,57,59.57,1.07,143
+23,arn:aws:deepracer:us-east-1::track/morgan_pro,Playa Super Raceway, At 59.8m the Playa Super Raceway features back-to-back hairpin turns and two straightaway opportunities to generate speed. A successful run will require skillful command of time (steps) and (action) space.,1630454400000,57,59.57,1.07,144
 24,arn:aws:deepracer:us-east-1::track/morgan_open,Playa Raceway,The Playa Raceway is a short track at 45.16m featuring one long drag strip for generating speed with an unforgiving hairpin turn. While the track seems simple expect to see no shortage of off tracks.,1630454400000,55,45.06,1.07,10
 25,arn:aws:deepracer:us-east-1::track/arctic_pro,Hot Rod Super Speedway,"The Hot Rod Super Speedway adds pro difficulty to the short track counterpart. With a length of 59.69m, the speed loving arch is replaced by 4 short straightaways coupled with variable angle turns. Skillful racers may bisect the chicanes to extending speed generating opportunities and pull away from the pack.",1627689601000,64,59.5,1.07,185
 26,arn:aws:deepracer:us-east-1::track/arctic_open,Hot Rod Speedway,"Featuring a short length of just 42.25m, the Hot Rod Speedway caters to speed loving dragsters with multiple fast running drag strips tied together by friendly sweeping turns. Expect to see blistering fast times this month as models rev their engines and burn rubber around this track.",1627689601000,55,42.21,1.07,36
@@ -71,7 +71,7 @@ Width: 107 cm (42"")",1596240000000,82,51.0,107.0,146
 45,arn:aws:deepracer:us-east-1::track/July_2020,Roger Raceway,"Named in honor of the 2019 Championship Cup bronze medalist, Roger Chu, the Roger Raceway boasts a variety of complex curves for a worthy training challenge.
 
 Length: 60 m (196.5')
-Width: 107 cm (42"")",1593561600000,56,60.0,107.0,18
+Width: 107 cm (42"")",1593561600000,56,60.0,107.0,19
 46,arn:aws:deepracer:us-east-1::track/FS_June2020,Fumiaki Loop,"Dedicated to our runner up at the 2019 Championship Cup and inspired by Fuji Speedway, the Fumiaki Loop is a serious challenge for any developer. Start racing today for your opportunity to punch a ticket to re:Invent 2023!
 
 
@@ -84,7 +84,7 @@ Width: 107 cm (42"")",1588291200000,31,60.0,107.0,97
 48,arn:aws:deepracer:us-east-1::track/reInvent2019_track,Smile Speedway,"The official track for the 2019 AWS DeepRacer Championship Cup finals, this is a moderately challenging track ideal for stepping up your training and experimentation.
 
 Length: 23.12 m (75.85')
-Width: 107 cm (42"")",1585699200000,88,23.12,107.0,2134
+Width: 107 cm (42"")",1585699200000,88,23.12,107.0,2135
 49,arn:aws:deepracer:us-east-1::track/reinvent_base,re:Invent 2018,"Inspired by Monza, re:Invent 2018 was the first Championship Cup track. This short, classic speedway remains a perennial rookie favorite.
 
 Length: 17.6 m (57.97')
@@ -136,4 +136,4 @@ Width: 76 cm (30"")",1551398400000,92,19.55,76.0,282
 61,arn:aws:deepracer:us-east-1::track/reInvent2019_wide,A to Z Speedway,"It’s easier for an agent to navigate this extra wide version of re:Invent 2018. Use it to get started with object avoidance and head-to-head race training.
 
 Length: 16.64 m (54.59')
-Width: 107 cm (42"")",1548979200000,94,16.64,107.0,667
+Width: 107 cm (42"")",1548979200000,94,16.64,107.0,671
