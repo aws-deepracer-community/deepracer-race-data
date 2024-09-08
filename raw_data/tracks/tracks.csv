@@ -11,7 +11,7 @@ Rank,TrackArn,TrackName,TrackDescription,TrackReleaseTime,TrackDifficulty,TrackL
 10,arn:aws:deepracer:us-east-1::track/2022_june_pro,BreadCentric Speedway,"The BreadCentric Speedway is named after AWS DeepRacer Community Hero, Tomasz Ptak AKA ""BreadCentric"". This track adds a deceivingly technical section with an unforgiving hairpin turn separating the varying dragstrips. The BreadCentric Speedway will test the skills of even the most experienced developer.",1654041600000,10,58.61,106.68,130
 11,arn:aws:deepracer:us-east-1::track/2022_june_open,BreadCentric Loop,"The BreadCentric Loop is named after AWS DeepRacer Community Hero, Tomasz Ptak AKA ""BreadCentric"". This track challenges racers with lightning fast drag strips and variable sweeping turns. While the BreadCentric Loop seems simple expect to see no shortage of off tracks.",1654041600000,10,41.28,106.88,36
 12,arn:aws:deepracer:us-east-1::track/2022_may_open,Ross Raceway,"The Ross Raceway was named in honor of the 2021 AWS DeepRacer 3rd place Champion, Ross Williams. Expect to see racers put the pedal to the metal on the 3x dragstrips featured on the Ross Raceway, but there will be no shortage of off tracks as they navigate the various sweeping turns.",1651363200000,40,46.16,107.0,263
-13,arn:aws:deepracer:us-east-1::track/2022_may_pro,Ross Super Speedway,"The Ross Super Raceway was named in honor of the 2021 AWS DeepRacer 3rd place Champion, Ross Williams. Pro racers will be put to the test in navigating an unforgiving technical section full of variable angle turns, along with 2x lightning fast straightaways.",1651363200000,75,63.92,107.0,61
+13,arn:aws:deepracer:us-east-1::track/2022_may_pro,Ross Super Speedway,"The Ross Super Raceway was named in honor of the 2021 AWS DeepRacer 3rd place Champion, Ross Williams. Pro racers will be put to the test in navigating an unforgiving technical section full of variable angle turns, along with 2x lightning fast straightaways.",1651363200000,75,63.92,107.0,62
 14,arn:aws:deepracer:us-east-1::track/2022_april_pro,Ace Super Speedway,"The Ace Super Speedway was named in honor of the 2021 AWS DeepRacer 2nd place Champion, Yousuf Nizam. Featuring full throttle straightaways and unforgiving hairpin turns the Ace Super Speedway will surely require an ace in the hole to come away with a win.",1648771200000,68,67.46,107.0,155
 15,arn:aws:deepracer:us-east-1::track/2022_april_open,Ace Speedway,"The Ace Speedway was named in honor of the 2021 AWS DeepRacer 2nd place Champion, Yousuf Nizam. Expect many developers ace this track with lightning fast race times featuring a single sprint dragstrip into a broad sweeping turns.",1648771200000,35,50.3,107.0,333
 16,arn:aws:deepracer:us-east-1::track/2022_march_open,Rogue Circuit,"Named in honor of the 2021 DeepRacer Championship Cup winner, Sairam Naragoni, the Rogue Circuit is a short track (48.06m) features a variety of moderate curves and sweeping turns. 
@@ -25,7 +25,7 @@ Rank,TrackArn,TrackName,TrackDescription,TrackReleaseTime,TrackDifficulty,TrackL
 23,arn:aws:deepracer:us-east-1::track/morgan_pro,Playa Super Raceway, At 59.8m the Playa Super Raceway features back-to-back hairpin turns and two straightaway opportunities to generate speed. A successful run will require skillful command of time (steps) and (action) space.,1630454400000,57,59.57,1.07,144
 24,arn:aws:deepracer:us-east-1::track/morgan_open,Playa Raceway,The Playa Raceway is a short track at 45.16m featuring one long drag strip for generating speed with an unforgiving hairpin turn. While the track seems simple expect to see no shortage of off tracks.,1630454400000,55,45.06,1.07,10
 25,arn:aws:deepracer:us-east-1::track/arctic_pro,Hot Rod Super Speedway,"The Hot Rod Super Speedway adds pro difficulty to the short track counterpart. With a length of 59.69m, the speed loving arch is replaced by 4 short straightaways coupled with variable angle turns. Skillful racers may bisect the chicanes to extending speed generating opportunities and pull away from the pack.",1627689601000,64,59.5,1.07,188
-26,arn:aws:deepracer:us-east-1::track/arctic_open,Hot Rod Speedway,"Featuring a short length of just 42.25m, the Hot Rod Speedway caters to speed loving dragsters with multiple fast running drag strips tied together by friendly sweeping turns. Expect to see blistering fast times this month as models rev their engines and burn rubber around this track.",1627689601000,55,42.21,1.07,117
+26,arn:aws:deepracer:us-east-1::track/arctic_open,Hot Rod Speedway,"Featuring a short length of just 42.25m, the Hot Rod Speedway caters to speed loving dragsters with multiple fast running drag strips tied together by friendly sweeping turns. Expect to see blistering fast times this month as models rev their engines and burn rubber around this track.",1627689601000,55,42.21,1.07,119
 27,arn:aws:deepracer:us-east-1::track/dubai_pro,Baja Highway,"At 65.18m, The Baja Highway extends upon the shorter turnpike with pro level difficulty and even more opportunities for generating speed. A second massive straightaway mid course is similarly capped by a hairpin and increasing radius turn, along with an unforgiving technical section full of wrought with tight cutbacks and hairpins.",1625072280000,24,64.67,1.07,78
 28,arn:aws:deepracer:us-east-1::track/dubai_open,Baja Turnpike,"At 40.79m, the Baja Turnpike is a short angular track that mixes full throttle straightaways with hard decelerating turns. Signature features include a long high speed sprint over the finish line end capped by a harsh hairpin and tight 90 degree turn. While you won't find any sand traps on this course there are no shortage of places to get stuck.",1625072280000,50,40.56,1.07,160
 29,arn:aws:deepracer:us-east-1::track/hamption_open,Kuei Raceway,"Kuei Raceway is a fast short track (46.15m) with a friendly high speed arch and two straightaways interspersed between 2 hairpins, a chicane, and a technical cutback hairpin. It is named after 3rd place DeepRacer League finalists Kuei of NCTU CGI Taiwan.",1623368700000,52,45.93,1.06,11
@@ -47,7 +47,7 @@ Width: 135 cm (53"")",1609718400000,78,60.0,135.0,48
 39,arn:aws:deepracer:us-east-1::track/Austin,American Hills Speedway,"Set in the Southern United States, the American Hills Speedway is a classic circuit, featuring two technical turn sections and three high speed straightaways.
 
 Length: 59 m (194')
-Width: 131 cm (52"")",1604966400000,54,59.0,131.0,114
+Width: 131 cm (52"")",1604966400000,54,59.0,131.0,116
 40,arn:aws:deepracer:us-east-1::track/Singapore,Asia Pacific Bay Loop,"Streak through the Marina Bay’s waterfront on the Asia Pacific Bay Loop, a fast and open nighttime track.
 
 Length: 60 m (197')
@@ -84,11 +84,11 @@ Width: 107 cm (42"")",1588291200000,31,60.0,107.0,97
 48,arn:aws:deepracer:us-east-1::track/reInvent2019_track,Smile Speedway,"The official track for the 2019 AWS DeepRacer Championship Cup finals, this is a moderately challenging track ideal for stepping up your training and experimentation.
 
 Length: 23.12 m (75.85')
-Width: 107 cm (42"")",1585699200000,88,23.12,107.0,2275
+Width: 107 cm (42"")",1585699200000,88,23.12,107.0,2276
 49,arn:aws:deepracer:us-east-1::track/reinvent_base,re:Invent 2018,"Inspired by Monza, re:Invent 2018 was the first Championship Cup track. This short, classic speedway remains a perennial rookie favorite.
 
 Length: 17.6 m (57.97')
-Width: 76 cm (30"")",1583020800000,69,17.6,76.0,5774
+Width: 76 cm (30"")",1583020800000,69,17.6,76.0,5775
 50,arn:aws:deepracer:us-east-1::track/AmericasGeneratedInclStart,Baadal Track,"“Baadal” is the Hindi word for “cloud.” The Baadal Track’s tight winding corners open up into long arching straightaways, perfect for passing opportunities.
 
 Length: 39 m (128')
