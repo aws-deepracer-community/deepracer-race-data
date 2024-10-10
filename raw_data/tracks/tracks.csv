@@ -1,5 +1,5 @@
 Rank,TrackArn,TrackName,TrackDescription,TrackReleaseTime,TrackDifficulty,TrackLength,TrackWidth,TrackUsageCount
-1,arn:aws:deepracer:us-east-1::track/2024_reinvent_champ,Forever Raceway,"The Forever Raceway is the grand finale of the DeepRacer Championship League. Inspired by the RL Speedway, this final track features short, narrow sprints and sharp 90-degree turns that test the ML skill sets of the world's fastest developers. Bring all your skills to this race, as it is the last and final track to crown the ultimate AWS DeepRacer Champion.",1727740800000,35,25.1,76.2,2
+1,arn:aws:deepracer:us-east-1::track/2024_reinvent_champ,Forever Raceway,"The Forever Raceway is the grand finale of the DeepRacer Championship League. Inspired by the RL Speedway, this final track features short, narrow sprints and sharp 90-degree turns that test the ML skill sets of the world's fastest developers. Bring all your skills to this race, as it is the last and final track to crown the ultimate AWS DeepRacer Champion.",1727740800000,35,25.1,76.2,4
 2,arn:aws:deepracer:us-east-1::track/2022_reinvent_champ,2022 re:Invent Championship,Get ready to rev your engines on the official 2022 re:Invent Championship track! This is an intensely difficult track (35.87 m) featuring a technical chicane section that will challenge even the most skilled developers.,1664557200000,10,33.27,0.95,275
 3,arn:aws:deepracer:us-east-1::track/2022_october_pro,Jennens Super Speedway,"The Jennens Super Speedway (62.07 m) is named in honor of the first ever racing family and 2021 re:Invent finalists James ""JJ"" and Timothy ""Flatearth"" Jennens. Pros this month will need to navigate the technical section without off tracks, and apply top speeds on the drag strips to climb the leaderboard.",1664557200000,40,62.08,1.07,40
 4,arn:aws:deepracer:us-east-1::track/2022_october_open,Jennens Family Speedway,"The Jennens Family Speedway (49.56 m) is named in honor of the first ever racing family and 2021 re:Invent finalists James ""JJ"" and Timothy ""Flatearth"" Jennens. This track features two blistering fast drag strips right into unforgiving 90 degree sweeping turns that can spin out even the most skilled developers.",1664557200000,40,49.57,1.07,10
@@ -12,7 +12,7 @@ Rank,TrackArn,TrackName,TrackDescription,TrackReleaseTime,TrackDifficulty,TrackL
 11,arn:aws:deepracer:us-east-1::track/2022_june_pro,BreadCentric Speedway,"The BreadCentric Speedway is named after AWS DeepRacer Community Hero, Tomasz Ptak AKA ""BreadCentric"". This track adds a deceivingly technical section with an unforgiving hairpin turn separating the varying dragstrips. The BreadCentric Speedway will test the skills of even the most experienced developer.",1654041600000,10,58.61,106.68,121
 12,arn:aws:deepracer:us-east-1::track/2022_june_open,BreadCentric Loop,"The BreadCentric Loop is named after AWS DeepRacer Community Hero, Tomasz Ptak AKA ""BreadCentric"". This track challenges racers with lightning fast drag strips and variable sweeping turns. While the BreadCentric Loop seems simple expect to see no shortage of off tracks.",1654041600000,10,41.28,106.88,37
 13,arn:aws:deepracer:us-east-1::track/2022_may_open,Ross Raceway,"The Ross Raceway was named in honor of the 2021 AWS DeepRacer 3rd place Champion, Ross Williams. Expect to see racers put the pedal to the metal on the 3x dragstrips featured on the Ross Raceway, but there will be no shortage of off tracks as they navigate the various sweeping turns.",1651363200000,40,46.16,107.0,264
-14,arn:aws:deepracer:us-east-1::track/2022_may_pro,Ross Super Speedway,"The Ross Super Raceway was named in honor of the 2021 AWS DeepRacer 3rd place Champion, Ross Williams. Pro racers will be put to the test in navigating an unforgiving technical section full of variable angle turns, along with 2x lightning fast straightaways.",1651363200000,75,63.92,107.0,103
+14,arn:aws:deepracer:us-east-1::track/2022_may_pro,Ross Super Speedway,"The Ross Super Raceway was named in honor of the 2021 AWS DeepRacer 3rd place Champion, Ross Williams. Pro racers will be put to the test in navigating an unforgiving technical section full of variable angle turns, along with 2x lightning fast straightaways.",1651363200000,75,63.92,107.0,105
 15,arn:aws:deepracer:us-east-1::track/2022_april_pro,Ace Super Speedway,"The Ace Super Speedway was named in honor of the 2021 AWS DeepRacer 2nd place Champion, Yousuf Nizam. Featuring full throttle straightaways and unforgiving hairpin turns the Ace Super Speedway will surely require an ace in the hole to come away with a win.",1648771200000,68,67.46,107.0,148
 16,arn:aws:deepracer:us-east-1::track/2022_april_open,Ace Speedway,"The Ace Speedway was named in honor of the 2021 AWS DeepRacer 2nd place Champion, Yousuf Nizam. Expect many developers ace this track with lightning fast race times featuring a single sprint dragstrip into a broad sweeping turns.",1648771200000,35,50.3,107.0,293
 17,arn:aws:deepracer:us-east-1::track/2022_march_open,Rogue Circuit,"Named in honor of the 2021 DeepRacer Championship Cup winner, Sairam Naragoni, the Rogue Circuit is a short track (48.06m) features a variety of moderate curves and sweeping turns. 
@@ -64,7 +64,7 @@ Width: 105 cm (41"")",1601510400000,36,60.0,105.0,35
 44,arn:aws:deepracer:us-east-1::track/Belille,Cumulo Turnpike,"The Cumulo Turnpike shifts from high-speed straightaways to challenging corners. It requires a perfect storm of exceptional navigation skill and speed control.
 
 Length: 60 m (197')
-Width: 106 cm (42"")",1598918400000,33,60.0,106.0,802
+Width: 106 cm (42"")",1598918400000,33,60.0,106.0,803
 45,arn:aws:deepracer:us-east-1::track/Albert,Yun Speedway,"“Yun” is the Chinese word for “cloud.” A broad loop demanding constant cornering, the Yun Speedway is the lofty domain of the racing line specialist.
 
 Length: 51 m (167')
@@ -81,7 +81,7 @@ Width: 107 cm (42"")",1590969600000,32,53.0,107.0,52
 48,arn:aws:deepracer:us-east-1::track/Spain_track,Circuit de Barcelona-Catalunya,"A reproduction of the official F1 Spanish Grand Prix track, the Circuit de Barcelona-Catalunya features 16 turns and two massive straightaways.
 
 Length: 60 m (196')
-Width: 107 cm (42"")",1588291200000,31,60.0,107.0,118
+Width: 107 cm (42"")",1588291200000,31,60.0,107.0,123
 49,arn:aws:deepracer:us-east-1::track/reInvent2019_track,Smile Speedway,"The official track for the 2019 AWS DeepRacer Championship Cup finals, this is a moderately challenging track ideal for stepping up your training and experimentation.
 
 Length: 23.12 m (75.85')
@@ -89,7 +89,7 @@ Width: 107 cm (42"")",1585699200000,88,23.12,107.0,2025
 50,arn:aws:deepracer:us-east-1::track/reinvent_base,re:Invent 2018,"Inspired by Monza, re:Invent 2018 was the first Championship Cup track. This short, classic speedway remains a perennial rookie favorite.
 
 Length: 17.6 m (57.97')
-Width: 76 cm (30"")",1583020800000,69,17.6,76.0,4817
+Width: 76 cm (30"")",1583020800000,69,17.6,76.0,4818
 51,arn:aws:deepracer:us-east-1::track/AmericasGeneratedInclStart,Baadal Track,"“Baadal” is the Hindi word for “cloud.” The Baadal Track’s tight winding corners open up into long arching straightaways, perfect for passing opportunities.
 
 Length: 39 m (128')
@@ -137,4 +137,4 @@ Width: 76 cm (30"")",1551398400000,92,19.55,76.0,263
 62,arn:aws:deepracer:us-east-1::track/reInvent2019_wide,A to Z Speedway,"It’s easier for an agent to navigate this extra wide version of re:Invent 2018. Use it to get started with object avoidance and head-to-head race training.
 
 Length: 16.64 m (54.59')
-Width: 107 cm (42"")",1548979200000,94,16.64,107.0,740
+Width: 107 cm (42"")",1548979200000,94,16.64,107.0,741
