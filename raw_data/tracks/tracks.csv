@@ -64,7 +64,7 @@ Width: 105 cm (41"")",1601510400000,36,60.0,105.0,35
 44,arn:aws:deepracer:us-east-1::track/Belille,Cumulo Turnpike,"The Cumulo Turnpike shifts from high-speed straightaways to challenging corners. It requires a perfect storm of exceptional navigation skill and speed control.
 
 Length: 60 m (197')
-Width: 106 cm (42"")",1598918400000,33,60.0,106.0,808
+Width: 106 cm (42"")",1598918400000,33,60.0,106.0,814
 45,arn:aws:deepracer:us-east-1::track/Albert,Yun Speedway,"“Yun” is the Chinese word for “cloud.” A broad loop demanding constant cornering, the Yun Speedway is the lofty domain of the racing line specialist.
 
 Length: 51 m (167')
@@ -101,7 +101,7 @@ Width: 106 cm (42"")",1577836800000,50,38.0,106.0,52
 53,arn:aws:deepracer:us-east-1::track/Vegas_track,AWS Summit Raceway,"Created to prepare racers for the 2020 AWS DeepRacer League, the AWS Summit Raceway provides a solid training warm up for any agent.
 
 Length: 22.57 m (74')
-Width: 91 cm (36"")",1575158400000,49,22.57,91.0,142
+Width: 91 cm (36"")",1575158400000,49,22.57,91.0,143
 54,arn:aws:deepracer:us-east-1::track/Canada_Training,Toronto Turnpike Training,"October’s training track for the 2019 Virtual Circuit World Tour, the Toronto Turnpike bookends a variety of subtle curves with two hairpins.
 
 Length: 21.74 m (71.33')
