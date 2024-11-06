@@ -35,7 +35,7 @@ Rank,TrackArn,TrackName,TrackDescription,TrackReleaseTime,TrackDifficulty,TrackL
 33,arn:aws:deepracer:us-east-1::track/hamption_pro,Kuei Super Raceway,Kuei Super Raceway adds pro difficulty to its short track counterpart by extending overall length in the form of a straightaway with a technical 4x double apex section. It is named after 3rd place DeepRacer League finalists Kuei of NCTU CGI Taiwan.,1619827200000,35,60.74,1.06,33
 34,arn:aws:deepracer:us-east-1::track/thunder_hill_pro,Lars Circuit,Lars Circuit is a pro difficulty track that adds an increasing to decreasing double apex and multiple high speed straightaways to its shorter cohort Lars Loop. It is named in honor of 2020 AWS DeepRacer League silver medalist Lars Ludvigsen (Duckworth).,1617235201000,28,59.23,107.0,111
 35,arn:aws:deepracer:us-east-1::track/thunder_hill_open,Lars Loop,"Lars Loop is a short track comprised of a modified oval with increasing radius and double apex, a varying double chicane, and a broad hairpin final stretch. It is named in honor of 2020 AWS DeepRacer League silver medalist Lars Ludvigsen (Duckworth).",1617235201000,34,41.55,107.0,62
-36,arn:aws:deepracer:us-east-1::track/penbay_open,Po-Chun Speedway,"Po-Chun Speedway is a short track (68.68m) featuring a simple oval track paired with a dragstrip, and single hairpin. It is named in honor of the 2020 AWS DeepRacer League Champion from NCTU CGI Taiwan.",1614560400000,43,68.68,107.0,220
+36,arn:aws:deepracer:us-east-1::track/penbay_open,Po-Chun Speedway,"Po-Chun Speedway is a short track (68.68m) featuring a simple oval track paired with a dragstrip, and single hairpin. It is named in honor of the 2020 AWS DeepRacer League Champion from NCTU CGI Taiwan.",1614560400000,43,68.68,107.0,222
 37,arn:aws:deepracer:us-east-1::track/penbay_pro,Po-Chun Super Speedway,Po-Chun Super Speedway is a long track (89.24m) which adds back-to-back hairpins and a high speed right angle turn its short track counterpart. It is named in honor of the 2020 AWS DeepRacer League Champion from NCTU CGI Taiwan.,1614560400000,31,89.24,107.0,54
 38,arn:aws:deepracer:us-east-1::track/Monaco_building,European Seaside Circuit - Buildings,"A highly technical track, the European Seaside Circuit’s tight turns weave through a timeless Mediterranean cliffside village with iconic buildings.
 
@@ -85,11 +85,11 @@ Width: 107 cm (42"")",1588291200000,31,60.0,107.0,123
 49,arn:aws:deepracer:us-east-1::track/reInvent2019_track,Smile Speedway,"The official track for the 2019 AWS DeepRacer Championship Cup finals, this is a moderately challenging track ideal for stepping up your training and experimentation.
 
 Length: 23.12 m (75.85')
-Width: 107 cm (42"")",1585699200000,88,23.12,107.0,2111
+Width: 107 cm (42"")",1585699200000,88,23.12,107.0,2116
 50,arn:aws:deepracer:us-east-1::track/reinvent_base,re:Invent 2018,"Inspired by Monza, re:Invent 2018 was the first Championship Cup track. This short, classic speedway remains a perennial rookie favorite.
 
 Length: 17.6 m (57.97')
-Width: 76 cm (30"")",1583020800000,69,17.6,76.0,4873
+Width: 76 cm (30"")",1583020800000,69,17.6,76.0,4877
 51,arn:aws:deepracer:us-east-1::track/AmericasGeneratedInclStart,Baadal Track,"“Baadal” is the Hindi word for “cloud.” The Baadal Track’s tight winding corners open up into long arching straightaways, perfect for passing opportunities.
 
 Length: 39 m (128')
