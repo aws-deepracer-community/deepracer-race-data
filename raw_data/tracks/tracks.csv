@@ -1,5 +1,5 @@
 Rank,TrackArn,TrackName,TrackDescription,TrackReleaseTime,TrackDifficulty,TrackLength,TrackWidth,TrackUsageCount
-1,arn:aws:deepracer:us-east-1::track/2024_reinvent_champ,Forever Raceway,"The Forever Raceway is the grand finale of the DeepRacer Championship League. Inspired by the RL Speedway, this final track features short, narrow sprints and sharp 90-degree turns that test the ML skill sets of the world's fastest developers. Bring all your skills to this race, as it is the last and final track to crown the ultimate AWS DeepRacer Champion.",1727740800000,35,25.1,76.2,41
+1,arn:aws:deepracer:us-east-1::track/2024_reinvent_champ,Forever Raceway,"The Forever Raceway is the grand finale of the DeepRacer Championship League. Inspired by the RL Speedway, this final track features short, narrow sprints and sharp 90-degree turns that test the ML skill sets of the world's fastest developers. Bring all your skills to this race, as it is the last and final track to crown the ultimate AWS DeepRacer Champion.",1727740800000,35,25.1,76.2,44
 2,arn:aws:deepracer:us-east-1::track/2022_reinvent_champ,2022 re:Invent Championship,Get ready to rev your engines on the official 2022 re:Invent Championship track! This is an intensely difficult track (35.87 m) featuring a technical chicane section that will challenge even the most skilled developers.,1664557200000,10,33.27,0.95,281
 3,arn:aws:deepracer:us-east-1::track/2022_october_pro,Jennens Super Speedway,"The Jennens Super Speedway (62.07 m) is named in honor of the first ever racing family and 2021 re:Invent finalists James ""JJ"" and Timothy ""Flatearth"" Jennens. Pros this month will need to navigate the technical section without off tracks, and apply top speeds on the drag strips to climb the leaderboard.",1664557200000,40,62.08,1.07,40
 4,arn:aws:deepracer:us-east-1::track/2022_october_open,Jennens Family Speedway,"The Jennens Family Speedway (49.56 m) is named in honor of the first ever racing family and 2021 re:Invent finalists James ""JJ"" and Timothy ""Flatearth"" Jennens. This track features two blistering fast drag strips right into unforgiving 90 degree sweeping turns that can spin out even the most skilled developers.",1664557200000,40,49.57,1.07,10
@@ -44,7 +44,7 @@ Width: 128 cm (50"")",1609718400000,61,60.0,128.0,20
 39,arn:aws:deepracer:us-east-1::track/Singapore_building,Asia Pacific Bay Loop - Buildings,"Streak through the Marina Bay’s waterfront on the Asia Pacific Bay Loop, a fast and open nighttime track with iconic buildings.
 
 Length: 60 m (197')
-Width: 135 cm (53"")",1609718400000,78,60.0,135.0,48
+Width: 135 cm (53"")",1609718400000,78,60.0,135.0,49
 40,arn:aws:deepracer:us-east-1::track/Austin,American Hills Speedway,"Set in the Southern United States, the American Hills Speedway is a classic circuit, featuring two technical turn sections and three high speed straightaways.
 
 Length: 59 m (194')
@@ -85,7 +85,7 @@ Width: 107 cm (42"")",1588291200000,31,60.0,107.0,123
 49,arn:aws:deepracer:us-east-1::track/reInvent2019_track,Smile Speedway,"The official track for the 2019 AWS DeepRacer Championship Cup finals, this is a moderately challenging track ideal for stepping up your training and experimentation.
 
 Length: 23.12 m (75.85')
-Width: 107 cm (42"")",1585699200000,88,23.12,107.0,2136
+Width: 107 cm (42"")",1585699200000,88,23.12,107.0,2137
 50,arn:aws:deepracer:us-east-1::track/reinvent_base,re:Invent 2018,"Inspired by Monza, re:Invent 2018 was the first Championship Cup track. This short, classic speedway remains a perennial rookie favorite.
 
 Length: 17.6 m (57.97')
@@ -101,7 +101,7 @@ Width: 106 cm (42"")",1577836800000,50,38.0,106.0,52
 53,arn:aws:deepracer:us-east-1::track/Vegas_track,AWS Summit Raceway,"Created to prepare racers for the 2020 AWS DeepRacer League, the AWS Summit Raceway provides a solid training warm up for any agent.
 
 Length: 22.57 m (74')
-Width: 91 cm (36"")",1575158400000,49,22.57,91.0,156
+Width: 91 cm (36"")",1575158400000,49,22.57,91.0,160
 54,arn:aws:deepracer:us-east-1::track/Canada_Training,Toronto Turnpike Training,"October’s training track for the 2019 Virtual Circuit World Tour, the Toronto Turnpike bookends a variety of subtle curves with two hairpins.
 
 Length: 21.74 m (71.33')
@@ -137,4 +137,4 @@ Width: 76 cm (30"")",1551398400000,92,19.55,76.0,266
 62,arn:aws:deepracer:us-east-1::track/reInvent2019_wide,A to Z Speedway,"It’s easier for an agent to navigate this extra wide version of re:Invent 2018. Use it to get started with object avoidance and head-to-head race training.
 
 Length: 16.64 m (54.59')
-Width: 107 cm (42"")",1548979200000,94,16.64,107.0,789
+Width: 107 cm (42"")",1548979200000,94,16.64,107.0,790
