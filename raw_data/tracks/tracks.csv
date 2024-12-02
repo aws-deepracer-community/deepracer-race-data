@@ -56,7 +56,7 @@ Width: 135 cm (53"")",1604966400000,78,60.0,135.0,70
 42,arn:aws:deepracer:us-east-1::track/Monaco,European Seaside Circuit,"A highly technical track, the European Seaside Circuit’s tight turns weave through a timeless Mediterranean cliffside village, without buildings.
 
 Length: 60 m (197')
-Width: 128 cm (50"")",1604966400000,61,60.0,128.0,214
+Width: 128 cm (50"")",1604966400000,61,60.0,128.0,215
 43,arn:aws:deepracer:us-east-1::track/Aragon,Stratus Loop,"An all-out sprint to the finish line, the Stratus Loop is a speed-loving track featuring two massive straightaways punctuated by broad, sweeping hairpins.
 
 Length: 60 m (197')
@@ -85,7 +85,7 @@ Width: 107 cm (42"")",1588291200000,31,60.0,107.0,123
 49,arn:aws:deepracer:us-east-1::track/reInvent2019_track,Smile Speedway,"The official track for the 2019 AWS DeepRacer Championship Cup finals, this is a moderately challenging track ideal for stepping up your training and experimentation.
 
 Length: 23.12 m (75.85')
-Width: 107 cm (42"")",1585699200000,88,23.12,107.0,2137
+Width: 107 cm (42"")",1585699200000,88,23.12,107.0,2138
 50,arn:aws:deepracer:us-east-1::track/reinvent_base,re:Invent 2018,"Inspired by Monza, re:Invent 2018 was the first Championship Cup track. This short, classic speedway remains a perennial rookie favorite.
 
 Length: 17.6 m (57.97')
@@ -133,7 +133,7 @@ Width: 76 cm (30"")",1554076800000,50,17.43,76.0,130
 61,arn:aws:deepracer:us-east-1::track/Oval_track,Oval Track,"Inspired by Indy Speedway, the Oval Track is simple and gives the agent space to learn different strategies. It’s a good choice for getting started.
 
 Length: 19.55 m (64.14')
-Width: 76 cm (30"")",1551398400000,92,19.55,76.0,266
+Width: 76 cm (30"")",1551398400000,92,19.55,76.0,267
 62,arn:aws:deepracer:us-east-1::track/reInvent2019_wide,A to Z Speedway,"It’s easier for an agent to navigate this extra wide version of re:Invent 2018. Use it to get started with object avoidance and head-to-head race training.
 
 Length: 16.64 m (54.59')
