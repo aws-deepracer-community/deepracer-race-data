@@ -89,7 +89,7 @@ Width: 107 cm (42"")",1585699200000,88,23.12,107.0,2144
 50,arn:aws:deepracer:us-east-1::track/reinvent_base,re:Invent 2018,"Inspired by Monza, re:Invent 2018 was the first Championship Cup track. This short, classic speedway remains a perennial rookie favorite.
 
 Length: 17.6 m (57.97')
-Width: 76 cm (30"")",1583020800000,69,17.6,76.0,4962
+Width: 76 cm (30"")",1583020800000,69,17.6,76.0,4966
 51,arn:aws:deepracer:us-east-1::track/AmericasGeneratedInclStart,Baadal Track,"“Baadal” is the Hindi word for “cloud.” The Baadal Track’s tight winding corners open up into long arching straightaways, perfect for passing opportunities.
 
 Length: 39 m (128')
@@ -101,7 +101,7 @@ Width: 106 cm (42"")",1577836800000,50,38.0,106.0,52
 53,arn:aws:deepracer:us-east-1::track/Vegas_track,AWS Summit Raceway,"Created to prepare racers for the 2020 AWS DeepRacer League, the AWS Summit Raceway provides a solid training warm up for any agent.
 
 Length: 22.57 m (74')
-Width: 91 cm (36"")",1575158400000,49,22.57,91.0,163
+Width: 91 cm (36"")",1575158400000,49,22.57,91.0,164
 54,arn:aws:deepracer:us-east-1::track/Canada_Training,Toronto Turnpike Training,"October’s training track for the 2019 Virtual Circuit World Tour, the Toronto Turnpike bookends a variety of subtle curves with two hairpins.
 
 Length: 21.74 m (71.33')
@@ -137,4 +137,4 @@ Width: 76 cm (30"")",1551398400000,92,19.55,76.0,267
 62,arn:aws:deepracer:us-east-1::track/reInvent2019_wide,A to Z Speedway,"It’s easier for an agent to navigate this extra wide version of re:Invent 2018. Use it to get started with object avoidance and head-to-head race training.
 
 Length: 16.64 m (54.59')
-Width: 107 cm (42"")",1548979200000,94,16.64,107.0,798
+Width: 107 cm (42"")",1548979200000,94,16.64,107.0,799
