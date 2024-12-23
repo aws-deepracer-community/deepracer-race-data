@@ -31,7 +31,7 @@ Rank,TrackArn,TrackName,TrackDescription,TrackReleaseTime,TrackDifficulty,TrackL
 29,arn:aws:deepracer:us-east-1::track/dubai_open,Baja Turnpike,"At 40.79m, the Baja Turnpike is a short angular track that mixes full throttle straightaways with hard decelerating turns. Signature features include a long high speed sprint over the finish line end capped by a harsh hairpin and tight 90 degree turn. While you won't find any sand traps on this course there are no shortage of places to get stuck.",1625072280000,50,40.56,1.07,163
 30,arn:aws:deepracer:us-east-1::track/hamption_open,Kuei Raceway,"Kuei Raceway is a fast short track (46.15m) with a friendly high speed arch and two straightaways interspersed between 2 hairpins, a chicane, and a technical cutback hairpin. It is named after 3rd place DeepRacer League finalists Kuei of NCTU CGI Taiwan.",1623368700000,52,45.93,1.06,11
 31,arn:aws:deepracer:us-east-1::track/jyllandsringen_pro,Cosmic Circuit,Cosmic Circuit expands the universe of its short loop cohort (62.24m). The pro difficulty course adds a deceivingly technical section with multiple 90 degree turns separating meandering sprints void of a true straightaway.,1621978121676,37,62.02,1.06,154
-32,arn:aws:deepracer:us-east-1::track/jyllandsringen_open,Cosmic Loop,Cosmic Loop is a short track (46.18m) that features a single sprint straightaway and a challenging technical section with multiple 90 degree turns and and two hairpins. A successful run will require skillful command of time (steps) and (action) space.,1621977289088,50,46.12,1.06,100
+32,arn:aws:deepracer:us-east-1::track/jyllandsringen_open,Cosmic Loop,Cosmic Loop is a short track (46.18m) that features a single sprint straightaway and a challenging technical section with multiple 90 degree turns and and two hairpins. A successful run will require skillful command of time (steps) and (action) space.,1621977289088,50,46.12,1.06,101
 33,arn:aws:deepracer:us-east-1::track/hamption_pro,Kuei Super Raceway,Kuei Super Raceway adds pro difficulty to its short track counterpart by extending overall length in the form of a straightaway with a technical 4x double apex section. It is named after 3rd place DeepRacer League finalists Kuei of NCTU CGI Taiwan.,1619827200000,35,60.74,1.06,33
 34,arn:aws:deepracer:us-east-1::track/thunder_hill_pro,Lars Circuit,Lars Circuit is a pro difficulty track that adds an increasing to decreasing double apex and multiple high speed straightaways to its shorter cohort Lars Loop. It is named in honor of 2020 AWS DeepRacer League silver medalist Lars Ludvigsen (Duckworth).,1617235201000,28,59.23,107.0,111
 35,arn:aws:deepracer:us-east-1::track/thunder_hill_open,Lars Loop,"Lars Loop is a short track comprised of a modified oval with increasing radius and double apex, a varying double chicane, and a broad hairpin final stretch. It is named in honor of 2020 AWS DeepRacer League silver medalist Lars Ludvigsen (Duckworth).",1617235201000,34,41.55,107.0,62
@@ -85,11 +85,11 @@ Width: 107 cm (42"")",1588291200000,31,60.0,107.0,125
 49,arn:aws:deepracer:us-east-1::track/reInvent2019_track,Smile Speedway,"The official track for the 2019 AWS DeepRacer Championship Cup finals, this is a moderately challenging track ideal for stepping up your training and experimentation.
 
 Length: 23.12 m (75.85')
-Width: 107 cm (42"")",1585699200000,88,23.12,107.0,2145
+Width: 107 cm (42"")",1585699200000,88,23.12,107.0,2147
 50,arn:aws:deepracer:us-east-1::track/reinvent_base,re:Invent 2018,"Inspired by Monza, re:Invent 2018 was the first Championship Cup track. This short, classic speedway remains a perennial rookie favorite.
 
 Length: 17.6 m (57.97')
-Width: 76 cm (30"")",1583020800000,69,17.6,76.0,5001
+Width: 76 cm (30"")",1583020800000,69,17.6,76.0,5015
 51,arn:aws:deepracer:us-east-1::track/AmericasGeneratedInclStart,Baadal Track,"“Baadal” is the Hindi word for “cloud.” The Baadal Track’s tight winding corners open up into long arching straightaways, perfect for passing opportunities.
 
 Length: 39 m (128')
