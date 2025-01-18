@@ -1,6 +1,6 @@
 Rank,TrackArn,TrackName,TrackDescription,TrackReleaseTime,TrackDifficulty,TrackLength,TrackWidth,TrackUsageCount
 1,arn:aws:deepracer:us-east-1::track/2024_reinvent_champ,Forever Raceway,"The Forever Raceway is the grand finale of the DeepRacer Championship League. Inspired by the RL Speedway, this final track features short, narrow sprints and sharp 90-degree turns that test the ML skill sets of the world's fastest developers. Bring all your skills to this race, as it is the last and final track to crown the ultimate AWS DeepRacer Champion.",1727740800000,35,25.1,76.2,59
-2,arn:aws:deepracer:us-east-1::track/2022_reinvent_champ,2022 re:Invent Championship,Get ready to rev your engines on the official 2022 re:Invent Championship track! This is an intensely difficult track (35.87 m) featuring a technical chicane section that will challenge even the most skilled developers.,1664557200000,10,33.27,0.95,390
+2,arn:aws:deepracer:us-east-1::track/2022_reinvent_champ,2022 re:Invent Championship,Get ready to rev your engines on the official 2022 re:Invent Championship track! This is an intensely difficult track (35.87 m) featuring a technical chicane section that will challenge even the most skilled developers.,1664557200000,10,33.27,0.95,425
 3,arn:aws:deepracer:us-east-1::track/2022_october_pro,Jennens Super Speedway,"The Jennens Super Speedway (62.07 m) is named in honor of the first ever racing family and 2021 re:Invent finalists James ""JJ"" and Timothy ""Flatearth"" Jennens. Pros this month will need to navigate the technical section without off tracks, and apply top speeds on the drag strips to climb the leaderboard.",1664557200000,40,62.08,1.07,40
 4,arn:aws:deepracer:us-east-1::track/2022_october_open,Jennens Family Speedway,"The Jennens Family Speedway (49.56 m) is named in honor of the first ever racing family and 2021 re:Invent finalists James ""JJ"" and Timothy ""Flatearth"" Jennens. This track features two blistering fast drag strips right into unforgiving 90 degree sweeping turns that can spin out even the most skilled developers.",1664557200000,40,49.57,1.07,11
 5,arn:aws:deepracer:us-east-1::track/2022_september_pro,Roger Super Raceway,"Are you ready rip on the Roger Super Raceway? The Roger Super Raceway was inspired by a real-life track in the home town of AWS Community Member, Roger Logan. At 60.17m this track features no shortage of lightning fast drag strips and unforgiving technical sections that will put even the most skilled developer to the test.",1661990400000,70,60.18,106.68,124
@@ -85,11 +85,11 @@ Width: 107 cm (42"")",1588291200000,31,60.0,107.0,125
 49,arn:aws:deepracer:us-east-1::track/reInvent2019_track,Smile Speedway,"The official track for the 2019 AWS DeepRacer Championship Cup finals, this is a moderately challenging track ideal for stepping up your training and experimentation.
 
 Length: 23.12 m (75.85')
-Width: 107 cm (42"")",1585699200000,88,23.12,107.0,2173
+Width: 107 cm (42"")",1585699200000,88,23.12,107.0,2176
 50,arn:aws:deepracer:us-east-1::track/reinvent_base,re:Invent 2018,"Inspired by Monza, re:Invent 2018 was the first Championship Cup track. This short, classic speedway remains a perennial rookie favorite.
 
 Length: 17.6 m (57.97')
-Width: 76 cm (30"")",1583020800000,69,17.6,76.0,5072
+Width: 76 cm (30"")",1583020800000,69,17.6,76.0,5075
 51,arn:aws:deepracer:us-east-1::track/AmericasGeneratedInclStart,Baadal Track,"“Baadal” is the Hindi word for “cloud.” The Baadal Track’s tight winding corners open up into long arching straightaways, perfect for passing opportunities.
 
 Length: 39 m (128')
@@ -113,7 +113,7 @@ Width: 76 cm (30"")",1567296000000,23,20.51,76.0,39
 56,arn:aws:deepracer:us-east-1::track/China_track,Shanghai Sudu Training,"August’s training track for the 2019 Virtual Circuit World Tour, the Shanghai Sudu is an ideal speedway for experimenting with bold corners and basic straightaways.
 
 Length: 22.92 m (75.2')
-Width: 76 cm (30"")",1564617600000,32,22.92,76.0,56
+Width: 76 cm (30"")",1564617600000,32,22.92,76.0,57
 57,arn:aws:deepracer:us-east-1::track/New_York_Track,Empire City Training,"July’s training track for the 2019 Virtual Circuit World Tour, the Empire City showcases a mix of subtle chicanes, moderate corners, and short straights.
 
 Length: 21.88 m (71.78')
@@ -137,4 +137,4 @@ Width: 76 cm (30"")",1551398400000,92,19.55,76.0,267
 62,arn:aws:deepracer:us-east-1::track/reInvent2019_wide,A to Z Speedway,"It’s easier for an agent to navigate this extra wide version of re:Invent 2018. Use it to get started with object avoidance and head-to-head race training.
 
 Length: 16.64 m (54.59')
-Width: 107 cm (42"")",1548979200000,94,16.64,107.0,822
+Width: 107 cm (42"")",1548979200000,94,16.64,107.0,825
