@@ -129,7 +129,7 @@ Width: 76 cm (30"")",1556668800000,16,19.45,76.0,57
 60,arn:aws:deepracer:us-east-1::track/Bowtie_track,Bowtie Track,"The Bowtie offers a simple symmetrical track with a twist. It features shallow turns that you can use to experiment with different racing behaviors.
 
 Length: 17.43 m (57.19')
-Width: 76 cm (30"")",1554076800000,50,17.43,76.0,132
+Width: 76 cm (30"")",1554076800000,50,17.43,76.0,131
 61,arn:aws:deepracer:us-east-1::track/Oval_track,Oval Track,"Inspired by Indy Speedway, the Oval Track is simple and gives the agent space to learn different strategies. It’s a good choice for getting started.
 
 Length: 19.55 m (64.14')
