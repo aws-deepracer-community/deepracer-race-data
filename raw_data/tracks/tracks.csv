@@ -133,7 +133,7 @@ Width: 76 cm (30"")",1554076800000,50,17.43,76.0,131
 61,arn:aws:deepracer:us-east-1::track/Oval_track,Oval Track,"Inspired by Indy Speedway, the Oval Track is simple and gives the agent space to learn different strategies. It’s a good choice for getting started.
 
 Length: 19.55 m (64.14')
-Width: 76 cm (30"")",1551398400000,92,19.55,76.0,268
+Width: 76 cm (30"")",1551398400000,92,19.55,76.0,269
 62,arn:aws:deepracer:us-east-1::track/reInvent2019_wide,A to Z Speedway,"It’s easier for an agent to navigate this extra wide version of re:Invent 2018. Use it to get started with object avoidance and head-to-head race training.
 
 Length: 16.64 m (54.59')
