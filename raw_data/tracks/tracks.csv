@@ -9,7 +9,7 @@ Rank,TrackArn,TrackName,TrackDescription,TrackReleaseTime,TrackDifficulty,TrackL
 8,arn:aws:deepracer:us-east-1::track/2022_august_open,Jochem Turnpike,"Put your developer skills to the test on the Jochem Turnpike named after AWS Machine learning Community member and re:Invent 2021 finalist, Jochem Lugtenburg. This track features no shortage of zigzags and tricky hairpin turns. Does your model have what it takes to make it around the broad, sweeping turns and climb the leaderboard? Get racing today and find out!",1659312000000,30,43.31,106.68,23
 9,arn:aws:deepracer:us-east-1::track/2022_july_pro,DBro Super Raceway,"Named after the 2021 AWS DeepRacer finalist Darren ""DBro"" Broderick, the DBro Super Raceway features 2 lightning fast dragstrips and an unforgiving technical section of hairpin turns and cutbacks. Do you have what it takes to advance or will get caught doing DOH-nuts in the green?",1656633600000,70,57.89,106.68,109
 10,arn:aws:deepracer:us-east-1::track/2022_july_open,DBro Raceway,"Get ready to burn rubber on the DBro Raceway named after 2021 AWS DeepRacer finalist Darren ""DBro"" Broderick. This track features 3 lightning fast drag strips into sweeping turns. Do you have what it takes to advance or will get caught doing DOH-nuts in the green?",1656633600000,25,40.2,106.88,37
-11,arn:aws:deepracer:us-east-1::track/2022_june_pro,BreadCentric Speedway,"The BreadCentric Speedway is named after AWS DeepRacer Community Hero, Tomasz Ptak AKA ""BreadCentric"". This track adds a deceivingly technical section with an unforgiving hairpin turn separating the varying dragstrips. The BreadCentric Speedway will test the skills of even the most experienced developer.",1654041600000,10,58.61,106.68,130
+11,arn:aws:deepracer:us-east-1::track/2022_june_pro,BreadCentric Speedway,"The BreadCentric Speedway is named after AWS DeepRacer Community Hero, Tomasz Ptak AKA ""BreadCentric"". This track adds a deceivingly technical section with an unforgiving hairpin turn separating the varying dragstrips. The BreadCentric Speedway will test the skills of even the most experienced developer.",1654041600000,10,58.61,106.68,131
 12,arn:aws:deepracer:us-east-1::track/2022_june_open,BreadCentric Loop,"The BreadCentric Loop is named after AWS DeepRacer Community Hero, Tomasz Ptak AKA ""BreadCentric"". This track challenges racers with lightning fast drag strips and variable sweeping turns. While the BreadCentric Loop seems simple expect to see no shortage of off tracks.",1654041600000,10,41.28,106.88,38
 13,arn:aws:deepracer:us-east-1::track/2022_may_open,Ross Raceway,"The Ross Raceway was named in honor of the 2021 AWS DeepRacer 3rd place Champion, Ross Williams. Expect to see racers put the pedal to the metal on the 3x dragstrips featured on the Ross Raceway, but there will be no shortage of off tracks as they navigate the various sweeping turns.",1651363200000,40,46.16,107.0,266
 14,arn:aws:deepracer:us-east-1::track/2022_may_pro,Ross Super Speedway,"The Ross Super Raceway was named in honor of the 2021 AWS DeepRacer 3rd place Champion, Ross Williams. Pro racers will be put to the test in navigating an unforgiving technical section full of variable angle turns, along with 2x lightning fast straightaways.",1651363200000,75,63.92,107.0,153
@@ -68,7 +68,7 @@ Width: 106 cm (42"")",1598918400000,33,60.0,106.0,911
 45,arn:aws:deepracer:us-east-1::track/Albert,Yun Speedway,"“Yun” is the Chinese word for “cloud.” A broad loop demanding constant cornering, the Yun Speedway is the lofty domain of the racing line specialist.
 
 Length: 51 m (167')
-Width: 107 cm (42"")",1596240000000,82,51.0,107.0,148
+Width: 107 cm (42"")",1596240000000,82,51.0,107.0,147
 46,arn:aws:deepracer:us-east-1::track/July_2020,Roger Raceway,"Named in honor of the 2019 Championship Cup bronze medalist, Roger Chu, the Roger Raceway boasts a variety of complex curves for a worthy training challenge.
 
 Length: 60 m (196.5')
@@ -85,7 +85,7 @@ Width: 107 cm (42"")",1588291200000,31,60.0,107.0,125
 49,arn:aws:deepracer:us-east-1::track/reInvent2019_track,Smile Speedway,"The official track for the 2019 AWS DeepRacer Championship Cup finals, this is a moderately challenging track ideal for stepping up your training and experimentation.
 
 Length: 23.12 m (75.85')
-Width: 107 cm (42"")",1585699200000,88,23.12,107.0,4140
+Width: 107 cm (42"")",1585699200000,88,23.12,107.0,4141
 50,arn:aws:deepracer:us-east-1::track/reinvent_base,re:Invent 2018,"Inspired by Monza, re:Invent 2018 was the first Championship Cup track. This short, classic speedway remains a perennial rookie favorite.
 
 Length: 17.6 m (57.97')
@@ -137,4 +137,4 @@ Width: 76 cm (30"")",1551398400000,92,19.55,76.0,269
 62,arn:aws:deepracer:us-east-1::track/reInvent2019_wide,A to Z Speedway,"It’s easier for an agent to navigate this extra wide version of re:Invent 2018. Use it to get started with object avoidance and head-to-head race training.
 
 Length: 16.64 m (54.59')
-Width: 107 cm (42"")",1548979200000,94,16.64,107.0,1293
+Width: 107 cm (42"")",1548979200000,94,16.64,107.0,1294
