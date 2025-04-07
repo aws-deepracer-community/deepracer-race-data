@@ -85,11 +85,11 @@ Width: 107 cm (42"")",1588291200000,31,60.0,107.0,125
 49,arn:aws:deepracer:us-east-1::track/reInvent2019_track,Smile Speedway,"The official track for the 2019 AWS DeepRacer Championship Cup finals, this is a moderately challenging track ideal for stepping up your training and experimentation.
 
 Length: 23.12 m (75.85')
-Width: 107 cm (42"")",1585699200000,88,23.12,107.0,4163
+Width: 107 cm (42"")",1585699200000,88,23.12,107.0,4164
 50,arn:aws:deepracer:us-east-1::track/reinvent_base,re:Invent 2018,"Inspired by Monza, re:Invent 2018 was the first Championship Cup track. This short, classic speedway remains a perennial rookie favorite.
 
 Length: 17.6 m (57.97')
-Width: 76 cm (30"")",1583020800000,69,17.6,76.0,5166
+Width: 76 cm (30"")",1583020800000,69,17.6,76.0,5167
 51,arn:aws:deepracer:us-east-1::track/AmericasGeneratedInclStart,Baadal Track,"“Baadal” is the Hindi word for “cloud.” The Baadal Track’s tight winding corners open up into long arching straightaways, perfect for passing opportunities.
 
 Length: 39 m (128')
@@ -121,7 +121,7 @@ Width: 76 cm (30"")",1561939200000,42,21.88,76.0,72
 58,arn:aws:deepracer:us-east-1::track/Tokyo_Training_track,Kumo Torakku Training,"June’s training track for the 2019 Virtual Circuit World Tour, the Kumo Torakku is complex and dramatic, featuring two 180-degree turns and a longstraightaway.
 
 Length: 22.63 m (74.25')
-Width: 76 cm (30"")",1559347200000,31,22.63,76.0,34
+Width: 76 cm (30"")",1559347200000,31,22.63,76.0,35
 59,arn:aws:deepracer:us-east-1::track/Virtual_May19_Train_track,London Loop Training,"May’s training track for the 2019 Virtual Circuit World Tour, the London Loop provides a variety of moderate curves and straightaways.
 
 Length: 19.45 m (63.81')
@@ -137,4 +137,4 @@ Width: 76 cm (30"")",1551398400000,92,19.55,76.0,269
 62,arn:aws:deepracer:us-east-1::track/reInvent2019_wide,A to Z Speedway,"It’s easier for an agent to navigate this extra wide version of re:Invent 2018. Use it to get started with object avoidance and head-to-head race training.
 
 Length: 16.64 m (54.59')
-Width: 107 cm (42"")",1548979200000,94,16.64,107.0,1308
+Width: 107 cm (42"")",1548979200000,94,16.64,107.0,1309
