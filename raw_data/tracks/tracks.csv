@@ -24,7 +24,7 @@ Rank,TrackArn,TrackName,TrackDescription,TrackReleaseTime,TrackDifficulty,TrackL
 22,arn:aws:deepracer:us-east-1::track/red_star_open,Expedition Loop,Go where no racer has gone before on the Expedition Loop track! This is a short track at 44.04m featuring two dragstrips and an unforgiving hairpin turn. Expect to see no shortage of off tracks on this challenging course.,1633021200000,52,43.47,1.07,13
 23,arn:aws:deepracer:us-east-1::track/red_star_pro,Expedition Super Loop,The pro racers will be drifting into uncharted territory on the Expedition Super Loop! This is a long track at 69.96m featuring exceptionally difficult hairpin turns and high speed straightaways. This track is sure to test even the most skillful racers.,1633021080000,47,69.17,1.07,400
 24,arn:aws:deepracer:us-east-1::track/morgan_pro,Playa Super Raceway, At 59.8m the Playa Super Raceway features back-to-back hairpin turns and two straightaway opportunities to generate speed. A successful run will require skillful command of time (steps) and (action) space.,1630454400000,57,59.57,1.07,144
-25,arn:aws:deepracer:us-east-1::track/morgan_open,Playa Raceway,The Playa Raceway is a short track at 45.16m featuring one long drag strip for generating speed with an unforgiving hairpin turn. While the track seems simple expect to see no shortage of off tracks.,1630454400000,55,45.06,1.07,5
+25,arn:aws:deepracer:us-east-1::track/morgan_open,Playa Raceway,The Playa Raceway is a short track at 45.16m featuring one long drag strip for generating speed with an unforgiving hairpin turn. While the track seems simple expect to see no shortage of off tracks.,1630454400000,55,45.06,1.07,6
 26,arn:aws:deepracer:us-east-1::track/arctic_pro,Hot Rod Super Speedway,"The Hot Rod Super Speedway adds pro difficulty to the short track counterpart. With a length of 59.69m, the speed loving arch is replaced by 4 short straightaways coupled with variable angle turns. Skillful racers may bisect the chicanes to extending speed generating opportunities and pull away from the pack.",1627689601000,64,59.5,1.07,180
 27,arn:aws:deepracer:us-east-1::track/arctic_open,Hot Rod Speedway,"Featuring a short length of just 42.25m, the Hot Rod Speedway caters to speed loving dragsters with multiple fast running drag strips tied together by friendly sweeping turns. Expect to see blistering fast times this month as models rev their engines and burn rubber around this track.",1627689601000,55,42.21,1.07,129
 28,arn:aws:deepracer:us-east-1::track/dubai_pro,Baja Highway,"At 65.18m, The Baja Highway extends upon the shorter turnpike with pro level difficulty and even more opportunities for generating speed. A second massive straightaway mid course is similarly capped by a hairpin and increasing radius turn, along with an unforgiving technical section full of wrought with tight cutbacks and hairpins.",1625072280000,24,64.67,1.07,78
@@ -89,7 +89,7 @@ Width: 107 cm (42"")",1585699200000,88,23.12,107.0,4236
 50,arn:aws:deepracer:us-east-1::track/reinvent_base,re:Invent 2018,"Inspired by Monza, re:Invent 2018 was the first Championship Cup track. This short, classic speedway remains a perennial rookie favorite.
 
 Length: 17.6 m (57.97')
-Width: 76 cm (30"")",1583020800000,69,17.6,76.0,5241
+Width: 76 cm (30"")",1583020800000,69,17.6,76.0,5242
 51,arn:aws:deepracer:us-east-1::track/AmericasGeneratedInclStart,Baadal Track,"“Baadal” is the Hindi word for “cloud.” The Baadal Track’s tight winding corners open up into long arching straightaways, perfect for passing opportunities.
 
 Length: 39 m (128')
