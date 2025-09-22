@@ -89,7 +89,7 @@ Width: 107 cm (42"")",1585699200000,88,23.12,107.0,4346
 50,arn:aws:deepracer:us-east-1::track/reinvent_base,re:Invent 2018,"Inspired by Monza, re:Invent 2018 was the first Championship Cup track. This short, classic speedway remains a perennial rookie favorite.
 
 Length: 17.6 m (57.97')
-Width: 76 cm (30"")",1583020800000,69,17.6,76.0,5356
+Width: 76 cm (30"")",1583020800000,69,17.6,76.0,5360
 51,arn:aws:deepracer:us-east-1::track/AmericasGeneratedInclStart,Baadal Track,"“Baadal” is the Hindi word for “cloud.” The Baadal Track’s tight winding corners open up into long arching straightaways, perfect for passing opportunities.
 
 Length: 39 m (128')
@@ -117,7 +117,7 @@ Width: 76 cm (30"")",1564617600000,32,22.92,76.0,61
 57,arn:aws:deepracer:us-east-1::track/New_York_Track,Empire City Training,"July’s training track for the 2019 Virtual Circuit World Tour, the Empire City showcases a mix of subtle chicanes, moderate corners, and short straights.
 
 Length: 21.88 m (71.78')
-Width: 76 cm (30"")",1561939200000,42,21.88,76.0,73
+Width: 76 cm (30"")",1561939200000,42,21.88,76.0,74
 58,arn:aws:deepracer:us-east-1::track/Tokyo_Training_track,Kumo Torakku Training,"June’s training track for the 2019 Virtual Circuit World Tour, the Kumo Torakku is complex and dramatic, featuring two 180-degree turns and a longstraightaway.
 
 Length: 22.63 m (74.25')
