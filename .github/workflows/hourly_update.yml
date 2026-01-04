@@ -4,10 +4,6 @@ name: Hourly leaderboard update
 
 # Controls when the action will run.
 on:
-  schedule:
-    # Every hour, 1 minute past the hour.
-    - cron: "1 * * * *"
-
   # Allows you to run this workflow manually from the Actions tab
   workflow_dispatch:
 
